@@ -1,0 +1,1226 @@
+,Country,Region,Year,Happiness Score,Economy ,Family,Health,Freedom ,Generosity,Government trust,Financial status,Government status,Health level
+0,Switzerland,Western Europe,2015.0,7.6,1.4,1.4,0.9,0.7,0.3,0.4,Financially well-off,High government trust,Very healthy
+1,Iceland,Western Europe,2015.0,7.6,1.3,1.4,1.0,0.6,0.4,0.1,Financially average,Low government trust,Very healthy
+2,Denmark,Western Europe,2015.0,7.5,1.3,1.4,0.9,0.6,0.3,0.5,Financially average,High government trust,Very healthy
+3,Norway,Western Europe,2015.0,7.5,1.5,1.3,0.9,0.7,0.4,0.4,Financially well-off,High government trust,Very healthy
+4,Canada,North America,2015.0,7.4,1.3,1.3,0.9,0.6,0.5,0.3,Financially average,Average government trust,Very healthy
+5,Finland,Western Europe,2015.0,7.4,1.3,1.3,0.9,0.6,0.2,0.4,Financially average,High government trust,Very healthy
+6,Netherlands,Western Europe,2015.0,7.4,1.3,1.3,0.9,0.6,0.5,0.3,Financially average,Average government trust,Very healthy
+7,Sweden,Western Europe,2015.0,7.4,1.3,1.3,0.9,0.7,0.4,0.4,Financially average,High government trust,Very healthy
+8,New Zealand,Australia and New Zealand,2015.0,7.3,1.2,1.3,0.9,0.6,0.5,0.4,Financially average,High government trust,Very healthy
+9,Australia,Australia and New Zealand,2015.0,7.3,1.3,1.3,0.9,0.6,0.4,0.4,Financially average,High government trust,Very healthy
+10,Israel,Middle East and Northern Africa,2015.0,7.3,1.2,1.2,0.9,0.4,0.3,0.1,Financially average,Low government trust,Very healthy
+11,Costa Rica,Latin America and Caribbean,2015.0,7.2,1.0,1.2,0.9,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+12,Austria,Western Europe,2015.0,7.2,1.3,1.3,0.9,0.6,0.3,0.2,Financially average,Low government trust,Very healthy
+13,Mexico,Latin America and Caribbean,2015.0,7.2,1.0,0.9,0.8,0.5,0.1,0.2,Financially average,Low government trust,Very healthy
+14,United States of America,North America,2015.0,7.1,1.4,1.2,0.9,0.6,0.4,0.2,Financially well-off,Low government trust,Very healthy
+15,Brazil,Latin America and Caribbean,2015.0,7.0,1.0,1.2,0.7,0.5,0.2,0.2,Financially average,Low government trust,Very healthy
+16,Luxembourg,Western Europe,2015.0,7.0,1.6,1.2,0.9,0.6,0.3,0.4,Financially well-off,High government trust,Very healthy
+17,Ireland,Western Europe,2015.0,6.9,1.3,1.4,0.9,0.6,0.5,0.3,Financially average,Average government trust,Very healthy
+18,Belgium,Western Europe,2015.0,6.9,1.3,1.3,0.9,0.6,0.2,0.2,Financially average,Low government trust,Very healthy
+19,United Arab Emirates,Middle East and Northern Africa,2015.0,6.9,1.4,1.1,0.8,0.6,0.3,0.4,Financially well-off,High government trust,Very healthy
+20,United Kingdom,Western Europe,2015.0,6.9,1.3,1.3,0.9,0.6,0.5,0.3,Financially average,Average government trust,Very healthy
+21,Oman,Middle East and Northern Africa,2015.0,6.8,1.4,1.1,0.8,0.6,0.2,0.3,Financially well-off,Average government trust,Very healthy
+22,Venezuela,Latin America and Caribbean,2015.0,6.8,1.0,1.3,0.7,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+23,Singapore,Southeastern Asia,2015.0,6.8,1.5,1.0,1.0,0.5,0.3,0.5,Financially well-off,High government trust,Very healthy
+24,Panama,Latin America and Caribbean,2015.0,6.8,1.1,1.2,0.8,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+25,Germany,Western Europe,2015.0,6.8,1.3,1.3,0.9,0.6,0.3,0.2,Financially average,Low government trust,Very healthy
+26,Chile,Latin America and Caribbean,2015.0,6.7,1.1,1.1,0.9,0.4,0.3,0.1,Financially average,Low government trust,Very healthy
+27,Qatar,Middle East and Northern Africa,2015.0,6.6,1.7,1.1,0.8,0.6,0.3,0.5,Financially well-off,High government trust,Very healthy
+28,France,Western Europe,2015.0,6.6,1.3,1.3,1.0,0.6,0.1,0.2,Financially average,Low government trust,Very healthy
+29,Argentina,Latin America and Caribbean,2015.0,6.6,1.0,1.2,0.8,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+30,Czech Republic,Central and Eastern Europe,2015.0,6.5,1.2,1.2,0.8,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+31,Uruguay,Latin America and Caribbean,2015.0,6.5,1.1,1.2,0.8,0.6,0.2,0.2,Financially average,Low government trust,Very healthy
+32,Colombia,Latin America and Caribbean,2015.0,6.5,0.9,1.2,0.7,0.5,0.2,0.0,Financially average,Low government trust,Very healthy
+33,Thailand,Southeastern Asia,2015.0,6.5,1.0,1.3,0.7,0.6,0.6,0.0,Financially average,Low government trust,Very healthy
+34,Saudi Arabia,Middle East and Northern Africa,2015.0,6.4,1.4,1.1,0.7,0.3,0.1,0.3,Financially well-off,Average government trust,Very healthy
+35,Spain,Western Europe,2015.0,6.3,1.2,1.3,1.0,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+36,Malta,Western Europe,2015.0,6.3,1.2,1.3,0.9,0.6,0.5,0.1,Financially average,Low government trust,Very healthy
+37,Taiwan,Eastern Asia,2015.0,6.3,1.3,1.1,0.9,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+38,Kuwait,Middle East and Northern Africa,2015.0,6.3,1.6,1.2,0.7,0.6,0.2,0.3,Financially well-off,Average government trust,Very healthy
+39,Suriname,Latin America and Caribbean,2015.0,6.3,1.0,1.0,0.6,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+40,Trinidad and Tobago,Latin America and Caribbean,2015.0,6.2,1.2,1.2,0.6,0.6,0.3,0.0,Financially average,Low government trust,Very healthy
+41,El Salvador,Latin America and Caribbean,2015.0,6.1,0.8,1.0,0.7,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+42,Guatemala,Latin America and Caribbean,2015.0,6.1,0.8,1.0,0.6,0.6,0.3,0.1,Financially average,Low government trust,Very healthy
+43,Uzbekistan,Central and Eastern Europe,2015.0,6.0,0.6,1.3,0.6,0.7,0.2,0.3,Financially struggling,Average government trust,Very healthy
+44,Slovakia,Central and Eastern Europe,2015.0,6.0,1.2,1.3,0.8,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+45,Japan,Eastern Asia,2015.0,6.0,1.3,1.3,1.0,0.5,0.1,0.2,Financially average,Low government trust,Very healthy
+46,South Korea,Eastern Asia,2015.0,6.0,1.2,1.0,1.0,0.3,0.2,0.1,Financially average,Low government trust,Very healthy
+47,Ecuador,Latin America and Caribbean,2015.0,6.0,0.9,1.0,0.8,0.5,0.1,0.2,Financially average,Low government trust,Very healthy
+48,Bahrain,Middle East and Northern Africa,2015.0,6.0,1.3,1.2,0.8,0.4,0.2,0.3,Financially average,Average government trust,Very healthy
+49,Italy,Western Europe,2015.0,6.0,1.2,1.2,1.0,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+50,Bolivia,Latin America and Caribbean,2015.0,5.9,0.7,1.0,0.5,0.6,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+51,Moldova,Central and Eastern Europe,2015.0,5.9,0.6,1.0,0.6,0.3,0.2,0.0,Financially struggling,Low government trust,Very healthy
+52,Paraguay,Latin America and Caribbean,2015.0,5.9,0.8,1.3,0.7,0.5,0.3,0.1,Financially average,Low government trust,Very healthy
+53,Kazakhstan,Central and Eastern Europe,2015.0,5.9,1.1,1.1,0.6,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+54,Slovenia,Central and Eastern Europe,2015.0,5.8,1.2,1.3,0.9,0.6,0.2,0.0,Financially average,Low government trust,Very healthy
+55,Lithuania,Central and Eastern Europe,2015.0,5.8,1.2,1.3,0.7,0.2,0.0,0.0,Financially average,Low government trust,Very healthy
+56,Nicaragua,Latin America and Caribbean,2015.0,5.8,0.6,1.1,0.7,0.6,0.3,0.2,Financially struggling,Low government trust,Very healthy
+57,Peru,Latin America and Caribbean,2015.0,5.8,0.9,1.0,0.7,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+58,Belarus,Central and Eastern Europe,2015.0,5.8,1.0,1.2,0.7,0.4,0.1,0.2,Financially average,Low government trust,Very healthy
+59,Poland,Central and Eastern Europe,2015.0,5.8,1.1,1.3,0.8,0.5,0.2,0.0,Financially average,Low government trust,Very healthy
+60,Malaysia,Southeastern Asia,2015.0,5.8,1.1,1.1,0.7,0.5,0.3,0.1,Financially average,Low government trust,Very healthy
+61,Croatia,Central and Eastern Europe,2015.0,5.8,1.1,0.8,0.8,0.3,0.0,0.0,Financially average,Low government trust,Very healthy
+62,Libya,Middle East and Northern Africa,2015.0,5.8,1.1,1.1,0.7,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+63,Russia,Central and Eastern Europe,2015.0,5.7,1.1,1.2,0.7,0.4,0.0,0.0,Financially average,Low government trust,Very healthy
+64,Jamaica,Latin America and Caribbean,2015.0,5.7,0.8,1.2,0.7,0.5,0.2,0.0,Financially average,Low government trust,Very healthy
+65,North Cyprus,Western Europe,2015.0,5.7,1.2,1.1,0.9,0.5,0.3,0.1,Financially average,Low government trust,Very healthy
+66,Cyprus,Western Europe,2015.0,5.7,1.2,0.9,0.9,0.4,0.3,0.1,Financially average,Low government trust,Very healthy
+67,Algeria,Middle East and Northern Africa,2015.0,5.6,0.9,1.1,0.6,0.3,0.1,0.2,Financially average,Low government trust,Very healthy
+68,Kosovo,Central and Eastern Europe,2015.0,5.6,0.8,0.8,0.6,0.2,0.3,0.0,Financially average,Low government trust,Very healthy
+69,Turkmenistan,Central and Eastern Europe,2015.0,5.6,1.0,1.2,0.5,0.5,0.2,0.3,Financially average,Average government trust,Moderately healthy
+70,Mauritius,Sub-Saharan Africa,2015.0,5.5,1.0,1.0,0.7,0.6,0.4,0.1,Financially average,Low government trust,Very healthy
+71,Hong Kong,Eastern Asia,2015.0,5.5,1.4,1.1,1.0,0.6,0.4,0.4,Financially well-off,High government trust,Very healthy
+72,Estonia,Central and Eastern Europe,2015.0,5.4,1.2,1.2,0.8,0.4,0.1,0.2,Financially average,Low government trust,Very healthy
+73,Indonesia,Southeastern Asia,2015.0,5.4,0.8,1.1,0.6,0.5,0.5,0.0,Financially average,Low government trust,Very healthy
+74,Vietnam,Southeastern Asia,2015.0,5.4,0.6,0.9,0.8,0.6,0.2,0.1,Financially struggling,Low government trust,Very healthy
+75,Turkey,Middle East and Northern Africa,2015.0,5.3,1.1,1.0,0.7,0.2,0.1,0.2,Financially average,Low government trust,Very healthy
+76,Kyrgyzstan,Central and Eastern Europe,2015.0,5.3,0.5,1.2,0.6,0.4,0.3,0.0,Financially struggling,Low government trust,Very healthy
+77,Nigeria,Sub-Saharan Africa,2015.0,5.3,0.6,0.9,0.2,0.3,0.3,0.0,Financially struggling,Low government trust,Not healthy
+78,Bhutan,Southern Asia,2015.0,5.2,0.8,1.1,0.6,0.5,0.5,0.2,Financially average,Low government trust,Very healthy
+79,Azerbaijan,Central and Eastern Europe,2015.0,5.2,1.0,0.9,0.6,0.4,0.1,0.2,Financially average,Low government trust,Very healthy
+80,Pakistan,Southern Asia,2015.0,5.2,0.6,0.4,0.5,0.1,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+81,Jordan,Middle East and Northern Africa,2015.0,5.2,0.9,1.0,0.7,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+82,Montenegro,Central and Eastern Europe,2015.0,5.2,1.0,0.9,0.7,0.2,0.2,0.1,Financially average,Low government trust,Very healthy
+83,China,Eastern Asia,2015.0,5.1,0.9,1.0,0.8,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+84,Zambia,Sub-Saharan Africa,2015.0,5.1,0.5,0.9,0.3,0.5,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+85,Romania,Central and Eastern Europe,2015.0,5.1,1.0,0.9,0.8,0.4,0.1,0.0,Financially average,Low government trust,Very healthy
+86,Republic of Serbia,Central and Eastern Europe,2015.0,5.1,0.9,1.0,0.8,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+87,Portugal,Western Europe,2015.0,5.1,1.2,1.1,0.9,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+88,Latvia,Central and Eastern Europe,2015.0,5.1,1.1,1.1,0.7,0.3,0.2,0.1,Financially average,Low government trust,Very healthy
+89,Philippines,Southeastern Asia,2015.0,5.1,0.7,1.0,0.6,0.6,0.2,0.1,Financially struggling,Low government trust,Very healthy
+90,Somaliland region,Sub-Saharan Africa,2015.0,5.1,0.2,1.0,0.4,0.5,0.5,0.4,Financially struggling,High government trust,Moderately healthy
+91,Morocco,Middle East and Northern Africa,2015.0,5.0,0.7,0.6,0.6,0.4,0.1,0.1,Financially struggling,Low government trust,Very healthy
+92,Macedonia,Central and Eastern Europe,2015.0,5.0,0.9,1.0,0.7,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+93,Mozambique,Sub-Saharan Africa,2015.0,5.0,0.1,1.0,0.1,0.3,0.2,0.2,Financially struggling,Low government trust,Not healthy
+94,Albania,Central and Eastern Europe,2015.0,5.0,0.9,0.8,0.8,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+95,Bosnia and Herzegovina,Central and Eastern Europe,2015.0,5.0,0.8,0.9,0.8,0.1,0.2,0.0,Financially average,Low government trust,Very healthy
+96,Lesotho,Sub-Saharan Africa,2015.0,4.9,0.4,1.0,0.1,0.3,0.2,0.1,Financially struggling,Low government trust,Not healthy
+97,Dominican Republic,Latin America and Caribbean,2015.0,4.9,0.9,1.2,0.7,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+98,Laos,Southeastern Asia,2015.0,4.9,0.6,0.7,0.6,0.6,0.4,0.2,Financially struggling,Low government trust,Very healthy
+99,Mongolia,Eastern Asia,2015.0,4.9,0.8,1.3,0.6,0.4,0.3,0.0,Financially average,Low government trust,Very healthy
+100,Swaziland,Sub-Saharan Africa,2015.0,4.9,0.7,1.1,0.1,0.3,0.2,0.0,Financially struggling,Low government trust,Not healthy
+101,Greece,Western Europe,2015.0,4.9,1.2,0.9,0.9,0.1,0.0,0.0,Financially average,Low government trust,Very healthy
+102,Lebanon,Middle East and Northern Africa,2015.0,4.8,1.0,0.8,0.8,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+103,Hungary,Central and Eastern Europe,2015.0,4.8,1.1,1.2,0.8,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+104,Honduras,Latin America and Caribbean,2015.0,4.8,0.6,1.0,0.7,0.4,0.2,0.1,Financially struggling,Low government trust,Very healthy
+105,Tajikistan,Central and Eastern Europe,2015.0,4.8,0.4,0.9,0.6,0.5,0.2,0.2,Financially struggling,Low government trust,Very healthy
+106,Tunisia,Middle East and Northern Africa,2015.0,4.7,0.9,0.6,0.7,0.3,0.1,0.1,Financially average,Low government trust,Very healthy
+107,Palestinian Territories,Middle East and Northern Africa,2015.0,4.7,0.6,0.9,0.7,0.2,0.1,0.1,Financially struggling,Low government trust,Very healthy
+108,Bangladesh,Southern Asia,2015.0,4.7,0.4,0.4,0.6,0.4,0.2,0.1,Financially struggling,Low government trust,Very healthy
+109,Iran,Middle East and Northern Africa,2015.0,4.7,1.0,0.5,0.7,0.3,0.4,0.1,Financially average,Low government trust,Very healthy
+110,Ukraine,Central and Eastern Europe,2015.0,4.7,0.8,1.2,0.7,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+111,Iraq,Middle East and Northern Africa,2015.0,4.7,1.0,0.8,0.6,0.0,0.2,0.1,Financially average,Low government trust,Very healthy
+112,South Africa,Sub-Saharan Africa,2015.0,4.6,0.9,1.2,0.3,0.3,0.1,0.1,Financially average,Low government trust,Moderately healthy
+113,Ghana,Sub-Saharan Africa,2015.0,4.6,0.6,0.7,0.4,0.4,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+114,Zimbabwe,Sub-Saharan Africa,2015.0,4.6,0.3,1.0,0.3,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+115,Liberia,Sub-Saharan Africa,2015.0,4.6,0.1,0.8,0.3,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+116,India,Southern Asia,2015.0,4.6,0.6,0.4,0.5,0.4,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+117,Sudan,Sub-Saharan Africa,2015.0,4.6,0.5,1.0,0.4,0.1,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+118,Haiti,Latin America and Caribbean,2015.0,4.5,0.3,0.7,0.4,0.2,0.5,0.2,Financially struggling,Low government trust,Moderately healthy
+119,Nepal,Southern Asia,2015.0,4.5,0.4,0.9,0.6,0.4,0.3,0.1,Financially struggling,Low government trust,Very healthy
+120,Ethiopia,Sub-Saharan Africa,2015.0,4.5,0.2,0.6,0.4,0.4,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+121,Sierra Leone,Sub-Saharan Africa,2015.0,4.5,0.3,1.0,0.0,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+122,Mauritania,Sub-Saharan Africa,2015.0,4.4,0.4,0.9,0.4,0.2,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+123,Kenya,Sub-Saharan Africa,2015.0,4.4,0.4,1.0,0.4,0.4,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+124,Djibouti,Sub-Saharan Africa,2015.0,4.4,0.4,0.6,0.4,0.5,0.2,0.3,Financially struggling,Average government trust,Moderately healthy
+125,Armenia,Central and Eastern Europe,2015.0,4.4,0.8,0.8,0.7,0.2,0.1,0.0,Financially average,Low government trust,Very healthy
+126,Botswana,Sub-Saharan Africa,2015.0,4.3,1.0,1.1,0.0,0.5,0.1,0.1,Financially average,Low government trust,Not healthy
+127,Myanmar,Southeastern Asia,2015.0,4.3,0.3,0.7,0.5,0.4,0.8,0.2,Financially struggling,Low government trust,Moderately healthy
+128,Georgia,Central and Eastern Europe,2015.0,4.3,0.7,0.4,0.7,0.4,0.1,0.4,Financially struggling,High government trust,Very healthy
+129,Malawi,Sub-Saharan Africa,2015.0,4.3,0.0,0.4,0.2,0.4,0.3,0.1,Financially struggling,Low government trust,Not healthy
+130,Sri Lanka,Southern Asia,2015.0,4.3,0.8,1.0,0.7,0.5,0.4,0.1,Financially average,Low government trust,Very healthy
+131,Cameroon,Sub-Saharan Africa,2015.0,4.2,0.4,0.9,0.2,0.5,0.2,0.1,Financially struggling,Low government trust,Not healthy
+132,Bulgaria,Central and Eastern Europe,2015.0,4.2,1.0,1.1,0.8,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+133,Egypt,Middle East and Northern Africa,2015.0,4.2,0.9,0.8,0.6,0.2,0.1,0.1,Financially average,Low government trust,Very healthy
+134,Yemen,Middle East and Northern Africa,2015.0,4.1,0.6,0.7,0.4,0.4,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+135,Angola,Sub-Saharan Africa,2015.0,4.0,0.8,0.9,0.2,0.1,0.1,0.1,Financially average,Low government trust,Not healthy
+136,Mali,Sub-Saharan Africa,2015.0,4.0,0.3,1.0,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+137,Democratic Republic of the Congo,Sub-Saharan Africa,2015.0,4.0,0.7,0.7,0.3,0.4,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+138,Comoros,Sub-Saharan Africa,2015.0,4.0,0.2,0.8,0.4,0.2,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+139,Uganda,Sub-Saharan Africa,2015.0,3.9,0.2,1.1,0.3,0.5,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+140,Senegal,Sub-Saharan Africa,2015.0,3.9,0.4,1.0,0.4,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+141,Gabon,Sub-Saharan Africa,2015.0,3.9,1.1,0.9,0.4,0.3,0.1,0.1,Financially average,Low government trust,Moderately healthy
+142,Niger,Sub-Saharan Africa,2015.0,3.8,0.1,0.8,0.3,0.5,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+143,Cambodia,Southeastern Asia,2015.0,3.8,0.5,0.6,0.6,0.7,0.4,0.1,Financially struggling,Low government trust,Very healthy
+144,United Republic of Tanzania,Sub-Saharan Africa,2015.0,3.8,0.3,1.0,0.4,0.3,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+145,Madagascar,Sub-Saharan Africa,2015.0,3.7,0.2,0.7,0.5,0.2,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+146,Central African Republic,Sub-Saharan Africa,2015.0,3.7,0.1,0.0,0.1,0.5,0.2,0.1,Financially struggling,Low government trust,Not healthy
+147,Chad,Sub-Saharan Africa,2015.0,3.7,0.3,0.8,0.2,0.2,0.2,0.0,Financially struggling,Low government trust,Not healthy
+148,Guinea,Sub-Saharan Africa,2015.0,3.7,0.2,0.5,0.2,0.4,0.3,0.1,Financially struggling,Low government trust,Not healthy
+149,Ivory Coast,Sub-Saharan Africa,2015.0,3.7,0.5,0.8,0.2,0.5,0.2,0.2,Financially struggling,Low government trust,Not healthy
+150,Burkina Faso,Sub-Saharan Africa,2015.0,3.6,0.3,0.8,0.3,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+151,Afghanistan,Southern Asia,2015.0,3.6,0.3,0.3,0.3,0.2,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+152,Rwanda,Sub-Saharan Africa,2015.0,3.5,0.2,0.8,0.4,0.6,0.2,0.6,Financially struggling,High government trust,Moderately healthy
+153,Benin,Sub-Saharan Africa,2015.0,3.3,0.3,0.4,0.3,0.5,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+154,Syria,Middle East and Northern Africa,2015.0,3.0,0.7,0.5,0.7,0.2,0.5,0.2,Financially struggling,Low government trust,Very healthy
+155,Burundi,Sub-Saharan Africa,2015.0,2.9,0.0,0.4,0.2,0.1,0.2,0.1,Financially struggling,Low government trust,Not healthy
+156,Togo,Sub-Saharan Africa,2015.0,2.8,0.2,0.1,0.3,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+157,Denmark,Western Europe,2016.0,7.5,1.4,1.2,0.8,0.6,0.4,0.4,Financially well-off,High government trust,Very healthy
+158,Switzerland,Western Europe,2016.0,7.5,1.5,1.2,0.9,0.6,0.3,0.4,Financially well-off,High government trust,Very healthy
+159,Iceland,Western Europe,2016.0,7.5,1.4,1.2,0.9,0.6,0.5,0.2,Financially well-off,Low government trust,Very healthy
+160,Norway,Western Europe,2016.0,7.5,1.6,1.1,0.8,0.6,0.4,0.4,Financially well-off,High government trust,Very healthy
+161,Finland,Western Europe,2016.0,7.4,1.4,1.1,0.8,0.6,0.2,0.4,Financially well-off,High government trust,Very healthy
+162,Canada,North America,2016.0,7.4,1.4,1.1,0.8,0.6,0.4,0.3,Financially well-off,Average government trust,Very healthy
+163,Netherlands,Western Europe,2016.0,7.3,1.5,1.0,0.8,0.6,0.5,0.3,Financially well-off,Average government trust,Very healthy
+164,New Zealand,Australia and New Zealand,2016.0,7.3,1.4,1.2,0.8,0.6,0.5,0.4,Financially well-off,High government trust,Very healthy
+165,Australia,Australia and New Zealand,2016.0,7.3,1.4,1.1,0.8,0.6,0.5,0.3,Financially well-off,Average government trust,Very healthy
+166,Sweden,Western Europe,2016.0,7.3,1.4,1.1,0.8,0.6,0.4,0.4,Financially well-off,High government trust,Very healthy
+167,Israel,Middle East and Northern Africa,2016.0,7.3,1.3,1.0,0.8,0.4,0.3,0.1,Financially average,Low government trust,Very healthy
+168,Austria,Western Europe,2016.0,7.1,1.4,1.1,0.8,0.5,0.3,0.2,Financially well-off,Low government trust,Very healthy
+169,United States of America,North America,2016.0,7.1,1.5,1.0,0.8,0.5,0.4,0.2,Financially well-off,Low government trust,Very healthy
+170,Costa Rica,Latin America and Caribbean,2016.0,7.1,1.1,1.0,0.8,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+171,Puerto Rico,Latin America and Caribbean,2016.0,7.0,1.4,1.1,0.8,0.5,0.2,0.1,Financially well-off,Low government trust,Very healthy
+172,Germany,Western Europe,2016.0,7.0,1.4,1.1,0.8,0.5,0.3,0.3,Financially well-off,Average government trust,Very healthy
+173,Brazil,Latin America and Caribbean,2016.0,7.0,1.1,1.0,0.6,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+174,Belgium,Western Europe,2016.0,6.9,1.4,1.0,0.8,0.5,0.2,0.3,Financially well-off,Average government trust,Very healthy
+175,Ireland,Western Europe,2016.0,6.9,1.5,1.2,0.8,0.5,0.4,0.3,Financially well-off,Average government trust,Very healthy
+176,Luxembourg,Western Europe,2016.0,6.9,1.7,1.0,0.8,0.6,0.3,0.4,Financially well-off,High government trust,Very healthy
+177,Mexico,Latin America and Caribbean,2016.0,6.8,1.1,0.7,0.7,0.4,0.1,0.2,Financially average,Low government trust,Very healthy
+178,Singapore,Southeastern Asia,2016.0,6.7,1.6,0.9,1.0,0.5,0.3,0.5,Financially well-off,High government trust,Very healthy
+179,United Kingdom,Western Europe,2016.0,6.7,1.4,1.1,0.8,0.5,0.5,0.3,Financially well-off,Average government trust,Very healthy
+180,Chile,Latin America and Caribbean,2016.0,6.7,1.2,0.9,0.8,0.4,0.3,0.1,Financially average,Low government trust,Very healthy
+181,Panama,Latin America and Caribbean,2016.0,6.7,1.2,1.0,0.7,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+182,Argentina,Latin America and Caribbean,2016.0,6.6,1.2,1.1,0.7,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+183,Czech Republic,Central and Eastern Europe,2016.0,6.6,1.3,1.0,0.8,0.4,0.1,0.0,Financially average,Low government trust,Very healthy
+184,United Arab Emirates,Middle East and Northern Africa,2016.0,6.6,1.6,0.9,0.7,0.6,0.3,0.4,Financially well-off,High government trust,Very healthy
+185,Uruguay,Latin America and Caribbean,2016.0,6.5,1.2,1.0,0.7,0.5,0.2,0.2,Financially average,Low government trust,Very healthy
+186,Malta,Western Europe,2016.0,6.5,1.3,1.1,0.8,0.6,0.6,0.2,Financially average,Low government trust,Very healthy
+187,Colombia,Latin America and Caribbean,2016.0,6.5,1.0,1.0,0.6,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+188,France,Western Europe,2016.0,6.5,1.4,1.0,0.8,0.5,0.1,0.2,Financially well-off,Low government trust,Very healthy
+189,Thailand,Southeastern Asia,2016.0,6.5,1.1,1.0,0.6,0.5,0.6,0.0,Financially average,Low government trust,Very healthy
+190,Saudi Arabia,Middle East and Northern Africa,2016.0,6.4,1.5,0.8,0.6,0.4,0.2,0.3,Financially well-off,Average government trust,Very healthy
+191,Taiwan,Eastern Asia,2016.0,6.4,1.4,0.9,0.8,0.3,0.2,0.1,Financially well-off,Low government trust,Very healthy
+192,Qatar,Middle East and Northern Africa,2016.0,6.4,1.8,0.9,0.7,0.6,0.3,0.5,Financially well-off,High government trust,Very healthy
+193,Spain,Western Europe,2016.0,6.4,1.3,1.1,0.9,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+194,Algeria,Middle East and Northern Africa,2016.0,6.4,1.0,0.8,0.6,0.2,0.1,0.2,Financially average,Low government trust,Very healthy
+195,Guatemala,Latin America and Caribbean,2016.0,6.3,0.8,0.9,0.5,0.5,0.3,0.1,Financially average,Low government trust,Moderately healthy
+196,Suriname,Latin America and Caribbean,2016.0,6.3,1.1,0.8,0.5,0.5,0.2,0.1,Financially average,Low government trust,Moderately healthy
+197,Kuwait,Middle East and Northern Africa,2016.0,6.2,1.6,0.9,0.6,0.4,0.2,0.2,Financially well-off,Low government trust,Very healthy
+198,Bahrain,Middle East and Northern Africa,2016.0,6.2,1.4,0.9,0.7,0.5,0.2,0.3,Financially well-off,Average government trust,Very healthy
+199,Trinidad and Tobago,Latin America and Caribbean,2016.0,6.2,1.3,1.0,0.5,0.5,0.3,0.0,Financially average,Low government trust,Moderately healthy
+200,Venezuela,Latin America and Caribbean,2016.0,6.1,1.1,1.0,0.6,0.2,0.0,0.1,Financially average,Low government trust,Very healthy
+201,Slovakia,Central and Eastern Europe,2016.0,6.1,1.3,1.1,0.7,0.2,0.1,0.0,Financially average,Low government trust,Very healthy
+202,El Salvador,Latin America and Caribbean,2016.0,6.1,0.9,0.8,0.6,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+203,Malaysia,Southeastern Asia,2016.0,6.0,1.2,0.9,0.6,0.4,0.4,0.1,Financially average,Low government trust,Very healthy
+204,Nicaragua,Latin America and Caribbean,2016.0,6.0,0.7,0.9,0.6,0.5,0.3,0.2,Financially struggling,Low government trust,Very healthy
+205,Uzbekistan,Central and Eastern Europe,2016.0,6.0,0.7,1.2,0.5,0.6,0.3,0.3,Financially struggling,Average government trust,Moderately healthy
+206,Italy,Western Europe,2016.0,6.0,1.4,1.0,0.8,0.2,0.2,0.0,Financially well-off,Low government trust,Very healthy
+207,Ecuador,Latin America and Caribbean,2016.0,6.0,1.0,0.9,0.7,0.4,0.1,0.2,Financially average,Low government trust,Very healthy
+208,Belize,Latin America and Caribbean,2016.0,6.0,0.9,0.7,0.5,0.5,0.2,0.1,Financially average,Low government trust,Moderately healthy
+209,Japan,Eastern Asia,2016.0,5.9,1.4,1.1,0.9,0.5,0.1,0.2,Financially well-off,Low government trust,Very healthy
+210,Kazakhstan,Central and Eastern Europe,2016.0,5.9,1.2,1.0,0.6,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+211,Moldova,Central and Eastern Europe,2016.0,5.9,0.7,0.8,0.5,0.2,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+212,Russia,Central and Eastern Europe,2016.0,5.9,1.2,1.0,0.6,0.3,0.0,0.0,Financially average,Low government trust,Very healthy
+213,Poland,Central and Eastern Europe,2016.0,5.8,1.2,1.0,0.7,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+214,South Korea,Eastern Asia,2016.0,5.8,1.4,0.7,0.9,0.2,0.2,0.1,Financially well-off,Low government trust,Very healthy
+215,Bolivia,Latin America and Caribbean,2016.0,5.8,0.8,0.8,0.5,0.5,0.2,0.1,Financially average,Low government trust,Moderately healthy
+216,Lithuania,Central and Eastern Europe,2016.0,5.8,1.3,1.1,0.6,0.2,0.0,0.0,Financially average,Low government trust,Very healthy
+217,Belarus,Central and Eastern Europe,2016.0,5.8,1.1,1.0,0.6,0.3,0.1,0.2,Financially average,Low government trust,Very healthy
+218,North Cyprus,Western Europe,2016.0,5.8,1.3,0.8,0.8,0.4,0.3,0.2,Financially average,Low government trust,Very healthy
+219,Slovenia,Central and Eastern Europe,2016.0,5.8,1.3,1.1,0.8,0.5,0.3,0.0,Financially average,Low government trust,Very healthy
+220,Peru,Latin America and Caribbean,2016.0,5.7,1.0,0.8,0.6,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+221,Turkmenistan,Central and Eastern Europe,2016.0,5.7,1.1,1.0,0.4,0.4,0.2,0.3,Financially average,Average government trust,Moderately healthy
+222,Mauritius,Sub-Saharan Africa,2016.0,5.6,1.1,0.8,0.7,0.5,0.4,0.0,Financially average,Low government trust,Very healthy
+223,Libya,Middle East and Northern Africa,2016.0,5.6,1.1,1.0,0.5,0.4,0.2,0.1,Financially average,Low government trust,Moderately healthy
+224,Latvia,Central and Eastern Europe,2016.0,5.6,1.2,1.0,0.6,0.3,0.2,0.1,Financially average,Low government trust,Very healthy
+225,Cyprus,Western Europe,2016.0,5.6,1.3,0.7,0.8,0.3,0.3,0.0,Financially average,Low government trust,Very healthy
+226,Paraguay,Latin America and Caribbean,2016.0,5.5,0.9,1.1,0.6,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+227,Romania,Central and Eastern Europe,2016.0,5.5,1.2,0.7,0.7,0.4,0.1,0.0,Financially average,Low government trust,Very healthy
+228,Estonia,Central and Eastern Europe,2016.0,5.5,1.3,1.0,0.7,0.4,0.1,0.2,Financially average,Low government trust,Very healthy
+229,Jamaica,Latin America and Caribbean,2016.0,5.5,0.9,1.0,0.6,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+230,Croatia,Central and Eastern Europe,2016.0,5.5,1.2,0.6,0.7,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+231,Hong Kong,Eastern Asia,2016.0,5.5,1.5,0.9,1.0,0.5,0.4,0.3,Financially well-off,Average government trust,Very healthy
+232,Somalia,Sub-Saharan Africa,2016.0,5.4,0.0,0.3,0.1,0.6,0.3,0.3,Financially struggling,Average government trust,Not healthy
+233,Kosovo,Central and Eastern Europe,2016.0,5.4,0.9,0.7,0.5,0.1,0.3,0.1,Financially average,Low government trust,Moderately healthy
+234,Turkey,Middle East and Northern Africa,2016.0,5.4,1.2,0.9,0.6,0.2,0.0,0.1,Financially average,Low government trust,Very healthy
+235,Indonesia,Southeastern Asia,2016.0,5.3,1.0,0.9,0.5,0.4,0.6,0.0,Financially average,Low government trust,Moderately healthy
+236,Jordan,Middle East and Northern Africa,2016.0,5.3,1.0,0.9,0.6,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+237,Azerbaijan,Central and Eastern Europe,2016.0,5.3,1.1,0.8,0.6,0.4,0.1,0.2,Financially average,Low government trust,Very healthy
+238,Philippines,Southeastern Asia,2016.0,5.3,0.8,0.9,0.5,0.6,0.2,0.1,Financially average,Low government trust,Moderately healthy
+239,China,Eastern Asia,2016.0,5.2,1.0,0.8,0.7,0.4,0.0,0.0,Financially average,Low government trust,Very healthy
+240,Bhutan,Southern Asia,2016.0,5.2,0.8,0.9,0.5,0.5,0.5,0.2,Financially average,Low government trust,Moderately healthy
+241,Kyrgyzstan,Central and Eastern Europe,2016.0,5.2,0.6,1.0,0.6,0.4,0.4,0.0,Financially struggling,Low government trust,Very healthy
+242,Republic of Serbia,Central and Eastern Europe,2016.0,5.2,1.0,0.8,0.6,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+243,Bosnia and Herzegovina,Central and Eastern Europe,2016.0,5.2,0.9,0.6,0.7,0.1,0.3,0.0,Financially average,Low government trust,Very healthy
+244,Montenegro,Central and Eastern Europe,2016.0,5.2,1.1,0.7,0.6,0.2,0.2,0.1,Financially average,Low government trust,Very healthy
+245,Dominican Republic,Latin America and Caribbean,2016.0,5.2,1.0,1.0,0.6,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+246,Morocco,Middle East and Northern Africa,2016.0,5.2,0.8,0.4,0.6,0.3,0.0,0.1,Financially average,Low government trust,Very healthy
+247,Hungary,Central and Eastern Europe,2016.0,5.1,1.2,0.9,0.7,0.2,0.1,0.0,Financially average,Low government trust,Very healthy
+248,Pakistan,Southern Asia,2016.0,5.1,0.7,0.3,0.4,0.2,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+249,Lebanon,Middle East and Northern Africa,2016.0,5.1,1.1,0.6,0.8,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+250,Portugal,Western Europe,2016.0,5.1,1.3,0.9,0.8,0.4,0.1,0.0,Financially average,Low government trust,Very healthy
+251,Macedonia,Central and Eastern Europe,2016.0,5.1,1.0,0.8,0.6,0.3,0.2,0.1,Financially average,Low government trust,Very healthy
+252,Vietnam,Southeastern Asia,2016.0,5.1,0.7,0.8,0.7,0.6,0.2,0.1,Financially struggling,Low government trust,Very healthy
+253,Somaliland Region,Sub-Saharan Africa,2016.0,5.1,0.3,0.8,0.3,0.4,0.5,0.4,Financially struggling,High government trust,Moderately healthy
+254,Tunisia,Middle East and Northern Africa,2016.0,5.0,1.0,0.4,0.6,0.2,0.0,0.1,Financially average,Low government trust,Very healthy
+255,Greece,Western Europe,2016.0,5.0,1.2,0.8,0.8,0.1,0.0,0.0,Financially average,Low government trust,Very healthy
+256,Tajikistan,Central and Eastern Europe,2016.0,5.0,0.5,0.8,0.5,0.4,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+257,Mongolia,Eastern Asia,2016.0,4.9,1.0,1.1,0.6,0.4,0.4,0.0,Financially average,Low government trust,Very healthy
+258,Laos,Southeastern Asia,2016.0,4.9,0.7,0.6,0.4,0.5,0.4,0.2,Financially struggling,Low government trust,Moderately healthy
+259,Nigeria,Sub-Saharan Africa,2016.0,4.9,0.8,0.6,0.0,0.3,0.2,0.0,Financially average,Low government trust,Not healthy
+260,Honduras,Latin America and Caribbean,2016.0,4.9,0.7,0.8,0.6,0.3,0.2,0.1,Financially struggling,Low government trust,Very healthy
+261,Iran,Middle East and Northern Africa,2016.0,4.8,1.1,0.4,0.6,0.2,0.4,0.1,Financially average,Low government trust,Very healthy
+262,Zambia,Sub-Saharan Africa,2016.0,4.8,0.6,0.6,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+263,Nepal,Southern Asia,2016.0,4.8,0.4,0.7,0.5,0.4,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+264,Palestinian Territories,Middle East and Northern Africa,2016.0,4.8,0.7,0.7,0.6,0.2,0.1,0.1,Financially struggling,Low government trust,Very healthy
+265,Albania,Central and Eastern Europe,2016.0,4.7,1.0,0.5,0.7,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+266,Bangladesh,Southern Asia,2016.0,4.6,0.5,0.2,0.5,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+267,Sierra Leone,Sub-Saharan Africa,2016.0,4.6,0.4,0.6,0.0,0.3,0.2,0.1,Financially struggling,Low government trust,Not healthy
+268,Iraq,Middle East and Northern Africa,2016.0,4.6,1.1,0.6,0.5,0.2,0.2,0.1,Financially average,Low government trust,Moderately healthy
+269,Namibia,Sub-Saharan Africa,2016.0,4.6,0.9,0.7,0.4,0.5,0.1,0.1,Financially average,Low government trust,Moderately healthy
+270,Cameroon,Sub-Saharan Africa,2016.0,4.5,0.5,0.6,0.1,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+271,Ethiopia,Sub-Saharan Africa,2016.0,4.5,0.3,0.4,0.4,0.4,0.3,0.2,Financially struggling,Low government trust,Moderately healthy
+272,South Africa,Sub-Saharan Africa,2016.0,4.5,1.0,1.0,0.2,0.4,0.1,0.1,Financially average,Low government trust,Not healthy
+273,Sri Lanka,Southern Asia,2016.0,4.4,1.0,0.8,0.6,0.5,0.5,0.1,Financially average,Low government trust,Very healthy
+274,India,Southern Asia,2016.0,4.4,0.7,0.3,0.4,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+275,Myanmar,Southeastern Asia,2016.0,4.4,0.3,0.7,0.4,0.4,0.8,0.2,Financially struggling,Low government trust,Moderately healthy
+276,Egypt,Middle East and Northern Africa,2016.0,4.4,1.0,0.5,0.5,0.2,0.1,0.1,Financially average,Low government trust,Moderately healthy
+277,Armenia,Central and Eastern Europe,2016.0,4.4,0.9,0.6,0.6,0.1,0.1,0.0,Financially average,Low government trust,Very healthy
+278,Kenya,Sub-Saharan Africa,2016.0,4.4,0.5,0.8,0.3,0.4,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+279,Ukraine,Central and Eastern Europe,2016.0,4.3,0.9,1.0,0.6,0.1,0.2,0.0,Financially average,Low government trust,Very healthy
+280,Ghana,Sub-Saharan Africa,2016.0,4.3,0.6,0.5,0.3,0.4,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+281,Democratic Republic of the Congo,Sub-Saharan Africa,2016.0,4.3,0.1,0.8,0.2,0.2,0.2,0.1,Financially struggling,Low government trust,Not healthy
+282,Georgia,Central and Eastern Europe,2016.0,4.2,0.8,0.2,0.6,0.3,0.1,0.3,Financially average,Average government trust,Very healthy
+283,Senegal,Sub-Saharan Africa,2016.0,4.2,0.4,0.8,0.4,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+284,Bulgaria,Central and Eastern Europe,2016.0,4.2,1.1,0.9,0.7,0.2,0.1,0.0,Financially average,Low government trust,Very healthy
+285,Mauritania,Sub-Saharan Africa,2016.0,4.2,0.6,0.8,0.3,0.1,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+286,Zimbabwe,Sub-Saharan Africa,2016.0,4.2,0.4,0.7,0.2,0.2,0.2,0.1,Financially struggling,Low government trust,Not healthy
+287,Malawi,Sub-Saharan Africa,2016.0,4.2,0.1,0.2,0.3,0.4,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+288,Sudan,Sub-Saharan Africa,2016.0,4.1,0.6,0.8,0.3,0.0,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+289,Gabon,Sub-Saharan Africa,2016.0,4.1,1.2,0.7,0.4,0.3,0.1,0.1,Financially average,Low government trust,Moderately healthy
+290,Mali,Sub-Saharan Africa,2016.0,4.1,0.3,0.9,0.2,0.3,0.2,0.1,Financially struggling,Low government trust,Not healthy
+291,Haiti,Latin America and Caribbean,2016.0,4.0,0.3,0.3,0.3,0.1,0.5,0.1,Financially struggling,Low government trust,Moderately healthy
+292,Botswana,Sub-Saharan Africa,2016.0,4.0,1.1,0.9,0.4,0.4,0.1,0.1,Financially average,Low government trust,Moderately healthy
+293,Comoros,Sub-Saharan Africa,2016.0,4.0,0.3,0.6,0.3,0.2,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+294,Ivory Coast,Sub-Saharan Africa,2016.0,3.9,0.6,0.6,0.0,0.4,0.2,0.2,Financially struggling,Low government trust,Not healthy
+295,Cambodia,Southeastern Asia,2016.0,3.9,0.6,0.5,0.4,0.6,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+296,Angola,Sub-Saharan Africa,2016.0,3.9,0.8,0.7,0.0,0.0,0.1,0.1,Financially average,Low government trust,Not healthy
+297,Niger,Sub-Saharan Africa,2016.0,3.9,0.1,0.6,0.3,0.4,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+298,South Sudan,Sub-Saharan Africa,2016.0,3.8,0.4,0.2,0.2,0.2,0.3,0.1,Financially struggling,Low government trust,Not healthy
+299,Chad,Sub-Saharan Africa,2016.0,3.8,0.4,0.6,0.0,0.1,0.2,0.0,Financially struggling,Low government trust,Not healthy
+300,Burkina Faso,Sub-Saharan Africa,2016.0,3.7,0.3,0.6,0.2,0.3,0.2,0.1,Financially struggling,Low government trust,Not healthy
+301,Uganda,Sub-Saharan Africa,2016.0,3.7,0.4,0.9,0.2,0.4,0.3,0.1,Financially struggling,Low government trust,Not healthy
+302,Yemen,Middle East and Northern Africa,2016.0,3.7,0.6,0.5,0.3,0.2,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+303,Madagascar,Sub-Saharan Africa,2016.0,3.7,0.3,0.5,0.4,0.1,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+304,United Republic of Tanzania,Sub-Saharan Africa,2016.0,3.7,0.5,0.8,0.4,0.3,0.3,0.0,Financially struggling,Low government trust,Moderately healthy
+305,Liberia,Sub-Saharan Africa,2016.0,3.6,0.1,0.5,0.2,0.3,0.2,0.0,Financially struggling,Low government trust,Not healthy
+306,Guinea,Sub-Saharan Africa,2016.0,3.6,0.2,0.3,0.2,0.3,0.3,0.1,Financially struggling,Low government trust,Not healthy
+307,Rwanda,Sub-Saharan Africa,2016.0,3.5,0.3,0.6,0.3,0.5,0.2,0.5,Financially struggling,High government trust,Moderately healthy
+308,Benin,Sub-Saharan Africa,2016.0,3.5,0.4,0.1,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+309,Afghanistan,Southern Asia,2016.0,3.4,0.4,0.1,0.2,0.2,0.3,0.1,Financially struggling,Low government trust,Not healthy
+310,Togo,Sub-Saharan Africa,2016.0,3.3,0.3,0.0,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+311,Syria,Middle East and Northern Africa,2016.0,3.1,0.8,0.2,0.6,0.1,0.5,0.2,Financially average,Low government trust,Very healthy
+312,Burundi,Sub-Saharan Africa,2016.0,2.9,0.1,0.2,0.2,0.0,0.2,0.1,Financially struggling,Low government trust,Not healthy
+313,Norway,Western Europe,2017.0,7.5,1.6,1.5,0.8,0.6,0.4,0.3,Financially well-off,Average government trust,Very healthy
+314,Denmark,Western Europe,2017.0,7.5,1.5,1.6,0.8,0.6,0.4,0.4,Financially well-off,High government trust,Very healthy
+315,Iceland,Western Europe,2017.0,7.5,1.5,1.6,0.8,0.6,0.5,0.2,Financially well-off,Low government trust,Very healthy
+316,Switzerland,Western Europe,2017.0,7.5,1.6,1.5,0.9,0.6,0.3,0.4,Financially well-off,High government trust,Very healthy
+317,Finland,Western Europe,2017.0,7.5,1.4,1.5,0.8,0.6,0.2,0.4,Financially well-off,High government trust,Very healthy
+318,Netherlands,Western Europe,2017.0,7.4,1.5,1.4,0.8,0.6,0.5,0.3,Financially well-off,Average government trust,Very healthy
+319,Canada,North America,2017.0,7.3,1.5,1.5,0.8,0.6,0.4,0.3,Financially well-off,Average government trust,Very healthy
+320,New Zealand,Australia and New Zealand,2017.0,7.3,1.4,1.6,0.8,0.6,0.5,0.4,Financially well-off,High government trust,Very healthy
+321,Sweden,Western Europe,2017.0,7.3,1.5,1.5,0.8,0.6,0.4,0.4,Financially well-off,High government trust,Very healthy
+322,Australia,Australia and New Zealand,2017.0,7.3,1.5,1.5,0.8,0.6,0.5,0.3,Financially well-off,Average government trust,Very healthy
+323,Israel,Middle East and Northern Africa,2017.0,7.2,1.4,1.4,0.8,0.4,0.3,0.1,Financially well-off,Low government trust,Very healthy
+324,Costa Rica,Latin America and Caribbean,2017.0,7.1,1.1,1.4,0.8,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+325,Austria,Western Europe,2017.0,7.0,1.5,1.5,0.8,0.6,0.3,0.2,Financially well-off,Low government trust,Very healthy
+326,United States of America,North America,2017.0,7.0,1.6,1.4,0.8,0.5,0.4,0.1,Financially well-off,Low government trust,Very healthy
+327,Ireland,Western Europe,2017.0,7.0,1.5,1.6,0.8,0.6,0.4,0.3,Financially well-off,Average government trust,Very healthy
+328,Germany,Western Europe,2017.0,7.0,1.5,1.5,0.8,0.6,0.3,0.3,Financially well-off,Average government trust,Very healthy
+329,Belgium,Western Europe,2017.0,6.9,1.5,1.5,0.8,0.5,0.2,0.2,Financially well-off,Low government trust,Very healthy
+330,Luxembourg,Western Europe,2017.0,6.9,1.7,1.5,0.8,0.6,0.3,0.3,Financially well-off,Average government trust,Very healthy
+331,United Kingdom,Western Europe,2017.0,6.7,1.4,1.5,0.8,0.5,0.5,0.3,Financially well-off,Average government trust,Very healthy
+332,Chile,Latin America and Caribbean,2017.0,6.6,1.2,1.3,0.8,0.4,0.3,0.1,Financially average,Low government trust,Very healthy
+333,United Arab Emirates,Middle East and Northern Africa,2017.0,6.6,1.6,1.3,0.7,0.6,0.4,0.3,Financially well-off,Average government trust,Very healthy
+334,Brazil,Latin America and Caribbean,2017.0,6.6,1.1,1.4,0.6,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+335,Czech Republic,Central and Eastern Europe,2017.0,6.6,1.4,1.4,0.8,0.5,0.1,0.0,Financially well-off,Low government trust,Very healthy
+336,Argentina,Latin America and Caribbean,2017.0,6.6,1.2,1.4,0.7,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+337,Mexico,Latin America and Caribbean,2017.0,6.6,1.2,1.2,0.7,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+338,Singapore,Southeastern Asia,2017.0,6.6,1.7,1.4,1.0,0.6,0.4,0.5,Financially well-off,High government trust,Very healthy
+339,Malta,Western Europe,2017.0,6.5,1.3,1.5,0.8,0.6,0.6,0.2,Financially average,Low government trust,Very healthy
+340,Uruguay,Latin America and Caribbean,2017.0,6.4,1.2,1.4,0.7,0.6,0.2,0.2,Financially average,Low government trust,Very healthy
+341,Guatemala,Latin America and Caribbean,2017.0,6.4,0.9,1.3,0.5,0.5,0.3,0.1,Financially average,Low government trust,Moderately healthy
+342,Panama,Latin America and Caribbean,2017.0,6.4,1.2,1.4,0.7,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+343,France,Western Europe,2017.0,6.4,1.4,1.4,0.8,0.5,0.1,0.2,Financially well-off,Low government trust,Very healthy
+344,Thailand,Southeastern Asia,2017.0,6.4,1.1,1.4,0.6,0.6,0.6,0.0,Financially average,Low government trust,Very healthy
+345,Taiwan,Eastern Asia,2017.0,6.4,1.4,1.4,0.8,0.4,0.3,0.1,Financially well-off,Low government trust,Very healthy
+346,Spain,Western Europe,2017.0,6.4,1.4,1.5,0.9,0.4,0.2,0.1,Financially well-off,Low government trust,Very healthy
+347,Qatar,Middle East and Northern Africa,2017.0,6.4,1.9,1.3,0.7,0.6,0.3,0.4,Financially well-off,High government trust,Very healthy
+348,Colombia,Latin America and Caribbean,2017.0,6.4,1.1,1.4,0.6,0.5,0.2,0.0,Financially average,Low government trust,Very healthy
+349,Saudi Arabia,Middle East and Northern Africa,2017.0,6.3,1.5,1.3,0.6,0.4,0.2,0.3,Financially well-off,Average government trust,Very healthy
+350,Trinidad and Tobago,Latin America and Caribbean,2017.0,6.2,1.4,1.4,0.5,0.5,0.3,0.0,Financially well-off,Low government trust,Moderately healthy
+351,Kuwait,Middle East and Northern Africa,2017.0,6.1,1.6,1.3,0.6,0.5,0.2,0.2,Financially well-off,Low government trust,Very healthy
+352,Slovakia,Central and Eastern Europe,2017.0,6.1,1.3,1.5,0.7,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+353,Bahrain,Middle East and Northern Africa,2017.0,6.1,1.5,1.3,0.6,0.5,0.2,0.3,Financially well-off,Average government trust,Very healthy
+354,Malaysia,Southeastern Asia,2017.0,6.1,1.3,1.3,0.6,0.4,0.4,0.1,Financially average,Low government trust,Very healthy
+355,Nicaragua,Latin America and Caribbean,2017.0,6.1,0.7,1.3,0.6,0.4,0.3,0.1,Financially struggling,Low government trust,Very healthy
+356,Ecuador,Latin America and Caribbean,2017.0,6.0,1.0,1.3,0.7,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+357,El Salvador,Latin America and Caribbean,2017.0,6.0,0.9,1.2,0.6,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+358,Poland,Central and Eastern Europe,2017.0,6.0,1.3,1.4,0.7,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+359,Uzbekistan,Central and Eastern Europe,2017.0,6.0,0.8,1.6,0.5,0.7,0.4,0.2,Financially average,Low government trust,Moderately healthy
+360,Italy,Western Europe,2017.0,6.0,1.4,1.4,0.8,0.3,0.2,0.0,Financially well-off,Low government trust,Very healthy
+361,Russia,Central and Eastern Europe,2017.0,6.0,1.3,1.5,0.6,0.4,0.0,0.0,Financially average,Low government trust,Very healthy
+362,Belize,Latin America and Caribbean,2017.0,6.0,0.9,1.1,0.4,0.6,0.2,0.1,Financially average,Low government trust,Moderately healthy
+363,Japan,Eastern Asia,2017.0,5.9,1.4,1.4,0.9,0.5,0.1,0.2,Financially well-off,Low government trust,Very healthy
+364,Lithuania,Central and Eastern Europe,2017.0,5.9,1.3,1.5,0.6,0.2,0.0,0.0,Financially average,Low government trust,Very healthy
+365,Algeria,Middle East and Northern Africa,2017.0,5.9,1.1,1.2,0.6,0.2,0.1,0.2,Financially average,Low government trust,Very healthy
+366,Latvia,Central and Eastern Europe,2017.0,5.8,1.3,1.4,0.6,0.3,0.2,0.1,Financially average,Low government trust,Very healthy
+367,South Korea,Eastern Asia,2017.0,5.8,1.4,1.1,0.9,0.3,0.2,0.1,Financially well-off,Low government trust,Very healthy
+368,Moldova,Central and Eastern Europe,2017.0,5.8,0.7,1.2,0.6,0.2,0.2,0.0,Financially struggling,Low government trust,Very healthy
+369,Romania,Central and Eastern Europe,2017.0,5.8,1.2,1.2,0.7,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+370,Bolivia,Latin America and Caribbean,2017.0,5.8,0.8,1.2,0.5,0.6,0.2,0.1,Financially average,Low government trust,Moderately healthy
+371,Turkmenistan,Central and Eastern Europe,2017.0,5.8,1.1,1.5,0.4,0.4,0.2,0.3,Financially average,Average government trust,Moderately healthy
+372,Kazakhstan,Central and Eastern Europe,2017.0,5.8,1.3,1.4,0.6,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+373,North Cyprus,Western Europe,2017.0,5.8,1.4,1.2,0.8,0.5,0.3,0.2,Financially well-off,Low government trust,Very healthy
+374,Slovenia,Central and Eastern Europe,2017.0,5.8,1.3,1.4,0.8,0.6,0.2,0.0,Financially average,Low government trust,Very healthy
+375,Peru,Latin America and Caribbean,2017.0,5.7,1.0,1.2,0.6,0.4,0.1,0.0,Financially average,Low government trust,Very healthy
+376,Mauritius,Sub-Saharan Africa,2017.0,5.6,1.2,1.2,0.6,0.5,0.4,0.0,Financially average,Low government trust,Very healthy
+377,Cyprus,Western Europe,2017.0,5.6,1.4,1.1,0.8,0.4,0.3,0.0,Financially well-off,Low government trust,Very healthy
+378,Estonia,Central and Eastern Europe,2017.0,5.6,1.3,1.5,0.7,0.5,0.1,0.2,Financially average,Low government trust,Very healthy
+379,Belarus,Central and Eastern Europe,2017.0,5.6,1.2,1.4,0.6,0.3,0.2,0.2,Financially average,Low government trust,Very healthy
+380,Libya,Middle East and Northern Africa,2017.0,5.5,1.1,1.4,0.5,0.5,0.2,0.1,Financially average,Low government trust,Moderately healthy
+381,Turkey,Middle East and Northern Africa,2017.0,5.5,1.2,1.3,0.6,0.3,0.0,0.1,Financially average,Low government trust,Very healthy
+382,Paraguay,Latin America and Caribbean,2017.0,5.5,0.9,1.5,0.6,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+383,Hong Kong,Eastern Asia,2017.0,5.5,1.6,1.3,0.9,0.5,0.4,0.3,Financially well-off,Average government trust,Very healthy
+384,Philippines,Southeastern Asia,2017.0,5.4,0.9,1.2,0.5,0.6,0.2,0.1,Financially average,Low government trust,Moderately healthy
+385,Republic of Serbia,Central and Eastern Europe,2017.0,5.4,1.1,1.3,0.6,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+386,Jordan,Middle East and Northern Africa,2017.0,5.3,1.0,1.2,0.6,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+387,Hungary,Central and Eastern Europe,2017.0,5.3,1.3,1.3,0.7,0.2,0.1,0.0,Financially average,Low government trust,Very healthy
+388,Jamaica,Latin America and Caribbean,2017.0,5.3,0.9,1.4,0.6,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+389,Croatia,Central and Eastern Europe,2017.0,5.3,1.2,1.0,0.7,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+390,Kosovo,Central and Eastern Europe,2017.0,5.3,1.0,1.1,0.5,0.3,0.3,0.1,Financially average,Low government trust,Moderately healthy
+391,China,Eastern Asia,2017.0,5.3,1.1,1.2,0.7,0.5,0.0,0.0,Financially average,Low government trust,Very healthy
+392,Pakistan,Southern Asia,2017.0,5.3,0.7,0.7,0.4,0.2,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+393,Indonesia,Southeastern Asia,2017.0,5.3,1.0,1.3,0.5,0.4,0.6,0.0,Financially average,Low government trust,Moderately healthy
+394,Venezuela,Latin America and Caribbean,2017.0,5.2,1.1,1.4,0.6,0.2,0.1,0.1,Financially average,Low government trust,Very healthy
+395,Montenegro,Central and Eastern Europe,2017.0,5.2,1.1,1.2,0.7,0.2,0.2,0.1,Financially average,Low government trust,Very healthy
+396,Morocco,Middle East and Northern Africa,2017.0,5.2,0.9,0.8,0.6,0.4,0.0,0.1,Financially average,Low government trust,Very healthy
+397,Azerbaijan,Central and Eastern Europe,2017.0,5.2,1.2,1.2,0.5,0.4,0.0,0.2,Financially average,Low government trust,Moderately healthy
+398,Dominican Republic,Latin America and Caribbean,2017.0,5.2,1.1,1.4,0.6,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+399,Greece,Western Europe,2017.0,5.2,1.3,1.2,0.8,0.1,0.0,0.0,Financially average,Low government trust,Very healthy
+400,Lebanon,Middle East and Northern Africa,2017.0,5.2,1.1,1.1,0.7,0.3,0.3,0.0,Financially average,Low government trust,Very healthy
+401,Portugal,Western Europe,2017.0,5.2,1.3,1.4,0.8,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+402,Bosnia and Herzegovina,Central and Eastern Europe,2017.0,5.2,1.0,1.1,0.7,0.2,0.3,0.0,Financially average,Low government trust,Very healthy
+403,Honduras,Latin America and Caribbean,2017.0,5.2,0.7,1.1,0.6,0.4,0.2,0.1,Financially struggling,Low government trust,Very healthy
+404,Macedonia,Central and Eastern Europe,2017.0,5.2,1.1,1.2,0.6,0.3,0.2,0.1,Financially average,Low government trust,Very healthy
+405,Somalia,Sub-Saharan Africa,2017.0,5.2,0.0,0.7,0.1,0.6,0.3,0.3,Financially struggling,Average government trust,Not healthy
+406,Vietnam,Southeastern Asia,2017.0,5.1,0.8,1.3,0.6,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+407,Nigeria,Sub-Saharan Africa,2017.0,5.1,0.8,1.2,0.1,0.4,0.2,0.0,Financially average,Low government trust,Not healthy
+408,Tajikistan,Central and Eastern Europe,2017.0,5.0,0.5,1.3,0.5,0.5,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+409,Bhutan,Southern Asia,2017.0,5.0,0.9,1.3,0.5,0.5,0.5,0.2,Financially average,Low government trust,Moderately healthy
+410,Kyrgyzstan,Central and Eastern Europe,2017.0,5.0,0.6,1.4,0.6,0.4,0.4,0.0,Financially struggling,Low government trust,Very healthy
+411,Nepal,Southern Asia,2017.0,5.0,0.5,1.2,0.5,0.4,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+412,Mongolia,Eastern Asia,2017.0,5.0,1.0,1.5,0.6,0.4,0.3,0.0,Financially average,Low government trust,Very healthy
+413,South Africa,Sub-Saharan Africa,2017.0,4.8,1.0,1.4,0.2,0.5,0.1,0.1,Financially average,Low government trust,Not healthy
+414,Tunisia,Middle East and Northern Africa,2017.0,4.8,1.0,0.9,0.6,0.3,0.0,0.1,Financially average,Low government trust,Very healthy
+415,Palestinian Territories,Middle East and Northern Africa,2017.0,4.8,0.7,1.2,0.6,0.2,0.1,0.1,Financially struggling,Low government trust,Very healthy
+416,Egypt,Middle East and Northern Africa,2017.0,4.7,1.0,1.0,0.5,0.3,0.1,0.1,Financially average,Low government trust,Moderately healthy
+417,Bulgaria,Central and Eastern Europe,2017.0,4.7,1.2,1.4,0.7,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+418,Sierra Leone,Sub-Saharan Africa,2017.0,4.7,0.4,1.0,0.0,0.3,0.3,0.1,Financially struggling,Low government trust,Not healthy
+419,Cameroon,Sub-Saharan Africa,2017.0,4.7,0.6,1.0,0.1,0.4,0.2,0.0,Financially struggling,Low government trust,Not healthy
+420,Iran,Middle East and Northern Africa,2017.0,4.7,1.2,0.7,0.6,0.2,0.4,0.0,Financially average,Low government trust,Very healthy
+421,Albania,Central and Eastern Europe,2017.0,4.6,1.0,0.8,0.7,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+422,Bangladesh,Southern Asia,2017.0,4.6,0.6,0.7,0.5,0.5,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+423,Namibia,Sub-Saharan Africa,2017.0,4.6,1.0,1.1,0.3,0.5,0.1,0.1,Financially average,Low government trust,Moderately healthy
+424,Kenya,Sub-Saharan Africa,2017.0,4.6,0.6,1.1,0.3,0.4,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+425,Mozambique,Sub-Saharan Africa,2017.0,4.6,0.2,0.9,0.1,0.5,0.3,0.2,Financially struggling,Low government trust,Not healthy
+426,Myanmar,Southeastern Asia,2017.0,4.6,0.4,1.1,0.4,0.5,0.8,0.2,Financially struggling,Low government trust,Moderately healthy
+427,Senegal,Sub-Saharan Africa,2017.0,4.5,0.5,1.2,0.4,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+428,Zambia,Sub-Saharan Africa,2017.0,4.5,0.6,1.0,0.3,0.5,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+429,Iraq,Middle East and Northern Africa,2017.0,4.5,1.1,1.0,0.5,0.3,0.2,0.1,Financially average,Low government trust,Moderately healthy
+430,Gabon,Sub-Saharan Africa,2017.0,4.5,1.2,1.2,0.4,0.3,0.0,0.1,Financially average,Low government trust,Moderately healthy
+431,Ethiopia,Sub-Saharan Africa,2017.0,4.5,0.3,0.9,0.4,0.4,0.3,0.2,Financially struggling,Low government trust,Moderately healthy
+432,Sri Lanka,Southern Asia,2017.0,4.4,1.0,1.3,0.6,0.6,0.5,0.1,Financially average,Low government trust,Very healthy
+433,Armenia,Central and Eastern Europe,2017.0,4.4,0.9,1.0,0.6,0.2,0.1,0.0,Financially average,Low government trust,Very healthy
+434,India,Southern Asia,2017.0,4.3,0.8,0.8,0.5,0.5,0.2,0.1,Financially average,Low government trust,Moderately healthy
+435,Mauritania,Sub-Saharan Africa,2017.0,4.3,0.6,1.3,0.3,0.1,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+436,Georgia,Central and Eastern Europe,2017.0,4.3,1.0,0.6,0.6,0.3,0.0,0.2,Financially average,Low government trust,Very healthy
+437,Democratic Republic of the Congo,Sub-Saharan Africa,2017.0,4.3,0.1,1.2,0.2,0.2,0.2,0.1,Financially struggling,Low government trust,Not healthy
+438,Mali,Sub-Saharan Africa,2017.0,4.2,0.5,1.3,0.2,0.3,0.2,0.1,Financially struggling,Low government trust,Not healthy
+439,Ivory Coast,Sub-Saharan Africa,2017.0,4.2,0.6,0.9,0.0,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+440,Cambodia,Southeastern Asia,2017.0,4.2,0.6,1.0,0.4,0.6,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+441,Sudan,Sub-Saharan Africa,2017.0,4.1,0.7,1.2,0.3,0.0,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+442,Ghana,Sub-Saharan Africa,2017.0,4.1,0.7,0.9,0.3,0.4,0.3,0.0,Financially struggling,Low government trust,Moderately healthy
+443,Ukraine,Central and Eastern Europe,2017.0,4.1,0.9,1.4,0.6,0.1,0.3,0.0,Financially average,Low government trust,Very healthy
+444,Uganda,Sub-Saharan Africa,2017.0,4.1,0.4,1.1,0.2,0.4,0.3,0.1,Financially struggling,Low government trust,Not healthy
+445,Burkina Faso,Sub-Saharan Africa,2017.0,4.0,0.4,1.0,0.2,0.3,0.2,0.1,Financially struggling,Low government trust,Not healthy
+446,Niger,Sub-Saharan Africa,2017.0,4.0,0.2,1.0,0.3,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+447,Malawi,Sub-Saharan Africa,2017.0,4.0,0.2,0.5,0.3,0.5,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+448,Chad,Sub-Saharan Africa,2017.0,3.9,0.4,1.0,0.0,0.2,0.2,0.0,Financially struggling,Low government trust,Not healthy
+449,Zimbabwe,Sub-Saharan Africa,2017.0,3.9,0.4,1.1,0.2,0.3,0.2,0.1,Financially struggling,Low government trust,Not healthy
+450,Lesotho,Sub-Saharan Africa,2017.0,3.8,0.5,1.2,0.0,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+451,Angola,Sub-Saharan Africa,2017.0,3.8,0.9,1.1,0.0,0.0,0.1,0.1,Financially average,Low government trust,Not healthy
+452,Afghanistan,Southern Asia,2017.0,3.8,0.4,0.6,0.2,0.1,0.3,0.1,Financially struggling,Low government trust,Not healthy
+453,Botswana,Sub-Saharan Africa,2017.0,3.8,1.1,1.2,0.3,0.5,0.1,0.1,Financially average,Low government trust,Moderately healthy
+454,Benin,Sub-Saharan Africa,2017.0,3.7,0.4,0.4,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+455,Madagascar,Sub-Saharan Africa,2017.0,3.6,0.3,0.9,0.4,0.2,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+456,Haiti,Latin America and Caribbean,2017.0,3.6,0.4,0.6,0.3,0.0,0.5,0.1,Financially struggling,Low government trust,Moderately healthy
+457,Yemen,Middle East and Northern Africa,2017.0,3.6,0.6,0.9,0.3,0.2,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+458,South Sudan,Sub-Saharan Africa,2017.0,3.6,0.4,0.6,0.2,0.2,0.3,0.1,Financially struggling,Low government trust,Not healthy
+459,Liberia,Sub-Saharan Africa,2017.0,3.5,0.1,0.9,0.2,0.3,0.3,0.0,Financially struggling,Low government trust,Not healthy
+460,Guinea,Sub-Saharan Africa,2017.0,3.5,0.2,0.8,0.2,0.4,0.3,0.1,Financially struggling,Low government trust,Not healthy
+461,Togo,Sub-Saharan Africa,2017.0,3.5,0.3,0.4,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+462,Rwanda,Sub-Saharan Africa,2017.0,3.5,0.4,1.0,0.3,0.6,0.2,0.5,Financially struggling,High government trust,Moderately healthy
+463,Syria,Middle East and Northern Africa,2017.0,3.5,0.8,0.4,0.5,0.1,0.5,0.2,Financially average,Low government trust,Moderately healthy
+464,United Republic of Tanzania,Sub-Saharan Africa,2017.0,3.4,0.5,1.0,0.4,0.4,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+465,Burundi,Sub-Saharan Africa,2017.0,2.9,0.1,0.6,0.2,0.1,0.2,0.1,Financially struggling,Low government trust,Not healthy
+466,Central African Republic,Sub-Saharan Africa,2017.0,2.7,0.0,0.0,0.0,0.3,0.3,0.1,Financially struggling,Low government trust,Not healthy
+467,Finland,Western Europe,2018.0,7.6,1.3,1.6,0.9,0.7,0.2,0.4,Financially average,High government trust,Very healthy
+468,Norway,Western Europe,2018.0,7.6,1.5,1.6,0.9,0.7,0.3,0.3,Financially well-off,Average government trust,Very healthy
+469,Denmark,Western Europe,2018.0,7.6,1.4,1.6,0.9,0.7,0.3,0.4,Financially well-off,High government trust,Very healthy
+470,Iceland,Western Europe,2018.0,7.5,1.3,1.6,0.9,0.7,0.4,0.1,Financially average,Low government trust,Very healthy
+471,Switzerland,Western Europe,2018.0,7.5,1.4,1.6,0.9,0.7,0.3,0.4,Financially well-off,High government trust,Very healthy
+472,Netherlands,Western Europe,2018.0,7.4,1.4,1.5,0.9,0.6,0.3,0.3,Financially well-off,Average government trust,Very healthy
+473,Canada,North America,2018.0,7.3,1.3,1.5,0.9,0.6,0.3,0.3,Financially average,Average government trust,Very healthy
+474,New Zealand,Australia and New Zealand,2018.0,7.3,1.3,1.6,0.9,0.7,0.4,0.4,Financially average,High government trust,Very healthy
+475,Sweden,Western Europe,2018.0,7.3,1.4,1.5,0.9,0.7,0.3,0.4,Financially well-off,High government trust,Very healthy
+476,Australia,Australia and New Zealand,2018.0,7.3,1.3,1.6,0.9,0.6,0.4,0.3,Financially average,Average government trust,Very healthy
+477,United Kingdom,Western Europe,2018.0,7.2,1.2,1.4,0.9,0.5,0.3,0.1,Financially average,Low government trust,Very healthy
+478,Austria,Western Europe,2018.0,7.1,1.3,1.5,0.9,0.6,0.2,0.2,Financially average,Low government trust,Very healthy
+479,Costa Rica,Latin America and Caribbean,2018.0,7.1,1.0,1.5,0.8,0.6,0.1,0.1,Financially average,Low government trust,Very healthy
+480,Ireland,Western Europe,2018.0,7.0,1.4,1.6,0.9,0.6,0.3,0.3,Financially well-off,Average government trust,Very healthy
+481,Germany,Western Europe,2018.0,7.0,1.3,1.5,0.9,0.6,0.3,0.3,Financially average,Average government trust,Very healthy
+482,Belgium,Western Europe,2018.0,6.9,1.3,1.5,0.9,0.6,0.2,0.2,Financially average,Low government trust,Very healthy
+483,Luxembourg,Western Europe,2018.0,6.9,1.6,1.5,0.9,0.6,0.2,0.3,Financially well-off,Average government trust,Very healthy
+484,United States of America,North America,2018.0,6.9,1.4,1.5,0.8,0.6,0.3,0.1,Financially well-off,Low government trust,Very healthy
+485,Israel,Middle East and Northern Africa,2018.0,6.8,1.3,1.6,0.9,0.5,0.4,0.3,Financially average,Average government trust,Very healthy
+486,United Arab Emirates,Middle East and Northern Africa,2018.0,6.8,2.1,0.8,0.7,0.3,0.2,0.1,Financially well-off,Not enough data,Very healthy
+487,Czech Republic,Central and Eastern Europe,2018.0,6.7,1.2,1.5,0.8,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+488,Malta,Western Europe,2018.0,6.6,1.3,1.5,0.9,0.6,0.4,0.1,Financially average,Low government trust,Very healthy
+489,France,Western Europe,2018.0,6.5,1.3,1.5,0.9,0.5,0.1,0.2,Financially average,Low government trust,Very healthy
+490,Mexico,Latin America and Caribbean,2018.0,6.5,1.0,1.2,0.8,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+491,Chile,Latin America and Caribbean,2018.0,6.5,1.1,1.3,0.8,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+492,Taiwan,Eastern Asia,2018.0,6.4,1.4,1.4,0.9,0.4,0.2,0.1,Financially well-off,Low government trust,Very healthy
+493,Panama,Latin America and Caribbean,2018.0,6.4,1.1,1.4,0.8,0.6,0.1,0.1,Financially average,Low government trust,Very healthy
+494,Brazil,Latin America and Caribbean,2018.0,6.4,1.0,1.5,0.7,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+495,Argentina,Latin America and Caribbean,2018.0,6.4,1.1,1.5,0.7,0.6,0.1,0.0,Financially average,Low government trust,Very healthy
+496,Guatemala,Latin America and Caribbean,2018.0,6.4,0.8,1.3,0.6,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+497,Uruguay,Latin America and Caribbean,2018.0,6.4,1.1,1.5,0.8,0.6,0.1,0.2,Financially average,Low government trust,Very healthy
+498,Qatar,Middle East and Northern Africa,2018.0,6.4,1.6,1.3,0.8,0.6,0.3,0.2,Financially well-off,Low government trust,Very healthy
+499,Saudi Arabia,Middle East and Northern Africa,2018.0,6.4,1.4,1.3,0.6,0.5,0.1,0.1,Financially well-off,Low government trust,Very healthy
+500,Singapore,Southeastern Asia,2018.0,6.3,1.5,1.4,1.0,0.6,0.3,0.5,Financially well-off,High government trust,Very healthy
+501,Malaysia,Southeastern Asia,2018.0,6.3,1.2,1.3,0.7,0.4,0.3,0.1,Financially average,Low government trust,Very healthy
+502,Spain,Western Europe,2018.0,6.3,1.2,1.5,1.0,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+503,Colombia,Latin America and Caribbean,2018.0,6.3,1.0,1.4,0.6,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+504,Trinidad & Tobago,Latin America and Caribbean,2018.0,6.2,1.2,1.5,0.6,0.6,0.2,0.0,Financially average,Low government trust,Very healthy
+505,Slovakia,Central and Eastern Europe,2018.0,6.2,1.2,1.5,0.8,0.4,0.1,0.0,Financially average,Low government trust,Very healthy
+506,El Salvador,Latin America and Caribbean,2018.0,6.2,0.8,1.2,0.6,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+507,Nicaragua,Latin America and Caribbean,2018.0,6.1,0.7,1.3,0.7,0.5,0.2,0.1,Financially struggling,Low government trust,Very healthy
+508,Poland,Central and Eastern Europe,2018.0,6.1,1.2,1.4,0.8,0.6,0.1,0.1,Financially average,Low government trust,Very healthy
+509,Bahrain,Middle East and Northern Africa,2018.0,6.1,1.3,1.4,0.7,0.6,0.2,0.1,Financially average,Low government trust,Very healthy
+510,Uzbekistan,Central and Eastern Europe,2018.0,6.1,0.7,1.6,0.6,0.7,0.3,0.3,Financially struggling,Average government trust,Very healthy
+511,Kuwait,Middle East and Northern Africa,2018.0,6.1,1.5,1.3,0.7,0.6,0.2,0.1,Financially well-off,Low government trust,Very healthy
+512,Thailand,Southeastern Asia,2018.0,6.1,1.0,1.4,0.7,0.6,0.4,0.0,Financially average,Low government trust,Very healthy
+513,Italy,Western Europe,2018.0,6.0,1.3,1.5,1.0,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+514,Ecuador,Latin America and Caribbean,2018.0,6.0,0.9,1.3,0.7,0.6,0.1,0.1,Financially average,Low government trust,Very healthy
+515,Belize,Latin America and Caribbean,2018.0,6.0,0.8,1.1,0.5,0.6,0.2,0.1,Financially average,Low government trust,Moderately healthy
+516,Lithuania,Central and Eastern Europe,2018.0,6.0,1.2,1.5,0.7,0.4,0.0,0.0,Financially average,Low government trust,Very healthy
+517,Slovenia,Central and Eastern Europe,2018.0,6.0,1.2,1.5,0.9,0.6,0.2,0.0,Financially average,Low government trust,Very healthy
+518,Romania,Central and Eastern Europe,2018.0,5.9,1.1,1.2,0.7,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+519,Latvia,Central and Eastern Europe,2018.0,5.9,1.2,1.4,0.7,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+520,Japan,Eastern Asia,2018.0,5.9,1.3,1.5,1.0,0.6,0.1,0.2,Financially average,Low government trust,Very healthy
+521,Mauritius,Sub-Saharan Africa,2018.0,5.9,1.1,1.4,0.7,0.6,0.2,0.0,Financially average,Low government trust,Very healthy
+522,Jamaica,Latin America and Caribbean,2018.0,5.9,0.8,1.5,0.7,0.6,0.1,0.0,Financially average,Low government trust,Very healthy
+523,South Korea,Eastern Asia,2018.0,5.9,1.3,1.2,1.0,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+524,Northern Cyprus,Western Europe,2018.0,5.8,1.2,1.2,0.9,0.5,0.2,0.2,Financially average,Low government trust,Very healthy
+525,Russia,Central and Eastern Europe,2018.0,5.8,1.2,1.5,0.6,0.4,0.1,0.0,Financially average,Low government trust,Very healthy
+526,Kazakhstan,Central and Eastern Europe,2018.0,5.8,1.1,1.5,0.6,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+527,Cyprus,Western Europe,2018.0,5.8,1.2,1.2,0.9,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+528,Bolivia,Latin America and Caribbean,2018.0,5.8,0.8,1.2,0.5,0.6,0.1,0.0,Financially average,Low government trust,Moderately healthy
+529,Estonia,Central and Eastern Europe,2018.0,5.7,1.2,1.5,0.7,0.6,0.1,0.2,Financially average,Low government trust,Very healthy
+530,Paraguay,Latin America and Caribbean,2018.0,5.7,0.8,1.5,0.6,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+531,Peru,Latin America and Caribbean,2018.0,5.7,0.9,1.2,0.7,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+532,Kosovo,Central and Eastern Europe,2018.0,5.7,0.9,1.2,0.6,0.4,0.3,0.0,Financially average,Low government trust,Very healthy
+533,Moldova,Central and Eastern Europe,2018.0,5.6,0.7,1.3,0.6,0.2,0.2,0.0,Financially struggling,Low government trust,Very healthy
+534,Turkmenistan,Central and Eastern Europe,2018.0,5.6,1.0,1.5,0.5,0.4,0.2,0.0,Financially average,Low government trust,Moderately healthy
+535,Hungary,Central and Eastern Europe,2018.0,5.6,1.2,1.4,0.7,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+536,Libya,Middle East and Northern Africa,2018.0,5.6,1.0,1.4,0.6,0.5,0.1,0.2,Financially average,Low government trust,Very healthy
+537,Philippines,Southeastern Asia,2018.0,5.5,0.8,1.3,0.5,0.6,0.1,0.1,Financially average,Low government trust,Moderately healthy
+538,Honduras,Latin America and Caribbean,2018.0,5.5,0.6,1.2,0.6,0.5,0.2,0.1,Financially struggling,Low government trust,Very healthy
+539,Belarus,Central and Eastern Europe,2018.0,5.5,1.0,1.5,0.7,0.3,0.1,0.2,Financially average,Low government trust,Very healthy
+540,Turkey,Middle East and Northern Africa,2018.0,5.5,1.2,1.4,0.7,0.3,0.1,0.1,Financially average,Low government trust,Very healthy
+541,Pakistan,Southern Asia,2018.0,5.5,0.6,0.8,0.4,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+542,Hong Kong,Eastern Asia,2018.0,5.4,1.4,1.3,1.0,0.5,0.2,0.3,Financially well-off,Average government trust,Very healthy
+543,Portugal,Western Europe,2018.0,5.4,1.2,1.4,0.9,0.6,0.1,0.0,Financially average,Low government trust,Very healthy
+544,Republic of Serbia,Central and Eastern Europe,2018.0,5.4,1.0,1.4,0.7,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+545,Greece,Western Europe,2018.0,5.4,1.2,1.2,0.9,0.1,0.0,0.0,Financially average,Low government trust,Very healthy
+546,Lebanon,Middle East and Northern Africa,2018.0,5.4,1.0,1.2,0.8,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+547,Montenegro,Central and Eastern Europe,2018.0,5.4,1.0,1.3,0.7,0.3,0.1,0.1,Financially average,Low government trust,Very healthy
+548,Croatia,Central and Eastern Europe,2018.0,5.3,1.1,1.2,0.7,0.4,0.1,0.0,Financially average,Low government trust,Very healthy
+549,Dominican Republic,Latin America and Caribbean,2018.0,5.3,1.0,1.4,0.6,0.6,0.1,0.1,Financially average,Low government trust,Very healthy
+550,Algeria,Middle East and Northern Africa,2018.0,5.3,1.0,1.2,0.7,0.1,0.1,0.1,Financially average,Low government trust,Very healthy
+551,Morocco,Middle East and Northern Africa,2018.0,5.2,0.8,0.8,0.7,0.5,0.0,0.1,Financially average,Low government trust,Very healthy
+552,China,Eastern Asia,2018.0,5.2,1.0,1.1,0.8,0.6,0.0,0.1,Financially average,Low government trust,Very healthy
+553,Azerbaijan,Central and Eastern Europe,2018.0,5.2,1.0,1.2,0.6,0.4,0.0,0.2,Financially average,Low government trust,Very healthy
+554,Tajikistan,Central and Eastern Europe,2018.0,5.2,0.5,1.2,0.6,0.3,0.2,0.0,Financially struggling,Low government trust,Very healthy
+555,Macedonia,Central and Eastern Europe,2018.0,5.2,1.0,1.2,0.7,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+556,Jordan,Middle East and Northern Africa,2018.0,5.2,0.8,1.3,0.6,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+557,Nigeria,Sub-Saharan Africa,2018.0,5.2,0.7,1.2,0.0,0.5,0.2,0.0,Financially struggling,Low government trust,Not healthy
+558,Kyrgyzstan,Central and Eastern Europe,2018.0,5.1,0.5,1.4,0.6,0.5,0.3,0.0,Financially struggling,Low government trust,Very healthy
+559,Bosnia and Herzegovina,Central and Eastern Europe,2018.0,5.1,0.9,1.1,0.8,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+560,Mongolia,Eastern Asia,2018.0,5.1,0.9,1.5,0.6,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+561,Vietnam,Southeastern Asia,2018.0,5.1,0.7,1.4,0.7,0.6,0.2,0.1,Financially struggling,Low government trust,Very healthy
+562,Indonesia,Southeastern Asia,2018.0,5.1,0.9,1.2,0.5,0.5,0.5,0.0,Financially average,Low government trust,Moderately healthy
+563,Bhutan,Southern Asia,2018.0,5.1,0.8,1.3,0.5,0.5,0.4,0.2,Financially average,Low government trust,Moderately healthy
+564,Somalia,Sub-Saharan Africa,2018.0,5.0,0.0,0.7,0.1,0.7,0.2,0.3,Financially struggling,Average government trust,Not healthy
+565,Cameroon,Sub-Saharan Africa,2018.0,5.0,0.5,0.9,0.2,0.4,0.2,0.0,Financially struggling,Low government trust,Not healthy
+566,Bulgaria,Central and Eastern Europe,2018.0,4.9,1.0,1.5,0.7,0.4,0.1,0.0,Financially average,Low government trust,Very healthy
+567,Nepal,Southern Asia,2018.0,4.9,0.4,1.2,0.5,0.5,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+568,Venezuela,Latin America and Caribbean,2018.0,4.8,1.0,1.5,0.7,0.1,0.1,0.0,Financially average,Low government trust,Very healthy
+569,Gabon,Sub-Saharan Africa,2018.0,4.8,1.0,1.2,0.4,0.4,0.0,0.0,Financially average,Low government trust,Moderately healthy
+570,Palestinian Territories,Middle East and Northern Africa,2018.0,4.7,0.6,1.2,0.6,0.3,0.1,0.1,Financially struggling,Low government trust,Very healthy
+571,South Africa,Sub-Saharan Africa,2018.0,4.7,0.9,1.4,0.3,0.5,0.1,0.1,Financially average,Low government trust,Moderately healthy
+572,Iran,Middle East and Northern Africa,2018.0,4.7,1.1,0.8,0.7,0.5,0.3,0.1,Financially average,Low government trust,Very healthy
+573,Ivory Coast,Sub-Saharan Africa,2018.0,4.7,0.5,0.9,0.1,0.5,0.2,0.1,Financially struggling,Low government trust,Not healthy
+574,Ghana,Sub-Saharan Africa,2018.0,4.7,0.6,0.9,0.3,0.5,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+575,Senegal,Sub-Saharan Africa,2018.0,4.6,0.4,1.1,0.4,0.4,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+576,Laos,Southeastern Asia,2018.0,4.6,0.7,1.0,0.4,0.6,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+577,Tunisia,Middle East and Northern Africa,2018.0,4.6,0.9,0.9,0.7,0.3,0.0,0.1,Financially average,Low government trust,Very healthy
+578,Albania,Central and Eastern Europe,2018.0,4.6,0.9,0.8,0.8,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+579,Sierra Leone,Sub-Saharan Africa,2018.0,4.6,0.3,0.8,0.0,0.4,0.2,0.0,Financially struggling,Low government trust,Not healthy
+580,Bangladesh,Southern Asia,2018.0,4.5,0.5,0.8,0.6,0.6,0.2,0.1,Financially struggling,Low government trust,Very healthy
+581,Sri Lanka,Southern Asia,2018.0,4.5,0.9,1.3,0.7,0.6,0.3,0.0,Financially average,Low government trust,Very healthy
+582,Iraq,Middle East and Northern Africa,2018.0,4.5,1.0,1.0,0.5,0.3,0.2,0.1,Financially average,Low government trust,Moderately healthy
+583,Mali,Sub-Saharan Africa,2018.0,4.4,0.4,1.2,0.2,0.4,0.1,0.1,Financially struggling,Low government trust,Not healthy
+584,Namibia,Sub-Saharan Africa,2018.0,4.4,0.9,1.3,0.4,0.5,0.0,0.1,Financially average,Low government trust,Moderately healthy
+585,Cambodia,Southeastern Asia,2018.0,4.4,0.6,1.1,0.5,0.7,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+586,Burkina Faso,Sub-Saharan Africa,2018.0,4.4,0.3,1.1,0.2,0.3,0.2,0.1,Financially struggling,Low government trust,Not healthy
+587,Egypt,Middle East and Northern Africa,2018.0,4.4,0.9,1.0,0.6,0.3,0.1,0.1,Financially average,Low government trust,Very healthy
+588,Mozambique,Sub-Saharan Africa,2018.0,4.4,0.2,0.9,0.2,0.5,0.2,0.2,Financially struggling,Low government trust,Not healthy
+589,Kenya,Sub-Saharan Africa,2018.0,4.4,0.5,1.0,0.4,0.5,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+590,Zambia,Sub-Saharan Africa,2018.0,4.4,0.6,1.0,0.3,0.5,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+591,Mauritania,Sub-Saharan Africa,2018.0,4.4,0.6,1.2,0.3,0.1,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+592,Ethiopia,Sub-Saharan Africa,2018.0,4.4,0.3,1.0,0.4,0.4,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+593,Georgia,Central and Eastern Europe,2018.0,4.3,0.8,0.6,0.6,0.4,0.0,0.2,Financially average,Low government trust,Very healthy
+594,Armenia,Central and Eastern Europe,2018.0,4.3,0.8,1.0,0.7,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+595,Myanmar,Southeastern Asia,2018.0,4.3,0.7,1.2,0.4,0.6,0.6,0.2,Financially struggling,Low government trust,Moderately healthy
+596,Chad,Sub-Saharan Africa,2018.0,4.3,0.4,0.9,0.0,0.2,0.2,0.1,Financially struggling,Low government trust,Not healthy
+597,Democratic Republic of the Congo,Sub-Saharan Africa,2018.0,4.2,0.1,1.1,0.2,0.3,0.2,0.0,Financially struggling,Low government trust,Not healthy
+598,India,Southern Asia,2018.0,4.2,0.7,0.8,0.5,0.5,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+599,Niger,Sub-Saharan Africa,2018.0,4.2,0.1,0.9,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+600,Uganda,Sub-Saharan Africa,2018.0,4.2,0.3,1.1,0.2,0.4,0.3,0.1,Financially struggling,Low government trust,Not healthy
+601,Benin,Sub-Saharan Africa,2018.0,4.1,0.4,0.4,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+602,Sudan,Sub-Saharan Africa,2018.0,4.1,0.6,1.2,0.3,0.0,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+603,Ukraine,Central and Eastern Europe,2018.0,4.1,0.8,1.4,0.6,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+604,Togo,Sub-Saharan Africa,2018.0,4.0,0.3,0.5,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+605,Guinea,Sub-Saharan Africa,2018.0,4.0,0.3,0.8,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+606,Lesotho,Sub-Saharan Africa,2018.0,3.8,0.5,1.2,0.1,0.4,0.1,0.1,Financially struggling,Low government trust,Not healthy
+607,Angola,Sub-Saharan Africa,2018.0,3.8,0.7,1.1,0.3,0.0,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+608,Madagascar,Sub-Saharan Africa,2018.0,3.8,0.3,0.9,0.4,0.2,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+609,Zimbabwe,Sub-Saharan Africa,2018.0,3.7,0.4,1.1,0.2,0.4,0.1,0.1,Financially struggling,Low government trust,Not healthy
+610,Afghanistan,Southern Asia,2018.0,3.6,0.3,0.5,0.3,0.1,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+611,Botswana,Sub-Saharan Africa,2018.0,3.6,1.0,1.2,0.4,0.6,0.0,0.1,Financially average,Low government trust,Moderately healthy
+612,Malawi,Sub-Saharan Africa,2018.0,3.6,0.2,0.5,0.3,0.5,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+613,Haiti,Latin America and Caribbean,2018.0,3.6,0.3,0.7,0.3,0.0,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+614,Liberia,Sub-Saharan Africa,2018.0,3.5,0.1,0.9,0.3,0.4,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+615,Syria,Middle East and Northern Africa,2018.0,3.5,0.7,0.4,0.5,0.1,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+616,Rwanda,Sub-Saharan Africa,2018.0,3.4,0.3,0.9,0.4,0.6,0.2,0.4,Financially struggling,High government trust,Moderately healthy
+617,Yemen,Middle East and Northern Africa,2018.0,3.4,0.4,1.1,0.3,0.2,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+618,United Republic of Tanzania,Sub-Saharan Africa,2018.0,3.3,0.5,1.0,0.4,0.5,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+619,South Sudan,Sub-Saharan Africa,2018.0,3.2,0.3,0.6,0.2,0.1,0.2,0.1,Financially struggling,Low government trust,Not healthy
+620,Central African Republic,Sub-Saharan Africa,2018.0,3.1,0.0,0.0,0.0,0.3,0.2,0.0,Financially struggling,Low government trust,Not healthy
+621,Burundi,Sub-Saharan Africa,2018.0,2.9,0.1,0.6,0.1,0.1,0.2,0.1,Financially struggling,Low government trust,Not healthy
+622,Finland,Western Europe,2019.0,7.8,1.3,1.6,1.0,0.6,0.2,0.4,Financially average,High government trust,Very healthy
+623,Denmark,Western Europe,2019.0,7.6,1.4,1.6,1.0,0.6,0.2,0.4,Financially well-off,High government trust,Very healthy
+624,Norway,Western Europe,2019.0,7.6,1.5,1.6,1.0,0.6,0.3,0.3,Financially well-off,Average government trust,Very healthy
+625,Iceland,Western Europe,2019.0,7.5,1.4,1.6,1.0,0.6,0.4,0.1,Financially well-off,Low government trust,Very healthy
+626,Netherlands,Western Europe,2019.0,7.5,1.4,1.5,1.0,0.6,0.3,0.3,Financially well-off,Average government trust,Very healthy
+627,Switzerland,Western Europe,2019.0,7.5,1.4,1.5,1.0,0.6,0.3,0.3,Financially well-off,Average government trust,Very healthy
+628,Sweden,Western Europe,2019.0,7.3,1.4,1.5,1.0,0.6,0.3,0.4,Financially well-off,High government trust,Very healthy
+629,New Zealand,Australia and New Zealand,2019.0,7.3,1.3,1.6,1.0,0.6,0.3,0.4,Financially average,High government trust,Very healthy
+630,Canada,North America,2019.0,7.3,1.4,1.5,1.0,0.6,0.3,0.3,Financially well-off,Average government trust,Very healthy
+631,Austria,Western Europe,2019.0,7.2,1.4,1.5,1.0,0.5,0.2,0.2,Financially well-off,Low government trust,Very healthy
+632,Australia,Australia and New Zealand,2019.0,7.2,1.4,1.6,1.0,0.6,0.3,0.3,Financially well-off,Average government trust,Very healthy
+633,Costa Rica,Latin America and Caribbean,2019.0,7.2,1.0,1.4,1.0,0.6,0.1,0.1,Financially average,Low government trust,Very healthy
+634,Israel,Middle East and Northern Africa,2019.0,7.1,1.3,1.5,1.0,0.4,0.3,0.1,Financially average,Low government trust,Very healthy
+635,Luxembourg,Western Europe,2019.0,7.1,1.6,1.5,1.0,0.5,0.2,0.3,Financially well-off,Average government trust,Very healthy
+636,United Kingdom,Western Europe,2019.0,7.0,1.3,1.5,1.0,0.4,0.4,0.3,Financially average,Average government trust,Very healthy
+637,Ireland,Western Europe,2019.0,7.0,1.5,1.6,1.0,0.5,0.3,0.3,Financially well-off,Average government trust,Very healthy
+638,Germany,Western Europe,2019.0,7.0,1.4,1.4,1.0,0.5,0.3,0.3,Financially well-off,Average government trust,Very healthy
+639,Belgium,Western Europe,2019.0,6.9,1.4,1.5,1.0,0.5,0.2,0.2,Financially well-off,Low government trust,Very healthy
+640,United States of America,North America,2019.0,6.9,1.4,1.5,0.9,0.4,0.3,0.1,Financially well-off,Low government trust,Very healthy
+641,Czech Republic,Central and Eastern Europe,2019.0,6.8,1.3,1.5,0.9,0.5,0.0,0.0,Financially average,Low government trust,Very healthy
+642,United Arab Emirates,Middle East and Northern Africa,2019.0,6.8,1.5,1.3,0.8,0.6,0.3,0.2,Financially well-off,Low government trust,Very healthy
+643,Malta,Western Europe,2019.0,6.7,1.3,1.5,1.0,0.6,0.4,0.2,Financially average,Low government trust,Very healthy
+644,Mexico,Latin America and Caribbean,2019.0,6.6,1.1,1.3,0.9,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+645,France,Western Europe,2019.0,6.6,1.3,1.5,1.0,0.4,0.1,0.2,Financially average,Low government trust,Very healthy
+646,Taiwan,Eastern Asia,2019.0,6.4,1.4,1.4,0.9,0.4,0.2,0.1,Financially well-off,Low government trust,Very healthy
+647,Chile,Latin America and Caribbean,2019.0,6.4,1.2,1.4,0.9,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+648,Guatemala,Latin America and Caribbean,2019.0,6.4,0.8,1.3,0.8,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+649,Saudi Arabia,Middle East and Northern Africa,2019.0,6.4,1.4,1.4,0.8,0.4,0.1,0.1,Financially well-off,Low government trust,Very healthy
+650,Qatar,Middle East and Northern Africa,2019.0,6.4,1.7,1.3,0.9,0.6,0.2,0.2,Financially well-off,Low government trust,Very healthy
+651,Spain,Western Europe,2019.0,6.4,1.3,1.5,1.1,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+652,Panama,Latin America and Caribbean,2019.0,6.3,1.2,1.4,0.9,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+653,Brazil,Latin America and Caribbean,2019.0,6.3,1.0,1.4,0.8,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+654,Uruguay,Latin America and Caribbean,2019.0,6.3,1.1,1.5,0.9,0.5,0.1,0.2,Financially average,Low government trust,Very healthy
+655,Singapore,Southeastern Asia,2019.0,6.3,1.6,1.5,1.1,0.6,0.3,0.4,Financially well-off,High government trust,Very healthy
+656,El Salvador,Latin America and Caribbean,2019.0,6.2,0.8,1.2,0.8,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+657,Italy,Western Europe,2019.0,6.2,1.3,1.5,1.0,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+658,Bahrain,Middle East and Northern Africa,2019.0,6.2,1.4,1.4,0.9,0.5,0.3,0.1,Financially well-off,Low government trust,Very healthy
+659,Slovakia,Central and Eastern Europe,2019.0,6.2,1.2,1.5,0.9,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+660,Trinidad & Tobago,Latin America and Caribbean,2019.0,6.2,1.2,1.5,0.7,0.5,0.2,0.0,Financially average,Low government trust,Very healthy
+661,Poland,Central and Eastern Europe,2019.0,6.2,1.2,1.4,0.9,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+662,Uzbekistan,Central and Eastern Europe,2019.0,6.2,0.7,1.5,0.8,0.6,0.3,0.2,Financially struggling,Low government trust,Very healthy
+663,Lithuania,Central and Eastern Europe,2019.0,6.2,1.2,1.5,0.8,0.3,0.0,0.0,Financially average,Low government trust,Very healthy
+664,Colombia,Latin America and Caribbean,2019.0,6.1,1.0,1.4,0.8,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+665,Slovenia,Central and Eastern Europe,2019.0,6.1,1.3,1.5,1.0,0.6,0.1,0.1,Financially average,Low government trust,Very healthy
+666,Nicaragua,Latin America and Caribbean,2019.0,6.1,0.7,1.3,0.8,0.4,0.2,0.1,Financially struggling,Low government trust,Very healthy
+667,Kosovo,Central and Eastern Europe,2019.0,6.1,0.9,1.2,0.8,0.5,0.3,0.0,Financially average,Low government trust,Very healthy
+668,Argentina,Latin America and Caribbean,2019.0,6.1,1.1,1.4,0.9,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+669,Romania,Central and Eastern Europe,2019.0,6.1,1.2,1.2,0.8,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+670,Cyprus,Western Europe,2019.0,6.0,1.3,1.2,1.0,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+671,Ecuador,Latin America and Caribbean,2019.0,6.0,0.9,1.3,0.9,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+672,Kuwait,Middle East and Northern Africa,2019.0,6.0,1.5,1.3,0.8,0.5,0.1,0.1,Financially well-off,Low government trust,Very healthy
+673,Thailand,Southeastern Asia,2019.0,6.0,1.0,1.4,0.8,0.6,0.4,0.0,Financially average,Low government trust,Very healthy
+674,Latvia,Central and Eastern Europe,2019.0,5.9,1.2,1.5,0.8,0.3,0.1,0.1,Financially average,Low government trust,Very healthy
+675,South Korea,Eastern Asia,2019.0,5.9,1.3,1.2,1.0,0.2,0.2,0.1,Financially average,Low government trust,Very healthy
+676,Estonia,Central and Eastern Europe,2019.0,5.9,1.2,1.5,0.9,0.5,0.1,0.2,Financially average,Low government trust,Very healthy
+677,Jamaica,Latin America and Caribbean,2019.0,5.9,0.8,1.5,0.8,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+678,Mauritius,Sub-Saharan Africa,2019.0,5.9,1.1,1.4,0.8,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+679,Japan,Eastern Asia,2019.0,5.9,1.3,1.4,1.1,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+680,Honduras,Latin America and Caribbean,2019.0,5.9,0.6,1.2,0.8,0.5,0.2,0.1,Financially struggling,Low government trust,Very healthy
+681,Kazakhstan,Central and Eastern Europe,2019.0,5.8,1.2,1.5,0.7,0.4,0.2,0.1,Financially average,Low government trust,Very healthy
+682,Bolivia,Latin America and Caribbean,2019.0,5.8,0.8,1.2,0.7,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+683,Hungary,Central and Eastern Europe,2019.0,5.8,1.2,1.4,0.8,0.2,0.1,0.0,Financially average,Low government trust,Very healthy
+684,Paraguay,Latin America and Caribbean,2019.0,5.7,0.9,1.5,0.8,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+685,Northern Cyprus,Western Europe,2019.0,5.7,1.3,1.2,1.0,0.4,0.2,0.2,Financially average,Low government trust,Very healthy
+686,Peru,Latin America and Caribbean,2019.0,5.7,1.0,1.3,0.8,0.5,0.1,0.0,Financially average,Low government trust,Very healthy
+687,Portugal,Western Europe,2019.0,5.7,1.2,1.4,1.0,0.5,0.0,0.0,Financially average,Low government trust,Very healthy
+688,Pakistan,Southern Asia,2019.0,5.6,0.7,0.9,0.5,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+689,Russia,Central and Eastern Europe,2019.0,5.6,1.2,1.4,0.7,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+690,Philippines,Southeastern Asia,2019.0,5.6,0.8,1.3,0.7,0.6,0.1,0.1,Financially average,Low government trust,Very healthy
+691,Republic of Serbia,Central and Eastern Europe,2019.0,5.6,1.0,1.4,0.8,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+692,Moldova,Central and Eastern Europe,2019.0,5.5,0.7,1.3,0.7,0.2,0.2,0.0,Financially struggling,Low government trust,Very healthy
+693,Libya,Middle East and Northern Africa,2019.0,5.5,1.0,1.3,0.7,0.4,0.1,0.2,Financially average,Low government trust,Very healthy
+694,Montenegro,Central and Eastern Europe,2019.0,5.5,1.0,1.4,0.9,0.2,0.1,0.1,Financially average,Low government trust,Very healthy
+695,Tajikistan,Central and Eastern Europe,2019.0,5.5,0.5,1.1,0.7,0.4,0.2,0.1,Financially struggling,Low government trust,Very healthy
+696,Croatia,Central and Eastern Europe,2019.0,5.4,1.2,1.3,0.9,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+697,Hong Kong,Eastern Asia,2019.0,5.4,1.4,1.3,1.1,0.4,0.3,0.3,Financially well-off,Average government trust,Very healthy
+698,Dominican Republic,Latin America and Caribbean,2019.0,5.4,1.0,1.4,0.8,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+699,Bosnia and Herzegovina,Central and Eastern Europe,2019.0,5.4,0.9,1.2,0.8,0.2,0.3,0.0,Financially average,Low government trust,Very healthy
+700,Turkey,Middle East and Northern Africa,2019.0,5.4,1.2,1.4,0.8,0.2,0.1,0.1,Financially average,Low government trust,Very healthy
+701,Malaysia,Southeastern Asia,2019.0,5.3,1.2,1.2,0.8,0.5,0.3,0.0,Financially average,Low government trust,Very healthy
+702,Belarus,Central and Eastern Europe,2019.0,5.3,1.1,1.5,0.8,0.2,0.1,0.1,Financially average,Low government trust,Very healthy
+703,Greece,Western Europe,2019.0,5.3,1.2,1.2,1.0,0.1,0.0,0.0,Financially average,Low government trust,Very healthy
+704,Mongolia,Eastern Asia,2019.0,5.3,1.0,1.5,0.7,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+705,North Macedonia,Central and Eastern Europe,2019.0,5.3,1.0,1.3,0.8,0.3,0.2,0.0,Financially average,Low government trust,Very healthy
+706,Nigeria,Sub-Saharan Africa,2019.0,5.3,0.7,1.1,0.2,0.4,0.2,0.0,Financially struggling,Low government trust,Not healthy
+707,Kyrgyzstan,Central and Eastern Europe,2019.0,5.3,0.6,1.4,0.7,0.5,0.3,0.0,Financially struggling,Low government trust,Very healthy
+708,Turkmenistan,Central and Eastern Europe,2019.0,5.2,1.0,1.5,0.7,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+709,Algeria,Middle East and Northern Africa,2019.0,5.2,1.0,1.2,0.8,0.1,0.1,0.1,Financially average,Low government trust,Very healthy
+710,Morocco,Middle East and Northern Africa,2019.0,5.2,0.8,0.8,0.8,0.4,0.0,0.1,Financially average,Low government trust,Very healthy
+711,Azerbaijan,Central and Eastern Europe,2019.0,5.2,1.0,1.2,0.8,0.4,0.0,0.2,Financially average,Low government trust,Very healthy
+712,Lebanon,Middle East and Northern Africa,2019.0,5.2,1.0,1.2,0.8,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+713,Indonesia,Southeastern Asia,2019.0,5.2,0.9,1.2,0.7,0.5,0.5,0.0,Financially average,Low government trust,Very healthy
+714,China,Eastern Asia,2019.0,5.2,1.0,1.1,0.9,0.5,0.1,0.1,Financially average,Low government trust,Very healthy
+715,Vietnam,Southeastern Asia,2019.0,5.2,0.7,1.4,0.8,0.5,0.2,0.1,Financially struggling,Low government trust,Very healthy
+716,Bhutan,Southern Asia,2019.0,5.1,0.8,1.3,0.6,0.5,0.4,0.2,Financially average,Low government trust,Very healthy
+717,Cameroon,Sub-Saharan Africa,2019.0,5.0,0.6,0.9,0.3,0.4,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+718,Bulgaria,Central and Eastern Europe,2019.0,5.0,1.1,1.5,0.8,0.3,0.1,0.0,Financially average,Low government trust,Very healthy
+719,Ghana,Sub-Saharan Africa,2019.0,5.0,0.6,0.9,0.5,0.4,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+720,Ivory Coast,Sub-Saharan Africa,2019.0,4.9,0.6,0.8,0.2,0.4,0.2,0.1,Financially struggling,Low government trust,Not healthy
+721,Nepal,Southern Asia,2019.0,4.9,0.4,1.2,0.7,0.4,0.3,0.1,Financially struggling,Low government trust,Very healthy
+722,Jordan,Middle East and Northern Africa,2019.0,4.9,0.8,1.2,0.8,0.4,0.1,0.1,Financially average,Low government trust,Very healthy
+723,Benin,Sub-Saharan Africa,2019.0,4.9,0.4,0.4,0.4,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+724,Democratic Republic of the Congo,Sub-Saharan Africa,2019.0,4.8,0.7,0.8,0.5,0.4,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+725,Gabon,Sub-Saharan Africa,2019.0,4.8,1.1,1.2,0.6,0.3,0.0,0.1,Financially average,Low government trust,Very healthy
+726,Laos,Southeastern Asia,2019.0,4.8,0.8,1.0,0.6,0.6,0.3,0.2,Financially average,Low government trust,Very healthy
+727,South Africa,Sub-Saharan Africa,2019.0,4.7,1.0,1.4,0.5,0.4,0.1,0.1,Financially average,Low government trust,Moderately healthy
+728,Albania,Central and Eastern Europe,2019.0,4.7,1.0,0.8,0.9,0.4,0.2,0.0,Financially average,Low government trust,Very healthy
+729,Venezuela,Latin America and Caribbean,2019.0,4.7,1.0,1.4,0.8,0.2,0.1,0.0,Financially average,Low government trust,Very healthy
+730,Cambodia,Southeastern Asia,2019.0,4.7,0.6,1.1,0.6,0.6,0.2,0.1,Financially struggling,Low government trust,Very healthy
+731,Palestinian Territories,Middle East and Northern Africa,2019.0,4.7,0.7,1.2,0.7,0.2,0.1,0.1,Financially struggling,Low government trust,Very healthy
+732,Senegal,Sub-Saharan Africa,2019.0,4.7,0.4,1.1,0.6,0.3,0.2,0.1,Financially struggling,Low government trust,Very healthy
+733,Somalia,Sub-Saharan Africa,2019.0,4.7,0.0,0.7,0.3,0.6,0.2,0.3,Financially struggling,Average government trust,Moderately healthy
+734,Namibia,Sub-Saharan Africa,2019.0,4.6,0.9,1.3,0.5,0.4,0.1,0.1,Financially average,Low government trust,Moderately healthy
+735,Niger,Sub-Saharan Africa,2019.0,4.6,0.1,0.8,0.4,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+736,Burkina Faso,Sub-Saharan Africa,2019.0,4.6,0.3,1.1,0.4,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+737,Armenia,Central and Eastern Europe,2019.0,4.6,0.8,1.1,0.8,0.3,0.1,0.1,Financially average,Low government trust,Very healthy
+738,Iran,Middle East and Northern Africa,2019.0,4.6,1.1,0.8,0.8,0.3,0.3,0.1,Financially average,Low government trust,Very healthy
+739,Guinea,Sub-Saharan Africa,2019.0,4.5,0.4,0.8,0.4,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+740,Georgia,Central and Eastern Europe,2019.0,4.5,0.9,0.7,0.8,0.4,0.0,0.2,Financially average,Low government trust,Very healthy
+741,Gambia,Sub-Saharan Africa,2019.0,4.5,0.3,0.9,0.4,0.4,0.3,0.2,Financially struggling,Low government trust,Moderately healthy
+742,Kenya,Sub-Saharan Africa,2019.0,4.5,0.5,1.0,0.6,0.4,0.4,0.0,Financially struggling,Low government trust,Very healthy
+743,Mauritania,Sub-Saharan Africa,2019.0,4.5,0.6,1.2,0.5,0.1,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+744,Mozambique,Sub-Saharan Africa,2019.0,4.5,0.2,1.0,0.4,0.5,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+745,Tunisia,Middle East and Northern Africa,2019.0,4.5,0.9,1.0,0.8,0.2,0.1,0.1,Financially average,Low government trust,Very healthy
+746,Bangladesh,Southern Asia,2019.0,4.5,0.6,0.9,0.7,0.5,0.2,0.1,Financially struggling,Low government trust,Very healthy
+747,Iraq,Middle East and Northern Africa,2019.0,4.4,1.0,1.0,0.6,0.2,0.2,0.1,Financially average,Low government trust,Very healthy
+748,Mali,Sub-Saharan Africa,2019.0,4.4,0.4,1.1,0.3,0.3,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+749,Sierra Leone,Sub-Saharan Africa,2019.0,4.4,0.3,0.8,0.2,0.3,0.2,0.0,Financially struggling,Low government trust,Not healthy
+750,Sri Lanka,Southern Asia,2019.0,4.4,1.0,1.3,0.8,0.5,0.2,0.0,Financially average,Low government trust,Very healthy
+751,Myanmar,Southeastern Asia,2019.0,4.4,0.7,1.2,0.6,0.5,0.6,0.2,Financially struggling,Low government trust,Very healthy
+752,Chad,Sub-Saharan Africa,2019.0,4.4,0.4,0.8,0.2,0.2,0.2,0.1,Financially struggling,Low government trust,Not healthy
+753,Ukraine,Central and Eastern Europe,2019.0,4.3,0.8,1.4,0.7,0.2,0.2,0.0,Financially average,Low government trust,Very healthy
+754,Ethiopia,Sub-Saharan Africa,2019.0,4.3,0.3,1.0,0.5,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+755,Swaziland,Sub-Saharan Africa,2019.0,4.2,0.8,1.2,0.0,0.3,0.1,0.1,Financially average,Low government trust,Not healthy
+756,Uganda,Sub-Saharan Africa,2019.0,4.2,0.3,1.1,0.4,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+757,Egypt,Middle East and Northern Africa,2019.0,4.2,0.9,1.0,0.6,0.2,0.1,0.1,Financially average,Low government trust,Very healthy
+758,Zambia,Sub-Saharan Africa,2019.0,4.1,0.6,1.1,0.4,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+759,Togo,Sub-Saharan Africa,2019.0,4.1,0.3,0.6,0.4,0.3,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+760,India,Southern Asia,2019.0,4.0,0.8,0.8,0.6,0.5,0.2,0.1,Financially average,Low government trust,Very healthy
+761,Liberia,Sub-Saharan Africa,2019.0,4.0,0.1,0.9,0.4,0.4,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+762,Comoros,Sub-Saharan Africa,2019.0,4.0,0.3,0.8,0.5,0.1,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+763,Madagascar,Sub-Saharan Africa,2019.0,3.9,0.3,0.9,0.6,0.2,0.2,0.0,Financially struggling,Low government trust,Very healthy
+764,Lesotho,Sub-Saharan Africa,2019.0,3.8,0.5,1.2,0.2,0.4,0.1,0.1,Financially struggling,Low government trust,Not healthy
+765,Burundi,Sub-Saharan Africa,2019.0,3.8,0.0,0.4,0.4,0.2,0.2,0.2,Financially struggling,Low government trust,Moderately healthy
+766,Zimbabwe,Sub-Saharan Africa,2019.0,3.7,0.4,1.1,0.4,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+767,Haiti,Latin America and Caribbean,2019.0,3.6,0.3,0.7,0.4,0.0,0.4,0.1,Financially struggling,Low government trust,Moderately healthy
+768,Botswana,Sub-Saharan Africa,2019.0,3.5,1.0,1.1,0.5,0.5,0.0,0.1,Financially average,Low government trust,Moderately healthy
+769,Syria,Middle East and Northern Africa,2019.0,3.5,0.6,0.4,0.4,0.0,0.3,0.1,Financially struggling,Low government trust,Moderately healthy
+770,Malawi,Sub-Saharan Africa,2019.0,3.4,0.2,0.6,0.5,0.4,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+771,Yemen,Middle East and Northern Africa,2019.0,3.4,0.3,1.2,0.5,0.1,0.1,0.1,Financially struggling,Low government trust,Moderately healthy
+772,Rwanda,Sub-Saharan Africa,2019.0,3.3,0.4,0.7,0.6,0.6,0.2,0.4,Financially struggling,High government trust,Very healthy
+773,United Republic of Tanzania,Sub-Saharan Africa,2019.0,3.2,0.5,0.9,0.5,0.4,0.3,0.2,Financially struggling,Low government trust,Moderately healthy
+774,Afghanistan,Southern Asia,2019.0,3.2,0.4,0.5,0.4,0.0,0.2,0.0,Financially struggling,Low government trust,Moderately healthy
+775,Central African Republic,Sub-Saharan Africa,2019.0,3.1,0.0,0.0,0.1,0.2,0.2,0.0,Financially struggling,Low government trust,Not healthy
+776,South Sudan,Sub-Saharan Africa,2019.0,2.8,0.3,0.6,0.3,0.0,0.2,0.1,Financially struggling,Low government trust,Moderately healthy
+777,Finland,Western Europe,2020.0,7.8,10.64,0.95,71.9,0.95,-0.06,0.2,,,
+778,Denmark,Western Europe,2020.0,7.6,10.77,0.96,72.4,0.95,0.07,0.17,,,
+779,Switzerland,Western Europe,2020.0,7.6,10.98,0.94,74.1,0.92,0.11,0.3,,,
+780,Iceland,Western Europe,2020.0,7.5,10.77,0.97,73.0,0.95,0.25,0.71,,,
+781,Norway,Western Europe,2020.0,7.5,11.09,0.95,73.2,0.96,0.13,0.26,,,
+782,Netherlands,Western Europe,2020.0,7.4,10.81,0.94,72.3,0.91,0.21,0.36,,,
+783,Sweden,Western Europe,2020.0,7.4,10.76,0.93,72.6,0.94,0.11,0.25,,,
+784,New Zealand,Australia and New Zealand,2020.0,7.3,10.5,0.95,73.2,0.94,0.19,0.22,,,
+785,Austria,Western Europe,2020.0,7.3,10.74,0.93,73.0,0.9,0.09,0.5,,,
+786,Luxembourg,Western Europe,2020.0,7.2,11.45,0.91,72.6,0.91,0.0,0.37,,,
+787,Canada,North America,2020.0,7.2,10.69,0.93,73.6,0.93,0.12,0.39,,,
+788,Australia,Australia and New Zealand,2020.0,7.2,10.72,0.94,73.6,0.92,0.19,0.42,,,
+789,United Kingdom,Western Europe,2020.0,7.2,10.6,0.94,72.3,0.83,0.26,0.44,,,
+790,Israel,Middle East and North Africa,2020.0,7.1,10.42,0.91,73.2,0.75,0.1,0.78,,,
+791,Costa Rica,Latin America and Caribbean,2020.0,7.1,9.66,0.9,71.3,0.93,-0.1,0.79,,,
+792,Ireland,Western Europe,2020.0,7.1,11.16,0.94,72.3,0.89,0.15,0.36,,,
+793,Germany,Western Europe,2020.0,7.1,10.73,0.9,72.2,0.87,0.08,0.46,,,
+794,United States,North America,2020.0,6.9,10.93,0.91,68.3,0.84,0.15,0.7,,,
+795,Czech Republic,Central and Eastern Europe,2020.0,6.9,10.4,0.91,70.05,0.82,-0.23,0.86,,,
+796,Belgium,Western Europe,2020.0,6.9,10.67,0.91,72.0,0.81,-0.08,0.61,,,
+797,United Arab Emirates,Middle East and North Africa,2020.0,6.8,11.11,0.85,67.08,0.94,0.12,0.59,,,
+798,Malta,Western Europe,2020.0,6.8,10.53,0.93,72.2,0.92,0.21,0.66,,,
+799,France,Western Europe,2020.0,6.7,10.58,0.94,73.8,0.83,-0.13,0.58,,,
+800,Mexico,Latin America and Caribbean,2020.0,6.5,9.8,0.84,68.3,0.86,-0.18,0.81,,,
+801,Taiwan,East Asia,2020.0,6.5,10.78,0.89,69.6,0.77,-0.07,0.73,,,
+802,Uruguay,Latin America and Caribbean,2020.0,6.4,9.95,0.92,69.0,0.89,-0.1,0.64,,,
+803,Saudi Arabia,Middle East and North Africa,2020.0,6.4,10.8,0.87,66.31,0.85,-0.17,0.68,,,
+804,Spain,Western Europe,2020.0,6.4,10.46,0.92,74.4,0.75,-0.05,0.77,,,
+805,Guatemala,Latin America and Caribbean,2020.0,6.4,8.92,0.82,64.81,0.91,-0.04,0.78,,,
+806,Italy,Western Europe,2020.0,6.4,10.48,0.89,73.6,0.66,-0.04,0.87,,,
+807,Singapore,Southeast Asia,2020.0,6.4,11.4,0.91,76.8,0.93,0.03,0.11,,,
+808,Brazil,Latin America and Caribbean,2020.0,6.4,9.57,0.9,66.48,0.8,-0.1,0.77,,,
+809,Slovenia,Central and Eastern Europe,2020.0,6.4,10.39,0.94,71.1,0.94,-0.08,0.82,,,
+810,El Salvador,Latin America and Caribbean,2020.0,6.3,8.91,0.81,66.11,0.83,-0.12,0.75,,,
+811,Kosovo,Central and Eastern Europe,2020.0,6.3,9.2,0.82,63.89,0.86,0.19,0.92,,,
+812,Panama,Latin America and Caribbean,2020.0,6.3,10.03,0.9,69.6,0.88,-0.15,0.85,,,
+813,Slovakia,Central and Eastern Europe,2020.0,6.3,10.35,0.92,68.91,0.75,-0.12,0.92,,,
+814,Uzbekistan,Central and Eastern Europe,2020.0,6.3,8.74,0.93,65.11,0.97,0.25,0.5,,,
+815,Chile,Latin America and Caribbean,2020.0,6.2,10.03,0.88,69.9,0.74,-0.07,0.84,,,
+816,Bahrain,Middle East and North Africa,2020.0,6.2,10.68,0.88,68.5,0.91,0.13,0.74,,,
+817,Lithuania,Central and Eastern Europe,2020.0,6.2,10.34,0.93,67.29,0.75,-0.22,0.81,,,
+818,Trinidad and Tobago,Latin America and Caribbean,2020.0,6.2,10.26,0.92,63.5,0.86,0.0,0.91,,,
+819,Poland,Central and Eastern Europe,2020.0,6.2,10.27,0.87,69.31,0.86,-0.21,0.69,,,
+820,Colombia,Latin America and Caribbean,2020.0,6.2,9.5,0.88,67.7,0.84,-0.16,0.86,,,
+821,Cyprus,Western Europe,2020.0,6.2,10.41,0.81,73.7,0.78,0.04,0.86,,,
+822,Nicaragua,Latin America and Caribbean,2020.0,6.1,8.49,0.86,67.51,0.86,0.02,0.67,,,
+823,Romania,Central and Eastern Europe,2020.0,6.1,10.11,0.83,67.21,0.84,-0.2,0.93,,,
+824,Kuwait,Middle East and North Africa,2020.0,6.1,11.09,0.85,66.77,0.87,-0.1,0.76,,,
+825,Mauritius,Sub-Saharan Africa,2020.0,6.1,9.96,0.91,66.4,0.89,-0.02,0.81,,,
+826,Kazakhstan,Central and Eastern Europe,2020.0,6.1,10.11,0.93,64.61,0.81,-0.07,0.76,,,
+827,Estonia,Central and Eastern Europe,2020.0,6.0,10.34,0.93,68.6,0.88,-0.11,0.62,,,
+828,Philippines,Southeast Asia,2020.0,6.0,8.99,0.85,61.93,0.92,-0.11,0.73,,,
+829,Hungary,Central and Eastern Europe,2020.0,6.0,10.25,0.92,67.61,0.72,-0.19,0.89,,,
+830,Thailand,Southeast Asia,2020.0,6.0,9.74,0.89,67.25,0.91,0.27,0.89,,,
+831,Argentina,Latin America and Caribbean,2020.0,6.0,9.81,0.9,68.8,0.83,-0.19,0.84,,,
+832,Honduras,Latin America and Caribbean,2020.0,6.0,8.42,0.82,67.2,0.87,0.09,0.8,,,
+833,Latvia,Central and Eastern Europe,2020.0,5.9,10.18,0.92,66.81,0.67,-0.19,0.8,,,
+834,Ecuador,Latin America and Caribbean,2020.0,5.9,9.25,0.84,68.5,0.86,-0.13,0.8,,,
+835,Portugal,Western Europe,2020.0,5.9,10.26,0.89,72.4,0.89,-0.22,0.89,,,
+836,Jamaica,Latin America and Caribbean,2020.0,5.9,9.01,0.92,67.1,0.86,-0.13,0.89,,,
+837,South Korea,East Asia,2020.0,5.9,10.51,0.8,73.6,0.61,-0.04,0.79,,,
+838,Japan,East Asia,2020.0,5.9,10.58,0.88,75.0,0.81,-0.25,0.65,,,
+839,Peru,Latin America and Caribbean,2020.0,5.8,9.46,0.83,68.1,0.82,-0.16,0.89,,,
+840,Serbia,Central and Eastern Europe,2020.0,5.8,9.68,0.88,68.21,0.73,-0.07,0.84,,,
+841,Bolivia,Latin America and Caribbean,2020.0,5.7,8.85,0.8,63.6,0.88,-0.09,0.82,,,
+842,Pakistan,South Asia,2020.0,5.7,8.48,0.69,58.25,0.73,0.04,0.75,,,
+843,Paraguay,Latin America and Caribbean,2020.0,5.7,9.39,0.9,65.64,0.89,0.01,0.83,,,
+844,Dominican Republic,Latin America and Caribbean,2020.0,5.7,9.66,0.88,65.81,0.87,-0.13,0.76,,,
+845,Bosnia and Herzegovina,Central and Eastern Europe,2020.0,5.7,9.46,0.83,67.81,0.65,0.1,0.93,,,
+846,Moldova,Central and Eastern Europe,2020.0,5.6,8.78,0.84,65.01,0.72,-0.04,0.91,,,
+847,Tajikistan,Central and Eastern Europe,2020.0,5.6,8.02,0.84,64.1,0.83,-0.03,0.59,,,
+848,Montenegro,Central and Eastern Europe,2020.0,5.5,9.75,0.86,68.51,0.65,-0.08,0.78,,,
+849,Russia,Central and Eastern Europe,2020.0,5.5,10.13,0.9,64.1,0.73,-0.15,0.86,,,
+850,Kyrgyzstan,Central and Eastern Europe,2020.0,5.5,8.15,0.89,64.11,0.91,0.15,0.89,,,
+851,Belarus,Central and Eastern Europe,2020.0,5.5,9.78,0.91,66.1,0.64,-0.16,0.64,,,
+852,North Cyprus,Western Europe,2020.0,5.5,10.41,0.82,73.7,0.8,0.0,0.63,,,
+853,Greece,Western Europe,2020.0,5.5,10.13,0.81,72.41,0.54,-0.3,0.86,,,
+854,Hong Kong,East Asia,2020.0,5.5,10.93,0.85,76.77,0.78,0.13,0.42,,,
+855,Croatia,Central and Eastern Europe,2020.0,5.5,10.07,0.87,70.21,0.71,-0.13,0.92,,,
+856,Libya,Middle East and North Africa,2020.0,5.5,9.79,0.83,62.3,0.77,-0.09,0.67,,,
+857,Mongolia,East Asia,2020.0,5.5,9.41,0.94,62.3,0.69,0.1,0.86,,,
+858,Malaysia,Southeast Asia,2020.0,5.4,10.26,0.82,67.1,0.89,0.11,0.84,,,
+859,Vietnam,Southeast Asia,2020.0,5.4,8.81,0.85,67.95,0.94,-0.09,0.8,,,
+860,Indonesia,Southeast Asia,2020.0,5.3,9.37,0.81,62.16,0.87,0.52,0.88,,,
+861,Ivory Coast,Sub-Saharan Africa,2020.0,5.2,8.23,0.66,49.5,0.73,-0.04,0.79,,,
+862,Benin,Sub-Saharan Africa,2020.0,5.2,7.67,0.47,54.31,0.74,0.0,0.74,,,
+863,Maldives,South Asia,2020.0,5.2,9.52,0.91,70.6,0.85,0.04,0.82,,,
+864,Democratic Republic of the Congo,Sub-Saharan Africa,2020.0,5.2,8.54,0.64,57.92,0.72,-0.12,0.75,,,
+865,Azerbaijan,Central and Eastern Europe,2020.0,5.2,9.69,0.82,65.51,0.79,-0.24,0.55,,,
+866,Macedonia,Central and Eastern Europe,2020.0,5.2,9.51,0.82,67.5,0.74,-0.02,0.9,,,
+867,Ghana,Sub-Saharan Africa,2020.0,5.1,8.35,0.73,57.2,0.79,0.09,0.85,,,
+868,Nepal,South Asia,2020.0,5.1,7.93,0.79,63.78,0.8,0.15,0.74,,,
+869,Turkey,Middle East and North Africa,2020.0,5.1,10.13,0.83,66.9,0.61,-0.17,0.75,,,
+870,China,East Asia,2020.0,5.1,9.69,0.8,69.29,0.9,-0.18,0.75,,,
+871,Turkmenistan,Central and Eastern Europe,2020.0,5.1,9.75,0.96,62.21,0.83,0.19,0.88,,,
+872,Bulgaria,Central and Eastern Europe,2020.0,5.1,9.87,0.94,66.8,0.75,-0.14,0.94,,,
+873,Morocco,Middle East and North Africa,2020.0,5.1,8.94,0.59,65.9,0.77,-0.24,0.82,,,
+874,Cameroon,Sub-Saharan Africa,2020.0,5.1,8.12,0.7,52.7,0.76,0.0,0.85,,,
+875,Venezuela,Latin America and Caribbean,2020.0,5.1,8.98,0.89,66.51,0.62,-0.17,0.84,,,
+876,Algeria,Middle East and North Africa,2020.0,5.0,9.54,0.8,65.91,0.47,-0.12,0.74,,,
+877,Senegal,Sub-Saharan Africa,2020.0,5.0,8.12,0.72,59.6,0.69,-0.05,0.81,,,
+878,Guinea,Sub-Saharan Africa,2020.0,4.9,7.75,0.64,54.47,0.71,0.08,0.76,,,
+879,Niger,Sub-Saharan Africa,2020.0,4.9,6.84,0.62,53.5,0.76,0.01,0.72,,,
+880,Laos,Southeast Asia,2020.0,4.9,8.8,0.74,58.71,0.91,0.11,0.63,,,
+881,Albania,Central and Eastern Europe,2020.0,4.9,9.42,0.67,68.71,0.78,-0.04,0.9,,,
+882,Cambodia,Southeast Asia,2020.0,4.8,8.25,0.77,61.53,0.96,0.05,0.82,,,
+883,Bangladesh,South Asia,2020.0,4.8,8.29,0.69,64.5,0.9,-0.03,0.66,,,
+884,Gabon,Sub-Saharan Africa,2020.0,4.8,9.68,0.79,59.72,0.7,-0.22,0.85,,,
+885,South Africa,Sub-Saharan Africa,2020.0,4.8,9.4,0.85,56.51,0.76,-0.11,0.84,,,
+886,Iraq,Middle East and North Africa,2020.0,4.8,9.66,0.75,59.9,0.63,-0.07,0.82,,,
+887,Lebanon,Middle East and North Africa,2020.0,4.8,9.36,0.82,67.11,0.55,-0.06,0.9,,,
+888,Burkina Faso,Sub-Saharan Africa,2020.0,4.8,7.47,0.71,53.89,0.67,-0.02,0.74,,,
+889,Gambia,Sub-Saharan Africa,2020.0,4.8,7.32,0.69,55.01,0.73,0.34,0.69,,,
+890,Mali,Sub-Saharan Africa,2020.0,4.7,7.63,0.73,51.73,0.71,-0.04,0.84,,,
+891,Nigeria,Sub-Saharan Africa,2020.0,4.7,8.58,0.74,49.86,0.76,0.03,0.86,,,
+892,Armenia,Central and Eastern Europe,2020.0,4.7,9.1,0.76,66.75,0.71,-0.14,0.77,,,
+893,Georgia,Central and Eastern Europe,2020.0,4.7,9.23,0.63,64.5,0.8,-0.23,0.67,,,
+894,Iran,Middle East and North Africa,2020.0,4.7,9.81,0.69,66.01,0.65,0.12,0.71,,,
+895,Jordan,Middle East and North Africa,2020.0,4.6,9.03,0.8,66.8,0.75,-0.16,0.7,,,
+896,Mozambique,Sub-Saharan Africa,2020.0,4.6,7.07,0.72,54.21,0.86,0.03,0.68,,,
+897,Kenya,Sub-Saharan Africa,2020.0,4.6,8.03,0.7,60.1,0.83,0.29,0.83,,,
+898,Namibia,Sub-Saharan Africa,2020.0,4.6,9.2,0.85,56.5,0.77,-0.19,0.85,,,
+899,Ukraine,Central and Eastern Europe,2020.0,4.6,9.01,0.88,64.61,0.66,-0.03,0.92,,,
+900,Liberia,Sub-Saharan Africa,2020.0,4.6,7.05,0.71,56.1,0.74,0.04,0.86,,,
+901,Palestinian Territories,Middle East and North Africa,2020.0,4.6,8.39,0.83,62.25,0.65,-0.16,0.82,,,
+902,Uganda,Sub-Saharan Africa,2020.0,4.4,7.5,0.76,55.71,0.73,0.1,0.84,,,
+903,Chad,Sub-Saharan Africa,2020.0,4.4,7.47,0.63,48.22,0.59,0.02,0.8,,,
+904,Tunisia,Middle East and North Africa,2020.0,4.4,9.31,0.69,66.9,0.59,-0.22,0.87,,,
+905,Mauritania,Sub-Saharan Africa,2020.0,4.4,8.23,0.79,57.01,0.55,-0.11,0.75,,,
+906,Sri Lanka,South Asia,2020.0,4.3,9.39,0.83,67.2,0.84,0.08,0.86,,,
+907,Democratic Republic of the Congo,Sub-Saharan Africa,2020.0,4.3,6.69,0.67,52.9,0.7,0.08,0.81,,,
+908,Swaziland,Sub-Saharan Africa,2020.0,4.3,9.16,0.77,51.19,0.65,-0.2,0.71,,,
+909,Myanmar,Southeast Asia,2020.0,4.3,8.68,0.78,58.96,0.9,0.56,0.65,,,
+910,Comoros,Sub-Saharan Africa,2020.0,4.3,7.83,0.63,57.35,0.55,0.09,0.78,,,
+911,Togo,Sub-Saharan Africa,2020.0,4.2,7.36,0.55,54.72,0.65,0.0,0.76,,,
+912,Ethiopia,Sub-Saharan Africa,2020.0,4.2,7.51,0.74,58.64,0.74,0.04,0.75,,,
+913,Madagascar,Sub-Saharan Africa,2020.0,4.2,7.28,0.67,59.11,0.56,-0.01,0.82,,,
+914,Egypt,Middle East and North Africa,2020.0,4.2,9.32,0.74,61.78,0.71,-0.2,0.79,,,
+915,Sierra Leone,Sub-Saharan Africa,2020.0,3.9,7.27,0.64,50.87,0.72,0.09,0.86,,,
+916,Burundi,Sub-Saharan Africa,2020.0,3.8,6.49,0.49,53.4,0.63,-0.02,0.61,,,
+917,Zambia,Sub-Saharan Africa,2020.0,3.8,8.22,0.7,55.3,0.81,0.08,0.8,,,
+918,Haiti,Latin America and Caribbean,2020.0,3.7,7.41,0.59,55.6,0.54,0.4,0.68,,,
+919,Lesotho,Sub-Saharan Africa,2020.0,3.7,7.96,0.78,48.0,0.74,-0.15,0.86,,,
+920,India,South Asia,2020.0,3.6,8.85,0.59,60.22,0.88,0.06,0.77,,,
+921,Malawi,Sub-Saharan Africa,2020.0,3.5,7.06,0.54,57.59,0.8,0.02,0.73,,,
+922,Yemen,Middle East and North Africa,2020.0,3.5,7.76,0.82,56.73,0.6,-0.16,0.8,,,
+923,Botswana,Sub-Saharan Africa,2020.0,3.5,9.71,0.78,58.92,0.82,-0.25,0.78,,,
+924,Tanzania,Sub-Saharan Africa,2020.0,3.5,7.97,0.69,57.5,0.82,0.11,0.62,,,
+925,Central African Republic,Sub-Saharan Africa,2020.0,3.5,6.63,0.32,45.2,0.64,0.08,0.89,,,
+926,Rwanda,Sub-Saharan Africa,2020.0,3.3,7.6,0.54,61.1,0.9,0.06,0.18,,,
+927,Zimbabwe,Sub-Saharan Africa,2020.0,3.3,7.87,0.76,55.62,0.71,-0.07,0.81,,,
+928,South Sudan,Sub-Saharan Africa,2020.0,2.8,7.43,0.55,51.0,0.45,0.02,0.76,,,
+929,Afghanistan,South Asia,2020.0,2.6,7.46,0.47,52.59,0.4,-0.1,0.93,,,
+930,Finland,Western Europe,2021.0,7.8,10.8,1.0,72.0,0.9,-0.1,0.2,,,
+931,Denmark,Western Europe,2021.0,7.6,10.9,1.0,72.7,0.9,0.0,0.2,,,
+932,Switzerland,Western Europe,2021.0,7.6,11.1,0.9,74.4,0.9,0.0,0.3,,,
+933,Iceland,Western Europe,2021.0,7.6,10.9,1.0,73.0,1.0,0.2,0.7,,,
+934,Netherlands,Western Europe,2021.0,7.5,10.9,0.9,72.4,0.9,0.2,0.3,,,
+935,Norway,Western Europe,2021.0,7.4,11.1,1.0,73.3,1.0,0.1,0.3,,,
+936,Sweden,Western Europe,2021.0,7.4,10.9,0.9,72.7,0.9,0.1,0.2,,,
+937,Luxembourg,Western Europe,2021.0,7.3,11.6,0.9,72.6,0.9,0.0,0.4,,,
+938,New Zealand,Australia and New Zeland,2021.0,7.3,10.6,0.9,73.4,0.9,0.1,0.2,,,
+939,Austria,Western Europe,2021.0,7.3,10.9,0.9,73.3,0.9,0.0,0.5,,,
+940,Australia,Australia and New Zeland,2021.0,7.2,10.8,0.9,73.9,0.9,0.2,0.4,,,
+941,Israel,Middle East and North Africa,2021.0,7.2,10.6,0.9,73.5,0.8,0.0,0.8,,,
+942,Germany,Western Europe,2021.0,7.2,10.9,0.9,72.5,0.9,0.0,0.5,,,
+943,Canada,North America,2021.0,7.1,10.8,0.9,73.8,0.9,0.1,0.4,,,
+944,Ireland,Western Europe,2021.0,7.1,11.3,0.9,72.4,0.9,0.1,0.4,,,
+945,Costa Rica,Latin America and Caribbean,2021.0,7.1,9.9,0.9,71.4,0.9,-0.1,0.8,,,
+946,United Kingdom,Western Europe,2021.0,7.1,10.7,0.9,72.5,0.9,0.2,0.5,,,
+947,Czech Republic,Central and Eastern Europe,2021.0,7.0,10.6,0.9,70.8,0.9,-0.2,0.9,,,
+948,United States,North America,2021.0,7.0,11.0,0.9,68.2,0.8,0.1,0.7,,,
+949,Belgium,Western Europe,2021.0,6.8,10.8,0.9,72.2,0.8,-0.2,0.6,,,
+950,France,Western Europe,2021.0,6.7,10.7,0.9,74.0,0.8,-0.1,0.6,,,
+951,Bahrain,Middle East and North Africa,2021.0,6.6,10.7,0.9,69.5,0.9,0.1,0.7,,,
+952,Malta,Western Europe,2021.0,6.6,10.7,0.9,72.2,0.9,0.1,0.7,,,
+953,Taiwan,East Asia,2021.0,6.6,10.9,0.9,69.6,0.8,-0.1,0.7,,,
+954,United Arab Emirates,Middle East and North Africa,2021.0,6.6,11.1,0.8,67.3,0.9,0.1,0.6,,,
+955,Saudi Arabia,Middle East and North Africa,2021.0,6.5,10.7,0.9,66.6,0.9,-0.1,0.7,,,
+956,Spain,Western Europe,2021.0,6.5,10.6,0.9,74.7,0.8,-0.1,0.7,,,
+957,Italy,Western Europe,2021.0,6.5,10.6,0.9,73.8,0.7,-0.1,0.9,,,
+958,Slovenia,Central and Eastern Europe,2021.0,6.5,10.5,0.9,71.4,0.9,-0.1,0.8,,,
+959,Guatemala,Latin America and Caribbean,2021.0,6.4,9.1,0.8,65.0,0.9,0.0,0.8,,,
+960,Uruguay,Latin America and Caribbean,2021.0,6.4,10.0,0.9,69.1,0.9,-0.1,0.6,,,
+961,Singapore,Southeast Asia,2021.0,6.4,11.5,0.9,77.0,0.9,0.0,0.1,,,
+962,Kosovo,Central and Eastern Europe,2021.0,6.4,9.3,0.8,63.8,0.9,0.3,0.9,,,
+963,Slovakia,Central and Eastern Europe,2021.0,6.3,10.4,0.9,69.2,0.8,-0.1,0.9,,,
+964,Brazil,Latin America and Caribbean,2021.0,6.3,9.6,0.9,66.6,0.8,-0.1,0.8,,,
+965,Mexico,Latin America and Caribbean,2021.0,6.3,9.9,0.8,68.6,0.9,-0.1,0.8,,,
+966,Jamaica,Latin America and Caribbean,2021.0,6.3,9.2,0.9,67.5,0.9,-0.1,0.9,,,
+967,Lithuania,Central and Eastern Europe,2021.0,6.3,10.5,0.9,67.9,0.8,-0.2,0.8,,,
+968,Cyprus,Western Europe,2021.0,6.2,10.6,0.8,73.9,0.8,0.0,0.8,,,
+969,Estonia,Central and Eastern Europe,2021.0,6.2,10.5,0.9,68.8,0.9,-0.1,0.5,,,
+970,Panama,Latin America and Caribbean,2021.0,6.2,10.4,0.9,69.7,0.9,-0.2,0.9,,,
+971,Uzbekistan,Central and Eastern Europe,2021.0,6.2,8.8,0.9,65.3,1.0,0.3,0.5,,,
+972,Chile,Latin America and Caribbean,2021.0,6.2,10.1,0.9,70.0,0.7,0.0,0.8,,,
+973,Poland,Central and Eastern Europe,2021.0,6.2,10.4,0.9,69.7,0.8,-0.2,0.7,,,
+974,Kazakhstan,Central and Eastern Europe,2021.0,6.2,10.2,1.0,65.2,0.9,-0.1,0.7,,,
+975,Romania,Central and Eastern Europe,2021.0,6.1,10.3,0.8,67.4,0.8,-0.2,0.9,,,
+976,Kuwait,Middle East and North Africa,2021.0,6.1,10.8,0.8,66.9,0.9,-0.1,0.7,,,
+977,Serbia,Central and Eastern Europe,2021.0,6.1,9.8,0.9,68.6,0.8,0.0,0.8,,,
+978,El Salvador,Latin America and Caribbean,2021.0,6.1,9.1,0.8,66.4,0.9,-0.1,0.7,,,
+979,Mauritius,Sub-Saharan Africa,2021.0,6.0,10.0,0.9,66.7,0.9,-0.1,0.8,,,
+980,Latvia,Central and Eastern Europe,2021.0,6.0,10.3,0.9,67.1,0.7,-0.2,0.8,,,
+981,Colombia,Latin America and Caribbean,2021.0,6.0,9.6,0.8,68.0,0.8,-0.1,0.8,,,
+982,Hungary,Central and Eastern Europe,2021.0,6.0,10.4,0.9,68.0,0.8,-0.2,0.9,,,
+983,Thailand,Southeast Asia,2021.0,6.0,9.8,0.9,67.4,0.9,0.3,0.9,,,
+984,Nicaragua,Latin America and Caribbean,2021.0,6.0,8.6,0.9,67.7,0.8,0.0,0.7,,,
+985,Japan,East Asia,2021.0,5.9,10.6,0.9,75.1,0.8,-0.3,0.6,,,
+986,Argentina,Latin America and Caribbean,2021.0,5.9,10.0,0.9,69.0,0.8,-0.2,0.8,,,
+987,Portugal,Western Europe,2021.0,5.9,10.4,0.9,72.6,0.9,-0.2,0.9,,,
+988,Honduras,Latin America and Caribbean,2021.0,5.9,8.6,0.8,67.3,0.9,0.1,0.8,,,
+989,Croatia,Central and Eastern Europe,2021.0,5.9,10.2,0.9,70.8,0.8,-0.1,0.9,,,
+990,Philippines,Southeast Asia,2021.0,5.9,9.1,0.8,62.0,0.9,-0.1,0.7,,,
+991,South Korea,East Asia,2021.0,5.8,10.7,0.8,73.9,0.7,-0.1,0.7,,,
+992,Peru,Latin America and Caribbean,2021.0,5.8,9.5,0.8,68.3,0.8,-0.2,0.9,,,
+993,Bosnia and Herzegovina,Central and Eastern Europe,2021.0,5.8,9.6,0.9,68.1,0.7,0.1,0.9,,,
+994,Moldova,Central and Eastern Europe,2021.0,5.8,9.5,0.9,65.7,0.8,-0.1,0.9,,,
+995,Ecuador,Latin America and Caribbean,2021.0,5.8,9.3,0.8,68.8,0.8,-0.1,0.8,,,
+996,Kyrgyzstan,Central and Eastern Europe,2021.0,5.7,8.5,0.9,64.4,0.9,0.1,0.9,,,
+997,Greece,Western Europe,2021.0,5.7,10.3,0.8,72.6,0.6,-0.3,0.8,,,
+998,Bolivia,Latin America and Caribbean,2021.0,5.7,9.0,0.8,63.9,0.9,-0.1,0.8,,,
+999,Mongolia,East Asia,2021.0,5.7,9.4,0.9,62.5,0.7,0.1,0.9,,,
+1000,Paraguay,Latin America and Caribbean,2021.0,5.7,9.4,0.9,65.9,0.9,0.0,0.9,,,
+1001,Montenegro,Central and Eastern Europe,2021.0,5.6,9.9,0.9,68.7,0.7,0.0,0.8,,,
+1002,Dominican Republic,Latin America and Caribbean,2021.0,5.5,9.8,0.9,66.1,0.9,-0.1,0.7,,,
+1003,North Cyprus,Western Europe,2021.0,5.5,10.6,0.8,73.9,0.8,0.0,0.6,,,
+1004,Belarus,Central and Eastern Europe,2021.0,5.5,9.9,0.9,66.3,0.7,-0.2,0.6,,,
+1005,Russia,Central and Eastern Europe,2021.0,5.5,10.2,0.9,64.7,0.7,-0.1,0.8,,,
+1006,Hong Kong,East Asia,2021.0,5.5,11.0,0.8,76.8,0.7,0.1,0.4,,,
+1007,Tajikistan,Central and Eastern Europe,2021.0,5.5,8.1,0.9,64.3,0.8,-0.1,0.6,,,
+1008,Vietnam,Southeast Asia,2021.0,5.4,9.0,0.9,68.0,0.9,-0.1,0.8,,,
+1009,Libya,Middle East and North Africa,2021.0,5.4,9.6,0.8,62.3,0.8,-0.1,0.7,,,
+1010,Malaysia,Southeast Asia,2021.0,5.4,10.2,0.8,67.1,0.9,0.1,0.8,,,
+1011,Indonesia,Southeast Asia,2021.0,5.3,9.4,0.8,62.2,0.9,0.5,0.9,,,
+1012,Democratic Republic of the Congo,Sub-Saharan Africa,2021.0,5.3,8.1,0.6,58.2,0.7,-0.1,0.7,,,
+1013,China,East Asia,2021.0,5.3,9.7,0.8,69.6,0.9,-0.1,0.8,,,
+1014,Ivory Coast,Sub-Saharan Africa,2021.0,5.3,8.6,0.6,50.1,0.7,0.0,0.8,,,
+1015,Armenia,Central and Eastern Europe,2021.0,5.3,9.5,0.8,67.1,0.8,-0.2,0.6,,,
+1016,Nepal,South Asia,2021.0,5.3,8.1,0.8,64.2,0.8,0.2,0.7,,,
+1017,Bulgaria,Central and Eastern Europe,2021.0,5.3,10.0,0.9,67.0,0.8,-0.1,0.9,,,
+1018,Maldives,South Asia,2021.0,5.2,9.8,0.9,70.6,0.9,0.0,0.8,,,
+1019,Azerbaijan,Central and Eastern Europe,2021.0,5.2,9.6,0.8,65.7,0.8,-0.2,0.5,,,
+1020,Cameroon,Sub-Saharan Africa,2021.0,5.1,8.2,0.7,53.5,0.7,0.0,0.8,,,
+1021,Senegal,Sub-Saharan Africa,2021.0,5.1,8.1,0.7,59.8,0.7,0.0,0.8,,,
+1022,Albania,Central and Eastern Europe,2021.0,5.1,9.5,0.7,69.0,0.8,0.0,0.9,,,
+1023,North Macedonia,Central and Eastern Europe,2021.0,5.1,9.7,0.8,65.5,0.8,0.0,0.9,,,
+1024,Ghana,Sub-Saharan Africa,2021.0,5.1,8.6,0.7,57.6,0.8,0.1,0.8,,,
+1025,Niger,Sub-Saharan Africa,2021.0,5.1,7.1,0.6,53.8,0.8,0.0,0.7,,,
+1026,Turkmenistan,Central and Eastern Europe,2021.0,5.1,9.6,1.0,62.4,0.9,0.3,0.9,,,
+1027,Gambia,Sub-Saharan Africa,2021.0,5.1,7.7,0.7,55.2,0.7,0.4,0.7,,,
+1028,Benin,Sub-Saharan Africa,2021.0,5.0,8.1,0.5,54.7,0.8,0.0,0.7,,,
+1029,Laos,Southeast Asia,2021.0,5.0,8.9,0.7,59.0,0.9,0.1,0.7,,,
+1030,Bangladesh,South Asia,2021.0,5.0,8.5,0.7,64.8,0.9,0.0,0.7,,,
+1031,Guinea,Sub-Saharan Africa,2021.0,5.0,7.8,0.6,55.0,0.7,0.1,0.8,,,
+1032,South Africa,Sub-Saharan Africa,2021.0,5.0,9.4,0.9,56.9,0.7,-0.1,0.9,,,
+1033,Turkey,Middle East and North Africa,2021.0,4.9,10.2,0.8,67.2,0.6,-0.1,0.8,,,
+1034,Pakistan,South Asia,2021.0,4.9,8.5,0.7,58.7,0.7,0.1,0.8,,,
+1035,Morocco,Middle East and North Africa,2021.0,4.9,8.9,0.6,66.2,0.8,-0.2,0.8,,,
+1036,Venezuela,Latin America and Caribbean,2021.0,4.9,9.1,0.9,66.7,0.6,-0.2,0.8,,,
+1037,Georgia,Central and Eastern Europe,2021.0,4.9,9.6,0.7,64.3,0.8,-0.2,0.7,,,
+1038,Algeria,Middle East and North Africa,2021.0,4.9,9.3,0.8,66.0,0.5,-0.1,0.8,,,
+1039,Ukraine,Central and Eastern Europe,2021.0,4.9,9.4,0.9,64.9,0.7,0.0,0.9,,,
+1040,Iraq,Middle East and North Africa,2021.0,4.9,9.2,0.7,60.6,0.6,-0.1,0.9,,,
+1041,Gabon,Sub-Saharan Africa,2021.0,4.9,9.6,0.8,60.0,0.7,-0.2,0.8,,,
+1042,Burkina Faso,Sub-Saharan Africa,2021.0,4.8,7.7,0.7,54.2,0.7,0.0,0.7,,,
+1043,Cambodia,Southeast Asia,2021.0,4.8,8.4,0.8,62.0,1.0,0.0,0.8,,,
+1044,Mozambique,Sub-Saharan Africa,2021.0,4.8,7.2,0.7,54.7,0.9,0.1,0.7,,,
+1045,Nigeria,Sub-Saharan Africa,2021.0,4.8,8.5,0.7,50.1,0.7,0.0,0.9,,,
+1046,Mali,Sub-Saharan Africa,2021.0,4.7,7.7,0.7,52.0,0.7,0.0,0.8,,,
+1047,Iran,Middle East and North Africa,2021.0,4.7,9.6,0.7,66.3,0.6,0.2,0.7,,,
+1048,Uganda,Sub-Saharan Africa,2021.0,4.6,7.7,0.8,56.1,0.7,0.1,0.9,,,
+1049,Liberia,Sub-Saharan Africa,2021.0,4.6,7.3,0.7,56.5,0.7,0.1,0.9,,,
+1050,Kenya,Sub-Saharan Africa,2021.0,4.6,8.4,0.7,60.7,0.8,0.3,0.8,,,
+1051,Tunisia,Middle East and North Africa,2021.0,4.6,9.3,0.7,67.2,0.7,-0.2,0.9,,,
+1052,Lebanon,Middle East and North Africa,2021.0,4.6,9.6,0.8,67.4,0.5,-0.1,0.9,,,
+1053,Namibia,Sub-Saharan Africa,2021.0,4.6,9.2,0.8,56.8,0.7,-0.1,0.8,,,
+1054,Palestinian Territories,Middle East and North Africa,2021.0,4.5,8.5,0.8,62.3,0.7,-0.2,0.8,,,
+1055,Myanmar,Southeast Asia,2021.0,4.4,8.5,0.8,59.3,0.9,0.5,0.7,,,
+1056,Jordan,Middle East and North Africa,2021.0,4.4,9.2,0.8,67.0,0.8,-0.2,0.7,,,
+1057,Chad,Sub-Saharan Africa,2021.0,4.4,7.4,0.6,48.5,0.6,0.0,0.8,,,
+1058,Sri Lanka,South Asia,2021.0,4.3,9.5,0.8,67.3,0.8,0.1,0.9,,,
+1059,Swaziland,Sub-Saharan Africa,2021.0,4.3,9.1,0.8,50.8,0.6,-0.2,0.7,,,
+1060,Comoros,Sub-Saharan Africa,2021.0,4.3,8.0,0.6,57.3,0.5,0.1,0.8,,,
+1061,Egypt,Middle East and North Africa,2021.0,4.3,9.4,0.8,62.0,0.7,-0.2,0.8,,,
+1062,Ethiopia,Sub-Saharan Africa,2021.0,4.3,7.7,0.8,59.0,0.8,0.1,0.8,,,
+1063,Mauritania,Sub-Saharan Africa,2021.0,4.2,8.5,0.8,57.2,0.6,-0.1,0.7,,,
+1064,Madagascar,Sub-Saharan Africa,2021.0,4.2,7.4,0.7,59.3,0.6,0.0,0.8,,,
+1065,Togo,Sub-Saharan Africa,2021.0,4.1,7.4,0.6,54.9,0.6,0.0,0.8,,,
+1066,Zambia,Sub-Saharan Africa,2021.0,4.1,8.1,0.7,55.8,0.8,0.1,0.8,,,
+1067,Sierra Leone,Sub-Saharan Africa,2021.0,3.8,7.4,0.6,51.7,0.7,0.1,0.9,,,
+1068,India,South Asia,2021.0,3.8,8.8,0.6,60.6,0.9,0.1,0.8,,,
+1069,Burundi,Sub-Saharan Africa,2021.0,3.8,6.6,0.5,53.4,0.6,0.0,0.6,,,
+1070,Yemen,Middle East and North Africa,2021.0,3.7,7.6,0.8,57.1,0.6,-0.1,0.8,,,
+1071,Tanzania,Sub-Saharan Africa,2021.0,3.6,7.9,0.7,58.0,0.8,0.2,0.6,,,
+1072,Haiti,Latin America and Caribbean,2021.0,3.6,7.5,0.5,55.7,0.6,0.4,0.7,,,
+1073,Malawi,Sub-Saharan Africa,2021.0,3.6,7.0,0.5,57.9,0.8,0.0,0.7,,,
+1074,Lesotho,Sub-Saharan Africa,2021.0,3.5,7.9,0.8,48.7,0.7,-0.1,0.9,,,
+1075,Botswana,Sub-Saharan Africa,2021.0,3.5,9.8,0.8,59.3,0.8,-0.2,0.8,,,
+1076,Rwanda,Sub-Saharan Africa,2021.0,3.4,7.7,0.6,61.4,0.9,0.1,0.2,,,
+1077,Zimbabwe,Sub-Saharan Africa,2021.0,3.1,7.9,0.8,56.2,0.7,0.0,0.8,,,
+1078,Afghanistan,South Asia,2021.0,2.5,7.7,0.5,52.5,0.4,-0.1,0.9,,,
+1079,Finland,Western Europe,2022.0,7.8,1.9,1.2,0.8,0.7,0.1,0.5,,,
+1080,Denmark,Western Europe,2022.0,7.6,1.9,1.2,0.8,0.7,0.2,0.5,,,
+1081,Iceland,Western Europe,2022.0,7.5,1.9,1.3,0.8,0.7,0.3,0.2,,,
+1082,Switzerland,Western Europe,2022.0,7.5,2.0,1.2,0.8,0.7,0.1,0.5,,,
+1083,Netherlands,Western Europe,2022.0,7.4,1.9,1.2,0.8,0.7,0.3,0.4,,,
+1084,Luxembourg,Western Europe,2022.0,7.4,2.2,1.1,0.8,0.7,0.1,0.4,,,
+1085,Sweden,Western Europe,2022.0,7.4,1.9,1.2,0.8,0.7,0.2,0.5,,,
+1086,Norway,Western Europe,2022.0,7.4,2.0,1.2,0.8,0.7,0.2,0.5,,,
+1087,Israel,Middle East and North Africa,2022.0,7.4,1.8,1.2,0.8,0.6,0.2,0.1,,,
+1088,New Zealand,Australia and New Zeland,2022.0,7.2,1.8,1.2,0.8,0.7,0.2,0.5,,,
+1089,Austria,Western Europe,2022.0,7.1,1.9,1.2,0.8,0.6,0.2,0.3,,,
+1090,Australia,Australia and New Zeland,2022.0,7.2,1.9,1.2,0.8,0.7,0.3,0.3,,,
+1091,Ireland,Western Europe,2022.0,7.0,2.1,1.2,0.8,0.6,0.2,0.4,,,
+1092,Germany,Western Europe,2022.0,7.0,1.9,1.1,0.8,0.6,0.2,0.4,,,
+1093,Canada,North America,2022.0,7.0,1.9,1.2,0.8,0.7,0.2,0.4,,,
+1094,United States,North America,2022.0,7.0,1.9,1.2,0.6,0.6,0.2,0.2,,,
+1095,United Kingdom,Western Europe,2022.0,6.9,1.9,1.1,0.8,0.6,0.3,0.3,,,
+1096,Czech Republic,Central and Eastern Europe,2022.0,6.9,1.8,1.3,0.7,0.7,0.2,0.0,,,
+1097,Belgium,Western Europe,2022.0,6.8,1.9,1.1,0.8,0.5,0.0,0.2,,,
+1098,France,Western Europe,2022.0,6.7,1.9,1.2,0.8,0.6,0.1,0.3,,,
+1099,Bahrain,Middle East and North Africa,2022.0,6.6,1.8,1.0,0.6,0.7,0.2,0.2,,,
+1100,Slovenia,Central and Eastern Europe,2022.0,6.6,1.8,1.2,0.8,0.7,0.1,0.1,,,
+1101,Costa Rica,Latin America and Caribbean,2022.0,6.6,1.6,1.0,0.7,0.7,0.1,0.1,,,
+1102,United Arab Emirates,Middle East and North Africa,2022.0,6.6,2.0,0.98,0.6,0.7,0.2,0.3,,,
+1103,Saudi Arabia,Middle East and North Africa,2022.0,6.5,1.9,1.1,0.6,0.7,0.1,0.2,,,
+1104,Taiwan,Eastern Asia,2022.0,6.5,1.9,1.1,0.7,0.5,0.1,0.2,,,
+1105,Singapore,Southeastern Asia,2022.0,6.5,2.1,1.1,0.9,0.7,0.2,0.6,,,
+1106,Romania,Central and Eastern Europe,2022.0,6.5,1.7,1.0,0.7,0.6,0.0,0.0,,,
+1107,Spain,Western Europe,2022.0,6.5,1.8,1.2,0.8,0.5,0.1,0.1,,,
+1108,Uruguay,Latin America and Caribbean,2022.0,6.5,1.6,1.2,0.7,0.7,0.1,0.3,,,
+1109,Italy,Western Europe,2022.0,6.5,1.8,1.0,0.8,0.4,0.1,0.1,,,
+1110,Kosovo,Central and Eastern Europe,2022.0,6.4,1.4,0.95,0.6,0.6,0.3,0.0,,,
+1111,Malta,Western Europe,2022.0,6.4,1.8,1.2,0.8,0.7,0.2,0.2,,,
+1112,Lithuania,Central and Eastern Europe,2022.0,6.4,1.8,1.2,0.7,0.5,0.1,0.1,,,
+1113,Slovakia,Central and Eastern Europe,2022.0,6.4,1.7,1.2,0.7,0.5,0.1,0.0,,,
+1114,Estonia,Central and Eastern Europe,2022.0,6.3,1.8,1.2,0.7,0.7,0.1,0.3,,,
+1115,Panama,Latin America and Caribbean,2022.0,6.3,1.7,1.1,0.7,0.6,0.0,0.1,,,
+1116,Brazil,Latin America and Caribbean,2022.0,6.3,1.5,1.0,0.6,0.5,0.1,0.1,,,
+1117,Guatemala,Latin America and Caribbean,2022.0,6.3,1.3,0.83,0.5,0.7,0.1,0.1,,,
+1118,Kazakhstan,Central and Eastern Europe,2022.0,6.2,1.7,1.2,0.6,0.6,0.1,0.2,,,
+1119,Cyprus,Western Europe,2022.0,6.2,1.8,0.91,0.8,0.4,0.1,0.1,,,
+1120,Latvia,Central and Eastern Europe,2022.0,6.2,1.7,1.1,0.6,0.5,0.1,0.1,,,
+1121,Serbia,Central and Eastern Europe,2022.0,6.2,1.5,1.1,0.7,0.5,0.2,0.1,,,
+1122,Chile,Latin America and Caribbean,2022.0,6.2,1.6,1.1,0.7,0.5,0.1,0.1,,,
+1123,Nicaragua,Latin America and Caribbean,2022.0,6.2,1.1,1.0,0.6,0.6,0.2,0.2,,,
+1124,Mexico,Latin America and Caribbean,2022.0,6.1,1.5,0.89,0.6,0.6,0.1,0.1,,,
+1125,Croatia,Central and Eastern Europe,2022.0,6.1,1.7,1.2,0.7,0.5,0.1,0.0,,,
+1126,Poland,Central and Eastern Europe,2022.0,6.1,1.7,1.2,0.7,0.5,0.1,0.1,,,
+1127,El Salvador,Latin America and Caribbean,2022.0,6.1,1.3,0.77,0.6,0.7,0.1,0.2,,,
+1128,Kuwait,Middle East and Northern Africa,2022.0,6.1,1.9,0.98,0.7,0.6,0.1,0.1,,,
+1129,Hungary,Central and Eastern Europe,2022.0,6.1,1.7,1.2,0.7,0.5,0.1,0.1,,,
+1130,Mauritius,Sub-Saharan Africa,2022.0,6.1,1.6,1.1,0.6,0.6,0.1,0.1,,,
+1131,Uzbekistan,Central and Eastern Europe,2022.0,6.1,1.2,1.1,0.6,0.7,0.3,0.2,,,
+1132,Japan,Eastern Asia,2022.0,6.0,1.8,1.1,0.9,0.5,0.0,0.2,,,
+1133,Honduras,Latin America and Caribbean,2022.0,6.0,1.1,0.89,0.6,0.6,0.2,0.1,,,
+1134,Portugal,Western Europe,2022.0,6.0,1.8,1.1,0.8,0.7,0.0,0.0,,,
+1135,Argentina,Latin America and Caribbean,2022.0,5.9,1.6,1.1,0.7,0.6,0.1,0.1,,,
+1136,Greece,Western Europe,2022.0,5.9,1.7,0.98,0.8,0.2,0.0,0.1,,,
+1137,South Korea,Eastern Asia,2022.0,5.9,1.8,0.89,0.8,0.4,0.1,0.2,,,
+1138,Philippines,Southeastern Asia,2022.0,5.9,1.3,0.91,0.5,0.7,0.1,0.1,,,
+1139,Thailand,Southeastern Asia,2022.0,5.9,1.5,1.1,0.7,0.6,0.3,0.0,,,
+1140,Moldova,Central and Eastern Europe,2022.0,5.8,1.4,1.0,0.6,0.6,0.1,0.0,,,
+1141,Jamaica,Latin America and Caribbean,2022.0,5.8,1.3,1.0,0.6,0.6,0.1,0.1,,,
+1142,Kyrgyzstan,Central and Eastern Europe,2022.0,5.8,1.1,1.1,0.6,0.7,0.2,0.0,,,
+1143,Belarus,Central and Eastern Europe,2022.0,5.8,1.6,1.1,0.6,0.3,0.0,0.3,,,
+1144,Colombia,Latin America and Caribbean,2022.0,5.8,1.4,0.93,0.7,0.5,0.1,0.1,,,
+1145,Bosnia and Herzegovina,Central and Eastern Europe,2022.0,5.8,1.5,1.1,0.7,0.4,0.2,0.0,,,
+1146,Mongolia,Eastern Asia,2022.0,5.8,1.4,1.2,0.5,0.4,0.2,0.1,,,
+1147,Dominican Republic,Latin America and Caribbean,2022.0,5.7,1.5,1.0,0.6,0.6,0.1,0.2,,,
+1148,Malaysia,Southeastern Asia,2022.0,5.7,1.7,0.94,0.6,0.7,0.2,0.1,,,
+1149,Bolivia,Latin America and Caribbean,2022.0,5.6,1.2,0.88,0.6,0.6,0.1,0.1,,,
+1150,China,Eastern Asia,2022.0,5.6,1.5,0.96,0.7,0.7,0.1,0.1,,,
+1151,Paraguay,Latin America and Caribbean,2022.0,5.6,1.4,1.1,0.6,0.6,0.2,0.1,,,
+1152,Peru,Latin America and Caribbean,2022.0,5.5,1.4,0.87,0.7,0.5,0.1,0.0,,,
+1153,Montenegro,Central and Eastern Europe,2022.0,5.5,1.6,1.0,0.7,0.5,0.1,0.1,,,
+1154,Ecuador,Latin America and Caribbean,2022.0,5.5,1.3,0.88,0.7,0.6,0.1,0.1,,,
+1155,Vietnam,Southeastern Asia,2022.0,5.5,1.2,0.93,0.6,0.7,0.1,0.1,,,
+1156,Turkmenistan,Central and Eastern Europe,2022.0,5.5,1.5,1.3,0.5,0.6,0.3,0.0,,,
+1157,North Cyprus,Western Europe,2022.0,5.5,1.8,0.89,0.8,0.5,0.1,0.2,,,
+1158,Russia,Central and Eastern Europe,2022.0,5.4,1.7,1.0,0.6,0.4,0.1,0.1,,,
+1159,Hong Kong,Eastern Asia,2022.0,5.4,1.9,0.95,0.9,0.4,0.1,0.4,,,
+1160,Armenia,Central and Eastern Europe,2022.0,5.4,1.4,0.82,0.7,0.6,0.1,0.2,,,
+1161,Tajikistan,Central and Eastern Europe,2022.0,5.4,0.97,1.0,0.5,0.6,0.1,0.3,,,
+1162,Nepal,Southern Asia,2022.0,5.4,0.98,0.78,0.5,0.5,0.2,0.1,,,
+1163,Bulgaria,Central and Eastern Europe,2022.0,5.4,1.6,1.2,0.6,0.6,0.1,0.0,,,
+1164,Libya,Middle East and Northern Africa,2022.0,5.3,1.5,0.94,0.6,0.5,0.1,0.2,,,
+1165,Indonesia,Southeastern Asia,2022.0,5.2,1.4,0.88,0.5,0.6,0.5,0.0,,,
+1166,Ivory Coast,Sub-Saharan Africa,2022.0,5.2,1.1,0.44,0.3,0.5,0.1,0.1,,,
+1167,North Macedonia,Central and Eastern Europe,2022.0,5.2,1.5,0.86,0.6,0.5,0.2,0.0,,,
+1168,Albania,Central and Eastern Europe,2022.0,5.2,1.4,0.65,0.7,0.5,0.1,0.0,,,
+1169,South Africa,Sub-Saharan Africa,2022.0,5.2,1.4,1.0,0.4,0.4,0.1,0.0,,,
+1170,Azerbaijan,Central and Eastern Europe,2022.0,5.2,1.4,1.0,0.6,0.6,0.0,0.3,,,
+1171,Gambia,Sub-Saharan Africa,2022.0,5.2,0.79,0.62,0.4,0.4,0.4,0.1,,,
+1172,Bangladesh,Southern Asia,2022.0,5.1,1.1,0.61,0.6,0.6,0.1,0.2,,,
+1173,Laos,Southeastern Asia,2022.0,5.1,1.2,0.65,0.5,0.7,0.2,0.2,,,
+1174,Algeria,Middle East and Northern Africa,2022.0,5.1,1.4,0.97,0.6,0.1,0.1,0.2,,,
+1175,Liberia,Sub-Saharan Africa,2022.0,5.1,0.64,0.67,0.3,0.4,0.2,0.1,,,
+1176,Ukraine,Central and Eastern Europe,2022.0,5.1,1.4,1.0,0.6,0.5,0.2,0.0,,,
+1177,Democratic Republic of the Congo,Sub-Saharan Africa,2022.0,5.1,0.95,0.41,0.4,0.4,0.1,0.1,,,
+1178,Morocco,Middle East and Northern Africa,2022.0,5.1,1.2,0.27,0.6,0.5,0.0,0.1,,,
+1179,Mozambique,Sub-Saharan Africa,2022.0,5.0,0.58,0.66,0.2,0.6,0.2,0.2,,,
+1180,Cameroon,Sub-Saharan Africa,2022.0,5.0,0.97,0.67,0.3,0.4,0.2,0.1,,,
+1181,Senegal,Sub-Saharan Africa,2022.0,5.0,0.93,0.53,0.4,0.5,0.1,0.1,,,
+1182,Niger,Sub-Saharan Africa,2022.0,5.0,0.57,0.56,0.3,0.6,0.2,0.1,,,
+1183,Georgia,Central and Eastern Europe,2022.0,5.0,1.5,0.61,0.6,0.5,0.0,0.2,,,
+1184,Gabon,Sub-Saharan Africa,2022.0,4.9,1.4,0.74,0.4,0.3,0.0,0.1,,,
+1185,Iraq,Middle East and Northern Africa,2022.0,4.9,1.3,0.68,0.6,0.3,0.1,0.0,,,
+1186,Venezuela,Latin America and Caribbean,2022.0,4.9,0.0,0.97,0.6,0.3,0.2,0.1,,,
+1187,Guinea,Sub-Saharan Africa,2022.0,4.9,0.85,0.57,0.3,0.3,0.2,0.1,,,
+1188,Iran,Middle East and Northern Africa,2022.0,4.9,1.4,0.74,0.6,0.3,0.2,0.1,,,
+1189,Ghana,Sub-Saharan Africa,2022.0,4.9,1.1,0.6,0.4,0.5,0.2,0.1,,,
+1190,Turkey,Middle East and Northern Africa,2022.0,4.7,1.7,0.87,0.7,0.2,0.1,0.1,,,
+1191,Burkina Faso,Sub-Saharan Africa,2022.0,4.7,0.78,0.57,0.3,0.4,0.2,0.1,,,
+1192,Cambodia,Southeastern Asia,2022.0,4.6,1.0,0.73,0.5,0.7,0.2,0.1,,,
+1193,Benin,Sub-Saharan Africa,2022.0,4.6,0.93,0.06,0.3,0.5,0.1,0.2,,,
+1194,Comoros,Sub-Saharan Africa,2022.0,4.6,0.9,0.48,0.4,0.2,0.2,0.1,,,
+1195,Uganda,Sub-Saharan Africa,2022.0,4.6,0.78,0.88,0.4,0.4,0.2,0.1,,,
+1196,Nigeria,Sub-Saharan Africa,2022.0,4.5,1.1,0.73,0.3,0.4,0.2,0.0,,,
+1197,Kenya,Sub-Saharan Africa,2022.0,4.5,1.0,0.61,0.4,0.4,0.3,0.1,,,
+1198,Tunisia,Middle East and Northern Africa,2022.0,4.5,1.3,0.6,0.7,0.3,0.0,0.0,,,
+1199,Pakistan,Southern Asia,2022.0,4.5,1.0,0.41,0.4,0.4,0.2,0.1,,,
+1200,Palestinian Territories,Middle East and Northern Africa,2022.0,4.5,1.1,0.96,0.5,0.3,0.1,0.1,,,
+1201,Mali,Sub-Saharan Africa,2022.0,4.5,0.79,0.48,0.3,0.4,0.1,0.0,,,
+1202,Namibia,Sub-Saharan Africa,2022.0,4.4,1.3,0.88,0.4,0.4,0.1,0.1,,,
+1203,Myanmar,Southeastern Asia,2022.0,4.4,1.0,0.83,0.5,0.5,0.5,0.2,,,
+1204,Sri Lanka,Southern Asia,2022.0,4.4,1.4,0.93,0.7,0.5,0.2,0.1,,,
+1205,Madagascar,Sub-Saharan Africa,2022.0,4.3,0.67,0.65,0.4,0.2,0.1,0.2,,,
+1206,Egypt,Middle East and Northern Africa,2022.0,4.3,1.4,0.73,0.5,0.5,0.0,0.3,,,
+1207,Chad,Sub-Saharan Africa,2022.0,4.2,0.66,0.51,0.2,0.2,0.2,0.1,,,
+1208,Ethiopia,Sub-Saharan Africa,2022.0,4.2,0.79,0.81,0.5,0.5,0.2,0.1,,,
+1209,Yemen,Middle East and Northern Africa,2022.0,4.2,0.69,1.0,0.4,0.3,0.1,0.1,,,
+1210,Mauritania,Sub-Saharan Africa,2022.0,4.1,1.1,0.87,0.5,0.3,0.1,0.1,,,
+1211,Jordan,Middle East and Northern Africa,2022.0,4.1,1.3,0.72,0.7,0.5,0.1,0.2,,,
+1212,Togo,Sub-Saharan Africa,2022.0,4.1,0.77,0.32,0.4,0.3,0.2,0.1,,,
+1213,India,Southern Asia,2022.0,3.8,1.2,0.38,0.5,0.6,0.2,0.1,,,
+1214,Zambia,Sub-Saharan Africa,2022.0,3.8,0.93,0.58,0.3,0.5,0.2,0.1,,,
+1215,Malawi,Sub-Saharan Africa,2022.0,3.7,0.65,0.28,0.4,0.5,0.1,0.2,,,
+1216,Tanzania,Sub-Saharan Africa,2022.0,3.7,0.85,0.6,0.4,0.6,0.2,0.3,,,
+1217,Sierra Leone,Sub-Saharan Africa,2022.0,3.6,0.69,0.42,0.3,0.4,0.2,0.1,,,
+1218,Lesotho,Sub-Saharan Africa,2022.0,3.5,0.84,0.85,0.0,0.4,0.1,0.0,,,
+1219,Botswana,Sub-Saharan Africa,2022.0,3.5,1.5,0.82,0.3,0.6,0.0,0.1,,,
+1220,Rwanda,Sub-Saharan Africa,2022.0,3.3,0.79,0.13,0.5,0.6,0.2,0.5,,,
+1221,Zimbabwe,Sub-Saharan Africa,2022.0,2.9,0.95,0.69,0.3,0.3,0.1,0.1,,,
+1222,Lebanon,Middle East and Northern Africa,2022.0,2.9,1.4,0.5,0.6,0.1,0.1,0.0,,,
+1223,Afghanistan,Southern Asia,2022.0,2.4,0.76,0.0,0.3,0.0,0.1,0.0,,,
+1224,,,,,,,,,,,,,

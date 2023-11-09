@@ -1,0 +1,783 @@
+,Country or region,Year,Happiness Rank,Happiness Score,Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom to make life choices,Generosity,Trust (Government Corruption),Financial status,Government status
+0,Switzerland,2015,1,7.6,1.4,1.3,0.9,0.7,0.3,0.4,Financially well-off,High government trust
+1,Iceland,2015,2,7.6,1.3,1.4,0.9,0.6,0.4,0.1,Financially average,Low government trust
+2,Denmark,2015,3,7.5,1.3,1.4,0.9,0.6,0.3,0.5,Financially average,High government trust
+3,Norway,2015,4,7.5,1.5,1.3,0.9,0.7,0.3,0.4,Financially well-off,High government trust
+4,Canada,2015,5,7.4,1.3,1.3,0.9,0.6,0.5,0.3,Financially average,Average government trust
+5,Finland,2015,6,7.4,1.3,1.3,0.9,0.6,0.2,0.4,Financially average,High government trust
+6,Netherlands,2015,7,7.4,1.3,1.3,0.9,0.6,0.5,0.3,Financially average,Average government trust
+7,Sweden,2015,8,7.4,1.3,1.3,0.9,0.7,0.4,0.4,Financially average,High government trust
+8,New Zealand,2015,9,7.3,1.3,1.3,0.9,0.6,0.5,0.4,Financially average,High government trust
+9,Australia,2015,10,7.3,1.3,1.3,0.9,0.7,0.4,0.4,Financially average,High government trust
+10,Israel,2015,11,7.3,1.2,1.2,0.9,0.4,0.3,0.1,Financially average,Low government trust
+11,Costa Rica,2015,12,7.2,1.0,1.2,0.9,0.6,0.3,0.1,Financially average,Low government trust
+12,Austria,2015,13,7.2,1.3,1.3,0.9,0.6,0.3,0.2,Financially average,Low government trust
+13,Mexico,2015,14,7.2,1.0,0.9,0.8,0.5,0.1,0.2,Financially average,Low government trust
+14,United States,2015,15,7.1,1.4,1.2,0.9,0.5,0.4,0.2,Financially well-off,Low government trust
+15,Brazil,2015,16,7.0,1.0,1.2,0.7,0.5,0.1,0.2,Financially average,Low government trust
+16,Luxembourg,2015,17,6.9,1.6,1.2,0.9,0.6,0.3,0.4,Financially well-off,High government trust
+17,Ireland,2015,18,6.9,1.3,1.4,0.9,0.6,0.5,0.3,Financially average,Average government trust
+18,Belgium,2015,19,6.9,1.3,1.3,0.9,0.6,0.2,0.2,Financially average,Low government trust
+19,United Arab Emirates,2015,20,6.9,1.4,1.1,0.8,0.6,0.3,0.4,Financially well-off,High government trust
+20,United Kingdom,2015,21,6.9,1.3,1.3,0.9,0.6,0.5,0.3,Financially average,Average government trust
+21,Oman,2015,22,6.9,1.4,1.1,0.8,0.6,0.2,0.3,Financially well-off,Average government trust
+22,Venezuela,2015,23,6.8,1.0,1.3,0.7,0.4,0.1,0.1,Financially average,Low government trust
+23,Singapore,2015,24,6.8,1.5,1.0,1.0,0.5,0.3,0.5,Financially well-off,High government trust
+24,Panama,2015,25,6.8,1.1,1.2,0.8,0.5,0.2,0.1,Financially average,Low government trust
+25,Germany,2015,26,6.8,1.3,1.3,0.9,0.6,0.3,0.2,Financially average,Low government trust
+26,Chile,2015,27,6.7,1.1,1.1,0.9,0.4,0.3,0.1,Financially average,Low government trust
+27,Qatar,2015,28,6.6,1.7,1.1,0.8,0.6,0.3,0.5,Financially well-off,High government trust
+28,France,2015,29,6.6,1.3,1.3,0.9,0.6,0.1,0.2,Financially average,Low government trust
+29,Argentina,2015,30,6.6,1.1,1.2,0.8,0.4,0.1,0.1,Financially average,Low government trust
+30,Czech Republic,2015,31,6.5,1.2,1.2,0.8,0.5,0.1,0.0,Financially average,Low government trust
+31,Uruguay,2015,32,6.5,1.1,1.2,0.8,0.6,0.2,0.2,Financially average,Low government trust
+32,Colombia,2015,33,6.5,0.9,1.2,0.7,0.5,0.2,0.1,Financially average,Low government trust
+33,Thailand,2015,34,6.5,1.0,1.3,0.7,0.6,0.6,0.0,Financially average,Low government trust
+34,Saudi Arabia,2015,35,6.4,1.4,1.1,0.7,0.3,0.1,0.3,Financially well-off,Average government trust
+35,Spain,2015,36,6.3,1.2,1.3,1.0,0.5,0.2,0.1,Financially average,Low government trust
+36,Malta,2015,37,6.3,1.2,1.3,0.9,0.6,0.5,0.1,Financially average,Low government trust
+37,Taiwan,2015,38,6.3,1.3,1.1,0.9,0.4,0.3,0.1,Financially average,Low government trust
+38,Kuwait,2015,39,6.3,1.6,1.2,0.7,0.6,0.2,0.3,Financially well-off,Average government trust
+39,Suriname,2015,40,6.3,1.0,1.0,0.6,0.6,0.2,0.1,Financially average,Low government trust
+40,Trinidad and Tobago,2015,41,6.2,1.2,1.2,0.6,0.6,0.3,0.0,Financially average,Low government trust
+41,El Salvador,2015,42,6.1,0.8,1.0,0.7,0.4,0.1,0.1,Financially average,Low government trust
+42,Guatemala,2015,43,6.1,0.7,1.0,0.6,0.6,0.3,0.1,Financially struggling,Low government trust
+43,Uzbekistan,2015,44,6.0,0.6,1.3,0.6,0.7,0.2,0.3,Financially struggling,Average government trust
+44,Slovakia,2015,45,6.0,1.2,1.3,0.8,0.3,0.2,0.0,Financially average,Low government trust
+45,Japan,2015,46,6.0,1.3,1.3,1.0,0.5,0.1,0.2,Financially average,Low government trust
+46,South Korea,2015,47,6.0,1.2,1.0,1.0,0.3,0.2,0.1,Financially average,Low government trust
+47,Ecuador,2015,48,6.0,0.9,1.0,0.8,0.5,0.1,0.2,Financially average,Low government trust
+48,Bahrain,2015,49,6.0,1.3,1.2,0.7,0.5,0.2,0.3,Financially average,Average government trust
+49,Italy,2015,50,5.9,1.3,1.2,1.0,0.3,0.2,0.0,Financially average,Low government trust
+50,Bolivia,2015,51,5.9,0.7,1.0,0.5,0.6,0.2,0.1,Financially struggling,Low government trust
+51,Moldova,2015,52,5.9,0.6,1.0,0.6,0.3,0.2,0.0,Financially struggling,Low government trust
+52,Paraguay,2015,53,5.9,0.8,1.3,0.7,0.5,0.3,0.1,Financially average,Low government trust
+53,Kazakhstan,2015,54,5.9,1.1,1.1,0.6,0.5,0.1,0.1,Financially average,Low government trust
+54,Slovenia,2015,55,5.8,1.2,1.3,0.9,0.6,0.3,0.0,Financially average,Low government trust
+55,Lithuania,2015,56,5.8,1.1,1.3,0.7,0.2,0.0,0.0,Financially average,Low government trust
+56,Nicaragua,2015,57,5.8,0.6,1.1,0.7,0.6,0.3,0.2,Financially struggling,Low government trust
+57,Peru,2015,58,5.8,0.9,1.0,0.7,0.4,0.1,0.1,Financially average,Low government trust
+58,Belarus,2015,59,5.8,1.0,1.2,0.7,0.4,0.1,0.2,Financially average,Low government trust
+59,Poland,2015,60,5.8,1.1,1.3,0.8,0.5,0.2,0.0,Financially average,Low government trust
+60,Malaysia,2015,61,5.8,1.1,1.1,0.7,0.5,0.3,0.1,Financially average,Low government trust
+61,Croatia,2015,62,5.8,1.1,0.8,0.8,0.3,0.1,0.0,Financially average,Low government trust
+62,Libya,2015,63,5.8,1.1,1.1,0.7,0.4,0.2,0.1,Financially average,Low government trust
+63,Russia,2015,64,5.7,1.1,1.2,0.7,0.4,0.0,0.0,Financially average,Low government trust
+64,Jamaica,2015,65,5.7,0.8,1.2,0.7,0.5,0.2,0.0,Financially average,Low government trust
+65,North Cyprus,2015,66,5.7,1.2,1.1,0.9,0.5,0.3,0.1,Financially average,Low government trust
+66,Cyprus,2015,67,5.7,1.2,0.9,0.9,0.4,0.3,0.1,Financially average,Low government trust
+67,Algeria,2015,68,5.6,0.9,1.1,0.6,0.3,0.1,0.2,Financially average,Low government trust
+68,Kosovo,2015,69,5.6,0.8,0.8,0.6,0.2,0.3,0.0,Financially average,Low government trust
+69,Turkmenistan,2015,70,5.5,1.0,1.2,0.5,0.5,0.2,0.3,Financially average,Average government trust
+70,Mauritius,2015,71,5.5,1.0,1.0,0.7,0.6,0.4,0.1,Financially average,Low government trust
+71,Hong Kong,2015,72,5.5,1.4,1.1,1.0,0.6,0.4,0.4,Financially well-off,High government trust
+72,Estonia,2015,73,5.4,1.2,1.2,0.8,0.4,0.1,0.2,Financially average,Low government trust
+73,Indonesia,2015,74,5.4,0.8,1.1,0.6,0.5,0.5,0.0,Financially average,Low government trust
+74,Vietnam,2015,75,5.4,0.6,0.9,0.7,0.6,0.2,0.1,Financially struggling,Low government trust
+75,Turkey,2015,76,5.3,1.1,0.9,0.7,0.2,0.1,0.2,Financially average,Low government trust
+76,Kyrgyzstan,2015,77,5.3,0.5,1.2,0.7,0.4,0.3,0.0,Financially struggling,Low government trust
+77,Nigeria,2015,78,5.3,0.7,0.9,0.2,0.3,0.3,0.0,Financially struggling,Low government trust
+78,Bhutan,2015,79,5.3,0.8,1.1,0.6,0.5,0.5,0.2,Financially average,Low government trust
+79,Azerbaijan,2015,80,5.2,1.0,0.9,0.6,0.4,0.1,0.2,Financially average,Low government trust
+80,Pakistan,2015,81,5.2,0.6,0.4,0.5,0.1,0.3,0.1,Financially struggling,Low government trust
+81,Jordan,2015,82,5.2,0.9,1.1,0.7,0.4,0.1,0.1,Financially average,Low government trust
+82,Montenegro,2015,82,5.2,1.0,0.9,0.7,0.2,0.2,0.1,Financially average,Low government trust
+83,China,2015,84,5.1,0.9,0.9,0.8,0.5,0.1,0.0,Financially average,Low government trust
+84,Zambia,2015,85,5.1,0.5,0.9,0.3,0.5,0.2,0.1,Financially struggling,Low government trust
+85,Romania,2015,86,5.1,1.0,0.9,0.8,0.4,0.1,0.0,Financially average,Low government trust
+86,Serbia,2015,87,5.1,0.9,1.0,0.7,0.2,0.2,0.0,Financially average,Low government trust
+87,Portugal,2015,88,5.1,1.2,1.1,0.9,0.5,0.1,0.0,Financially average,Low government trust
+88,Latvia,2015,89,5.1,1.1,1.1,0.7,0.3,0.2,0.1,Financially average,Low government trust
+89,Philippines,2015,90,5.1,0.7,1.0,0.6,0.6,0.2,0.1,Financially struggling,Low government trust
+90,Somaliland region,2015,91,5.1,0.2,1.0,0.4,0.5,0.5,0.4,Financially struggling,High government trust
+91,Morocco,2015,92,5.0,0.7,0.6,0.6,0.4,0.1,0.1,Financially struggling,Low government trust
+92,Macedonia,2015,93,5.0,0.9,1.0,0.7,0.3,0.2,0.1,Financially average,Low government trust
+93,Mozambique,2015,94,5.0,0.1,1.0,0.1,0.3,0.2,0.2,Financially struggling,Low government trust
+94,Albania,2015,95,5.0,0.9,0.8,0.8,0.4,0.1,0.1,Financially average,Low government trust
+95,Bosnia and Herzegovina,2015,96,4.9,0.8,0.9,0.8,0.1,0.2,0.0,Financially average,Low government trust
+96,Lesotho,2015,97,4.9,0.4,1.0,0.1,0.3,0.2,0.1,Financially struggling,Low government trust
+97,Dominican Republic,2015,98,4.9,0.9,1.2,0.7,0.6,0.2,0.1,Financially average,Low government trust
+98,Laos,2015,99,4.9,0.6,0.7,0.5,0.6,0.4,0.2,Financially struggling,Low government trust
+99,Mongolia,2015,100,4.9,0.8,1.3,0.6,0.4,0.3,0.0,Financially average,Low government trust
+100,Swaziland,2015,101,4.9,0.7,1.1,0.1,0.3,0.2,0.0,Financially struggling,Low government trust
+101,Greece,2015,102,4.9,1.2,0.9,0.9,0.1,0.0,0.0,Financially average,Low government trust
+102,Lebanon,2015,103,4.8,1.0,0.8,0.8,0.3,0.2,0.0,Financially average,Low government trust
+103,Hungary,2015,104,4.8,1.1,1.2,0.8,0.3,0.1,0.0,Financially average,Low government trust
+104,Honduras,2015,105,4.8,0.6,1.0,0.7,0.4,0.2,0.1,Financially struggling,Low government trust
+105,Tajikistan,2015,106,4.8,0.4,0.9,0.6,0.5,0.2,0.2,Financially struggling,Low government trust
+106,Tunisia,2015,107,4.7,0.9,0.6,0.7,0.3,0.1,0.1,Financially average,Low government trust
+107,Palestinian Territories,2015,108,4.7,0.6,0.9,0.7,0.2,0.1,0.1,Financially struggling,Low government trust
+108,Bangladesh,2015,109,4.7,0.4,0.4,0.6,0.4,0.2,0.1,Financially struggling,Low government trust
+109,Iran,2015,110,4.7,1.0,0.5,0.7,0.3,0.4,0.1,Financially average,Low government trust
+110,Ukraine,2015,111,4.7,0.8,1.2,0.7,0.3,0.2,0.0,Financially average,Low government trust
+111,Iraq,2015,112,4.7,1.0,0.8,0.6,0.0,0.2,0.1,Financially average,Low government trust
+112,South Africa,2015,113,4.6,0.9,1.2,0.3,0.3,0.1,0.1,Financially average,Low government trust
+113,Ghana,2015,114,4.6,0.5,0.7,0.4,0.4,0.2,0.0,Financially struggling,Low government trust
+114,Zimbabwe,2015,115,4.6,0.3,1.0,0.3,0.3,0.2,0.1,Financially struggling,Low government trust
+115,Liberia,2015,116,4.6,0.1,0.8,0.3,0.3,0.2,0.1,Financially struggling,Low government trust
+116,India,2015,117,4.6,0.6,0.4,0.5,0.4,0.3,0.1,Financially struggling,Low government trust
+117,Sudan,2015,118,4.6,0.5,1.0,0.4,0.1,0.2,0.1,Financially struggling,Low government trust
+118,Haiti,2015,119,4.5,0.3,0.7,0.4,0.2,0.5,0.2,Financially struggling,Low government trust
+119,Congo (Kinshasa),2015,120,4.5,0.0,1.0,0.1,0.2,0.2,0.1,Financially struggling,Low government trust
+120,Nepal,2015,121,4.5,0.4,0.9,0.6,0.4,0.3,0.1,Financially struggling,Low government trust
+121,Ethiopia,2015,122,4.5,0.2,0.6,0.4,0.4,0.2,0.2,Financially struggling,Low government trust
+122,Sierra Leone,2015,123,4.5,0.3,1.0,0.0,0.4,0.2,0.1,Financially struggling,Low government trust
+123,Mauritania,2015,124,4.4,0.5,0.9,0.4,0.2,0.2,0.2,Financially struggling,Low government trust
+124,Kenya,2015,125,4.4,0.4,1.0,0.4,0.4,0.4,0.1,Financially struggling,Low government trust
+125,Djibouti,2015,126,4.4,0.4,0.6,0.4,0.5,0.2,0.3,Financially struggling,Average government trust
+126,Armenia,2015,127,4.4,0.8,0.8,0.7,0.2,0.1,0.0,Financially average,Low government trust
+127,Botswana,2015,128,4.3,1.0,1.1,0.0,0.5,0.1,0.1,Financially average,Low government trust
+128,Myanmar,2015,129,4.3,0.3,0.7,0.5,0.4,0.8,0.2,Financially struggling,Low government trust
+129,Georgia,2015,130,4.3,0.7,0.4,0.7,0.4,0.1,0.4,Financially struggling,High government trust
+130,Malawi,2015,131,4.3,0.0,0.4,0.2,0.4,0.3,0.1,Financially struggling,Low government trust
+131,Sri Lanka,2015,132,4.3,0.8,1.0,0.7,0.5,0.4,0.1,Financially average,Low government trust
+132,Cameroon,2015,133,4.3,0.4,0.9,0.2,0.5,0.2,0.1,Financially struggling,Low government trust
+133,Bulgaria,2015,134,4.2,1.0,1.1,0.8,0.3,0.1,0.0,Financially average,Low government trust
+134,Egypt,2015,135,4.2,0.9,0.7,0.6,0.2,0.1,0.1,Financially average,Low government trust
+135,Yemen,2015,136,4.1,0.5,0.7,0.4,0.4,0.1,0.1,Financially struggling,Low government trust
+136,Angola,2015,137,4.0,0.8,0.9,0.2,0.1,0.1,0.1,Financially average,Low government trust
+137,Mali,2015,138,4.0,0.3,1.0,0.2,0.4,0.2,0.1,Financially struggling,Low government trust
+138,Congo (Brazzaville),2015,139,4.0,0.7,0.7,0.3,0.4,0.1,0.1,Financially struggling,Low government trust
+139,Comoros,2015,140,4.0,0.2,0.8,0.4,0.2,0.2,0.2,Financially struggling,Low government trust
+140,Uganda,2015,141,3.9,0.2,1.1,0.3,0.5,0.3,0.1,Financially struggling,Low government trust
+141,Senegal,2015,142,3.9,0.4,1.0,0.4,0.4,0.2,0.1,Financially struggling,Low government trust
+142,Gabon,2015,143,3.9,1.1,0.9,0.4,0.3,0.1,0.1,Financially average,Low government trust
+143,Niger,2015,144,3.8,0.1,0.8,0.3,0.5,0.2,0.2,Financially struggling,Low government trust
+144,Cambodia,2015,145,3.8,0.5,0.6,0.6,0.7,0.4,0.1,Financially struggling,Low government trust
+145,Tanzania,2015,146,3.8,0.3,1.0,0.4,0.3,0.3,0.1,Financially struggling,Low government trust
+146,Madagascar,2015,147,3.7,0.2,0.7,0.5,0.2,0.2,0.1,Financially struggling,Low government trust
+147,Central African Republic,2015,148,3.7,0.1,0.0,0.1,0.5,0.2,0.1,Financially struggling,Low government trust
+148,Chad,2015,149,3.7,0.3,0.8,0.2,0.2,0.2,0.1,Financially struggling,Low government trust
+149,Guinea,2015,150,3.7,0.2,0.5,0.2,0.4,0.3,0.1,Financially struggling,Low government trust
+150,Ivory Coast,2015,151,3.7,0.5,0.8,0.2,0.5,0.2,0.2,Financially struggling,Low government trust
+151,Burkina Faso,2015,152,3.6,0.3,0.9,0.3,0.4,0.2,0.1,Financially struggling,Low government trust
+152,Afghanistan,2015,153,3.6,0.3,0.3,0.3,0.2,0.4,0.1,Financially struggling,Low government trust
+153,Rwanda,2015,154,3.5,0.2,0.8,0.4,0.6,0.2,0.6,Financially struggling,High government trust
+154,Benin,2015,155,3.3,0.3,0.4,0.3,0.5,0.2,0.1,Financially struggling,Low government trust
+155,Syria,2015,156,3.0,0.7,0.5,0.7,0.2,0.5,0.2,Financially struggling,Low government trust
+156,Burundi,2015,157,2.9,0.0,0.4,0.2,0.1,0.2,0.1,Financially struggling,Low government trust
+157,Togo,2015,158,2.8,0.2,0.1,0.3,0.4,0.2,0.1,Financially struggling,Low government trust
+158,Denmark,2016,1,7.5,1.4,1.2,0.8,0.6,0.4,0.4,Financially well-off,High government trust
+159,Switzerland,2016,2,7.5,1.5,1.1,0.9,0.6,0.3,0.4,Financially well-off,High government trust
+160,Iceland,2016,3,7.5,1.4,1.2,0.9,0.6,0.5,0.1,Financially well-off,Low government trust
+161,Norway,2016,4,7.5,1.6,1.1,0.8,0.6,0.4,0.4,Financially well-off,High government trust
+162,Finland,2016,5,7.4,1.4,1.1,0.8,0.6,0.3,0.4,Financially well-off,High government trust
+163,Canada,2016,6,7.4,1.4,1.1,0.8,0.6,0.4,0.3,Financially well-off,Average government trust
+164,Netherlands,2016,7,7.3,1.5,1.0,0.8,0.6,0.5,0.3,Financially well-off,Average government trust
+165,New Zealand,2016,8,7.3,1.4,1.2,0.8,0.6,0.5,0.4,Financially well-off,High government trust
+166,Australia,2016,9,7.3,1.4,1.1,0.9,0.6,0.5,0.3,Financially well-off,Average government trust
+167,Sweden,2016,10,7.3,1.5,1.1,0.8,0.6,0.4,0.4,Financially well-off,High government trust
+168,Israel,2016,11,7.3,1.3,1.0,0.8,0.4,0.3,0.1,Financially average,Low government trust
+169,Austria,2016,12,7.1,1.5,1.1,0.8,0.5,0.3,0.2,Financially well-off,Low government trust
+170,United States,2016,13,7.1,1.5,1.0,0.8,0.5,0.4,0.1,Financially well-off,Low government trust
+171,Costa Rica,2016,14,7.1,1.1,1.0,0.8,0.6,0.2,0.1,Financially average,Low government trust
+172,Puerto Rico,2016,15,7.0,1.4,1.1,0.8,0.5,0.2,0.1,Financially well-off,Low government trust
+173,Germany,2016,16,7.0,1.4,1.1,0.8,0.5,0.3,0.3,Financially well-off,Average government trust
+174,Brazil,2016,17,7.0,1.1,1.0,0.6,0.4,0.2,0.1,Financially average,Low government trust
+175,Belgium,2016,18,6.9,1.4,1.1,0.8,0.5,0.2,0.3,Financially well-off,Average government trust
+176,Ireland,2016,19,6.9,1.5,1.2,0.8,0.5,0.4,0.3,Financially well-off,Average government trust
+177,Luxembourg,2016,20,6.9,1.7,1.0,0.8,0.5,0.3,0.4,Financially well-off,High government trust
+178,Mexico,2016,21,6.8,1.1,0.7,0.7,0.4,0.1,0.2,Financially average,Low government trust
+179,Singapore,2016,22,6.7,1.6,0.9,0.9,0.5,0.3,0.5,Financially well-off,High government trust
+180,United Kingdom,2016,23,6.7,1.4,1.1,0.8,0.5,0.5,0.3,Financially well-off,Average government trust
+181,Chile,2016,24,6.7,1.2,0.9,0.8,0.4,0.3,0.1,Financially average,Low government trust
+182,Panama,2016,25,6.7,1.2,1.0,0.7,0.5,0.2,0.1,Financially average,Low government trust
+183,Argentina,2016,26,6.6,1.2,1.1,0.7,0.4,0.1,0.1,Financially average,Low government trust
+184,Czech Republic,2016,27,6.6,1.3,1.0,0.8,0.4,0.1,0.0,Financially average,Low government trust
+185,United Arab Emirates,2016,28,6.6,1.6,0.9,0.7,0.6,0.3,0.4,Financially well-off,High government trust
+186,Uruguay,2016,29,6.5,1.2,1.0,0.7,0.5,0.2,0.2,Financially average,Low government trust
+187,Malta,2016,30,6.5,1.3,1.1,0.8,0.5,0.6,0.2,Financially average,Low government trust
+188,Colombia,2016,31,6.5,1.0,1.0,0.6,0.4,0.2,0.1,Financially average,Low government trust
+189,France,2016,32,6.5,1.4,1.0,0.8,0.5,0.1,0.2,Financially well-off,Low government trust
+190,Thailand,2016,33,6.5,1.1,1.0,0.6,0.5,0.6,0.0,Financially average,Low government trust
+191,Saudi Arabia,2016,34,6.4,1.5,0.8,0.6,0.4,0.2,0.3,Financially well-off,Average government trust
+192,Taiwan,2016,34,6.4,1.4,0.9,0.8,0.3,0.3,0.1,Financially well-off,Low government trust
+193,Qatar,2016,36,6.4,1.8,0.9,0.7,0.6,0.3,0.5,Financially well-off,High government trust
+194,Spain,2016,37,6.4,1.3,1.1,0.9,0.4,0.2,0.1,Financially average,Low government trust
+195,Algeria,2016,38,6.4,1.1,0.8,0.6,0.2,0.1,0.2,Financially average,Low government trust
+196,Guatemala,2016,39,6.3,0.8,0.9,0.5,0.5,0.3,0.1,Financially average,Low government trust
+197,Suriname,2016,40,6.3,1.1,0.8,0.5,0.5,0.2,0.1,Financially average,Low government trust
+198,Kuwait,2016,41,6.2,1.6,0.9,0.6,0.4,0.2,0.2,Financially well-off,Low government trust
+199,Bahrain,2016,42,6.2,1.4,0.9,0.7,0.5,0.2,0.3,Financially well-off,Average government trust
+200,Trinidad and Tobago,2016,43,6.2,1.3,1.0,0.5,0.5,0.3,0.0,Financially average,Low government trust
+201,Venezuela,2016,44,6.1,1.1,1.0,0.6,0.2,0.0,0.1,Financially average,Low government trust
+202,Slovakia,2016,45,6.1,1.3,1.1,0.7,0.2,0.1,0.0,Financially average,Low government trust
+203,El Salvador,2016,46,6.1,0.9,0.8,0.6,0.4,0.1,0.1,Financially average,Low government trust
+204,Malaysia,2016,47,6.0,1.3,0.9,0.6,0.4,0.4,0.1,Financially average,Low government trust
+205,Nicaragua,2016,48,6.0,0.7,0.9,0.7,0.5,0.3,0.2,Financially struggling,Low government trust
+206,Uzbekistan,2016,49,6.0,0.7,1.2,0.5,0.6,0.3,0.3,Financially struggling,Average government trust
+207,Italy,2016,50,6.0,1.4,1.0,0.9,0.2,0.2,0.0,Financially well-off,Low government trust
+208,Ecuador,2016,51,6.0,1.0,0.9,0.7,0.4,0.1,0.2,Financially average,Low government trust
+209,Belize,2016,52,6.0,0.9,0.7,0.5,0.5,0.2,0.1,Financially average,Low government trust
+210,Japan,2016,53,5.9,1.4,1.1,0.9,0.5,0.1,0.2,Financially well-off,Low government trust
+211,Kazakhstan,2016,54,5.9,1.2,1.0,0.6,0.4,0.2,0.1,Financially average,Low government trust
+212,Moldova,2016,55,5.9,0.7,0.8,0.5,0.3,0.2,0.0,Financially struggling,Low government trust
+213,Russia,2016,56,5.9,1.2,1.1,0.6,0.3,0.0,0.0,Financially average,Low government trust
+214,Poland,2016,57,5.8,1.2,1.0,0.7,0.5,0.1,0.1,Financially average,Low government trust
+215,South Korea,2016,57,5.8,1.4,0.7,0.9,0.3,0.2,0.1,Financially well-off,Low government trust
+216,Bolivia,2016,59,5.8,0.8,0.8,0.5,0.5,0.2,0.1,Financially average,Low government trust
+217,Lithuania,2016,60,5.8,1.3,1.1,0.6,0.2,0.0,0.0,Financially average,Low government trust
+218,Belarus,2016,61,5.8,1.1,1.0,0.6,0.3,0.1,0.2,Financially average,Low government trust
+219,North Cyprus,2016,62,5.8,1.3,0.8,0.8,0.4,0.3,0.2,Financially average,Low government trust
+220,Slovenia,2016,63,5.8,1.3,1.1,0.8,0.5,0.3,0.0,Financially average,Low government trust
+221,Peru,2016,64,5.7,1.0,0.8,0.6,0.4,0.1,0.1,Financially average,Low government trust
+222,Turkmenistan,2016,65,5.7,1.1,1.0,0.4,0.4,0.2,0.3,Financially average,Average government trust
+223,Mauritius,2016,66,5.6,1.1,0.8,0.7,0.5,0.4,0.1,Financially average,Low government trust
+224,Libya,2016,67,5.6,1.1,1.0,0.5,0.4,0.2,0.1,Financially average,Low government trust
+225,Latvia,2016,68,5.6,1.2,1.0,0.6,0.3,0.2,0.1,Financially average,Low government trust
+226,Cyprus,2016,69,5.5,1.3,0.7,0.8,0.3,0.3,0.1,Financially average,Low government trust
+227,Paraguay,2016,70,5.5,0.9,1.1,0.6,0.5,0.3,0.1,Financially average,Low government trust
+228,Romania,2016,71,5.5,1.2,0.7,0.7,0.4,0.1,0.0,Financially average,Low government trust
+229,Estonia,2016,72,5.5,1.3,1.1,0.7,0.4,0.1,0.2,Financially average,Low government trust
+230,Jamaica,2016,73,5.5,0.9,1.0,0.6,0.4,0.2,0.0,Financially average,Low government trust
+231,Croatia,2016,74,5.5,1.2,0.6,0.7,0.2,0.2,0.0,Financially average,Low government trust
+232,Hong Kong,2016,75,5.5,1.5,0.9,1.0,0.5,0.4,0.3,Financially well-off,Average government trust
+233,Somalia,2016,76,5.4,0.0,0.3,0.1,0.6,0.3,0.3,Financially struggling,Average government trust
+234,Kosovo,2016,77,5.4,0.9,0.7,0.5,0.1,0.3,0.1,Financially average,Low government trust
+235,Turkey,2016,78,5.4,1.2,0.9,0.6,0.2,0.0,0.1,Financially average,Low government trust
+236,Indonesia,2016,79,5.3,1.0,0.9,0.5,0.4,0.6,0.0,Financially average,Low government trust
+237,Jordan,2016,80,5.3,1.0,0.9,0.6,0.4,0.1,0.1,Financially average,Low government trust
+238,Azerbaijan,2016,81,5.3,1.1,0.8,0.5,0.4,0.1,0.2,Financially average,Low government trust
+239,Philippines,2016,82,5.3,0.8,0.9,0.5,0.5,0.2,0.1,Financially average,Low government trust
+240,China,2016,83,5.2,1.0,0.8,0.7,0.4,0.0,0.0,Financially average,Low government trust
+241,Bhutan,2016,84,5.2,0.9,0.9,0.5,0.5,0.5,0.2,Financially average,Low government trust
+242,Kyrgyzstan,2016,85,5.2,0.6,1.0,0.6,0.4,0.4,0.0,Financially struggling,Low government trust
+243,Serbia,2016,86,5.2,1.0,0.8,0.6,0.2,0.2,0.0,Financially average,Low government trust
+244,Bosnia and Herzegovina,2016,87,5.2,0.9,0.6,0.7,0.1,0.3,0.0,Financially average,Low government trust
+245,Montenegro,2016,88,5.2,1.1,0.7,0.6,0.2,0.2,0.1,Financially average,Low government trust
+246,Dominican Republic,2016,89,5.2,1.0,1.0,0.6,0.5,0.2,0.1,Financially average,Low government trust
+247,Morocco,2016,90,5.2,0.8,0.4,0.6,0.3,0.0,0.1,Financially average,Low government trust
+248,Hungary,2016,91,5.1,1.2,0.9,0.7,0.2,0.1,0.0,Financially average,Low government trust
+249,Pakistan,2016,92,5.1,0.7,0.3,0.4,0.1,0.3,0.1,Financially struggling,Low government trust
+250,Lebanon,2016,93,5.1,1.1,0.6,0.8,0.3,0.2,0.0,Financially average,Low government trust
+251,Portugal,2016,94,5.1,1.3,0.9,0.8,0.4,0.1,0.0,Financially average,Low government trust
+252,Macedonia,2016,95,5.1,1.0,0.8,0.6,0.3,0.2,0.1,Financially average,Low government trust
+253,Vietnam,2016,96,5.1,0.7,0.8,0.7,0.6,0.3,0.1,Financially struggling,Low government trust
+254,Somaliland Region,2016,97,5.1,0.3,0.8,0.3,0.4,0.5,0.4,Financially struggling,High government trust
+255,Tunisia,2016,98,5.0,1.0,0.4,0.6,0.2,0.0,0.1,Financially average,Low government trust
+256,Greece,2016,99,5.0,1.2,0.8,0.8,0.1,0.0,0.0,Financially average,Low government trust
+257,Tajikistan,2016,100,5.0,0.5,0.8,0.5,0.4,0.3,0.1,Financially struggling,Low government trust
+258,Mongolia,2016,101,4.9,1.0,1.1,0.6,0.4,0.3,0.0,Financially average,Low government trust
+259,Laos,2016,102,4.9,0.7,0.5,0.4,0.5,0.4,0.2,Financially struggling,Low government trust
+260,Nigeria,2016,103,4.9,0.8,0.6,0.1,0.3,0.2,0.0,Financially average,Low government trust
+261,Honduras,2016,104,4.9,0.7,0.8,0.6,0.3,0.2,0.1,Financially struggling,Low government trust
+262,Iran,2016,105,4.8,1.1,0.4,0.6,0.2,0.4,0.1,Financially average,Low government trust
+263,Zambia,2016,106,4.8,0.6,0.6,0.2,0.4,0.2,0.1,Financially struggling,Low government trust
+264,Nepal,2016,107,4.8,0.4,0.7,0.5,0.4,0.4,0.1,Financially struggling,Low government trust
+265,Palestinian Territories,2016,108,4.8,0.7,0.7,0.6,0.2,0.1,0.1,Financially struggling,Low government trust
+266,Albania,2016,109,4.7,1.0,0.5,0.7,0.3,0.2,0.1,Financially average,Low government trust
+267,Bangladesh,2016,110,4.6,0.5,0.2,0.5,0.4,0.2,0.1,Financially struggling,Low government trust
+268,Sierra Leone,2016,111,4.6,0.4,0.6,0.0,0.3,0.2,0.1,Financially struggling,Low government trust
+269,Iraq,2016,112,4.6,1.1,0.6,0.5,0.2,0.2,0.1,Financially average,Low government trust
+270,Namibia,2016,113,4.6,0.9,0.7,0.3,0.5,0.1,0.1,Financially average,Low government trust
+271,Cameroon,2016,114,4.5,0.5,0.6,0.1,0.4,0.2,0.1,Financially struggling,Low government trust
+272,Ethiopia,2016,115,4.5,0.3,0.4,0.3,0.4,0.3,0.2,Financially struggling,Low government trust
+273,South Africa,2016,116,4.5,1.0,1.0,0.2,0.4,0.1,0.1,Financially average,Low government trust
+274,Sri Lanka,2016,117,4.4,1.0,0.8,0.6,0.5,0.5,0.1,Financially average,Low government trust
+275,India,2016,118,4.4,0.7,0.3,0.5,0.4,0.3,0.1,Financially struggling,Low government trust
+276,Myanmar,2016,119,4.4,0.3,0.7,0.4,0.4,0.8,0.2,Financially struggling,Low government trust
+277,Egypt,2016,120,4.4,1.0,0.5,0.5,0.2,0.1,0.1,Financially average,Low government trust
+278,Armenia,2016,121,4.4,0.9,0.6,0.6,0.1,0.1,0.0,Financially average,Low government trust
+279,Kenya,2016,122,4.4,0.5,0.8,0.3,0.4,0.4,0.1,Financially struggling,Low government trust
+280,Ukraine,2016,123,4.3,0.9,1.0,0.6,0.1,0.2,0.0,Financially average,Low government trust
+281,Ghana,2016,124,4.3,0.6,0.5,0.3,0.4,0.2,0.0,Financially struggling,Low government trust
+282,Congo (Kinshasa),2016,125,4.3,0.1,0.8,0.2,0.2,0.3,0.1,Financially struggling,Low government trust
+283,Georgia,2016,126,4.3,0.8,0.2,0.6,0.3,0.1,0.3,Financially average,Average government trust
+284,Congo (Brazzaville),2016,127,4.2,0.8,0.5,0.3,0.4,0.1,0.1,Financially average,Low government trust
+285,Senegal,2016,128,4.2,0.4,0.8,0.4,0.3,0.2,0.1,Financially struggling,Low government trust
+286,Bulgaria,2016,129,4.2,1.1,0.9,0.7,0.2,0.1,0.0,Financially average,Low government trust
+287,Mauritania,2016,130,4.2,0.6,0.8,0.3,0.1,0.2,0.2,Financially struggling,Low government trust
+288,Zimbabwe,2016,131,4.2,0.4,0.7,0.2,0.3,0.2,0.1,Financially struggling,Low government trust
+289,Malawi,2016,132,4.2,0.1,0.1,0.3,0.4,0.3,0.1,Financially struggling,Low government trust
+290,Sudan,2016,133,4.1,0.6,0.8,0.3,0.0,0.2,0.1,Financially struggling,Low government trust
+291,Gabon,2016,134,4.1,1.2,0.7,0.3,0.3,0.1,0.1,Financially average,Low government trust
+292,Mali,2016,135,4.1,0.3,0.9,0.2,0.3,0.2,0.1,Financially struggling,Low government trust
+293,Haiti,2016,136,4.0,0.3,0.3,0.3,0.1,0.5,0.1,Financially struggling,Low government trust
+294,Botswana,2016,137,4.0,1.1,0.9,0.3,0.4,0.1,0.1,Financially average,Low government trust
+295,Comoros,2016,138,4.0,0.3,0.6,0.3,0.2,0.2,0.2,Financially struggling,Low government trust
+296,Ivory Coast,2016,139,3.9,0.6,0.6,0.0,0.4,0.2,0.2,Financially struggling,Low government trust
+297,Cambodia,2016,140,3.9,0.6,0.5,0.4,0.6,0.4,0.1,Financially struggling,Low government trust
+298,Angola,2016,141,3.9,0.8,0.7,0.0,0.0,0.1,0.1,Financially average,Low government trust
+299,Niger,2016,142,3.9,0.1,0.6,0.3,0.4,0.2,0.2,Financially struggling,Low government trust
+300,South Sudan,2016,143,3.8,0.4,0.2,0.2,0.2,0.3,0.1,Financially struggling,Low government trust
+301,Chad,2016,144,3.8,0.4,0.6,0.0,0.1,0.2,0.0,Financially struggling,Low government trust
+302,Burkina Faso,2016,145,3.7,0.3,0.6,0.2,0.3,0.2,0.1,Financially struggling,Low government trust
+303,Uganda,2016,145,3.7,0.3,0.9,0.2,0.4,0.3,0.1,Financially struggling,Low government trust
+304,Yemen,2016,147,3.7,0.6,0.5,0.3,0.2,0.1,0.1,Financially struggling,Low government trust
+305,Madagascar,2016,148,3.7,0.3,0.5,0.4,0.1,0.2,0.1,Financially struggling,Low government trust
+306,Tanzania,2016,149,3.7,0.5,0.8,0.4,0.3,0.3,0.1,Financially struggling,Low government trust
+307,Liberia,2016,150,3.6,0.1,0.5,0.2,0.3,0.2,0.0,Financially struggling,Low government trust
+308,Guinea,2016,151,3.6,0.2,0.3,0.2,0.3,0.3,0.1,Financially struggling,Low government trust
+309,Rwanda,2016,152,3.5,0.3,0.6,0.3,0.5,0.2,0.5,Financially struggling,High government trust
+310,Benin,2016,153,3.5,0.4,0.1,0.2,0.4,0.2,0.1,Financially struggling,Low government trust
+311,Afghanistan,2016,154,3.4,0.4,0.1,0.2,0.2,0.3,0.1,Financially struggling,Low government trust
+312,Togo,2016,155,3.3,0.3,0.0,0.2,0.3,0.2,0.1,Financially struggling,Low government trust
+313,Syria,2016,156,3.1,0.7,0.1,0.6,0.1,0.5,0.2,Financially struggling,Low government trust
+314,Burundi,2016,157,2.9,0.1,0.2,0.2,0.0,0.2,0.1,Financially struggling,Low government trust
+315,Norway,2017,1,7.5,1.6,1.5,0.8,0.6,0.4,0.3,Financially well-off,Average government trust
+316,Denmark,2017,2,7.5,1.5,1.6,0.8,0.6,0.4,0.4,Financially well-off,High government trust
+317,Iceland,2017,3,7.5,1.5,1.6,0.8,0.6,0.5,0.2,Financially well-off,Low government trust
+318,Switzerland,2017,4,7.5,1.6,1.5,0.9,0.6,0.3,0.4,Financially well-off,High government trust
+319,Finland,2017,5,7.5,1.4,1.5,0.8,0.6,0.2,0.4,Financially well-off,High government trust
+320,Netherlands,2017,6,7.4,1.5,1.4,0.8,0.6,0.5,0.3,Financially well-off,Average government trust
+321,Canada,2017,7,7.3,1.5,1.5,0.8,0.6,0.4,0.3,Financially well-off,Average government trust
+322,New Zealand,2017,8,7.3,1.4,1.5,0.8,0.6,0.5,0.4,Financially well-off,High government trust
+323,Sweden,2017,9,7.3,1.5,1.5,0.8,0.6,0.4,0.4,Financially well-off,High government trust
+324,Australia,2017,10,7.3,1.5,1.5,0.8,0.6,0.5,0.3,Financially well-off,Average government trust
+325,Israel,2017,11,7.2,1.4,1.4,0.8,0.4,0.3,0.1,Financially well-off,Low government trust
+326,Costa Rica,2017,12,7.1,1.1,1.4,0.8,0.6,0.2,0.1,Financially average,Low government trust
+327,Austria,2017,13,7.0,1.5,1.5,0.8,0.6,0.3,0.2,Financially well-off,Low government trust
+328,United States,2017,14,7.0,1.5,1.4,0.8,0.5,0.4,0.1,Financially well-off,Low government trust
+329,Ireland,2017,15,7.0,1.5,1.6,0.8,0.6,0.4,0.3,Financially well-off,Average government trust
+330,Germany,2017,16,7.0,1.5,1.5,0.8,0.6,0.3,0.3,Financially well-off,Average government trust
+331,Belgium,2017,17,6.9,1.5,1.5,0.8,0.5,0.2,0.3,Financially well-off,Average government trust
+332,Luxembourg,2017,18,6.9,1.7,1.5,0.8,0.6,0.3,0.3,Financially well-off,Average government trust
+333,United Kingdom,2017,19,6.7,1.4,1.5,0.8,0.5,0.5,0.3,Financially well-off,Average government trust
+334,Chile,2017,20,6.7,1.3,1.3,0.8,0.4,0.3,0.1,Financially average,Low government trust
+335,United Arab Emirates,2017,21,6.6,1.6,1.3,0.7,0.6,0.4,0.3,Financially well-off,Average government trust
+336,Brazil,2017,22,6.6,1.1,1.4,0.6,0.4,0.2,0.1,Financially average,Low government trust
+337,Czech Republic,2017,23,6.6,1.4,1.4,0.8,0.5,0.1,0.0,Financially well-off,Low government trust
+338,Argentina,2017,24,6.6,1.2,1.4,0.7,0.5,0.1,0.1,Financially average,Low government trust
+339,Mexico,2017,25,6.6,1.2,1.2,0.7,0.4,0.1,0.1,Financially average,Low government trust
+340,Singapore,2017,26,6.6,1.7,1.4,0.9,0.5,0.3,0.5,Financially well-off,High government trust
+341,Malta,2017,27,6.5,1.3,1.5,0.8,0.6,0.6,0.2,Financially average,Low government trust
+342,Uruguay,2017,28,6.5,1.2,1.4,0.7,0.6,0.2,0.2,Financially average,Low government trust
+343,Guatemala,2017,29,6.5,0.9,1.3,0.5,0.5,0.3,0.1,Financially average,Low government trust
+344,Panama,2017,30,6.5,1.2,1.4,0.7,0.6,0.2,0.1,Financially average,Low government trust
+345,France,2017,31,6.4,1.4,1.4,0.8,0.5,0.1,0.2,Financially well-off,Low government trust
+346,Thailand,2017,32,6.4,1.1,1.4,0.6,0.6,0.6,0.0,Financially average,Low government trust
+347,Taiwan Province of China,2017,33,6.4,1.4,1.4,0.8,0.4,0.3,0.1,Financially well-off,Low government trust
+348,Spain,2017,34,6.4,1.4,1.5,0.9,0.4,0.2,0.1,Financially well-off,Low government trust
+349,Qatar,2017,35,6.4,1.9,1.3,0.7,0.6,0.3,0.4,Financially well-off,High government trust
+350,Colombia,2017,36,6.4,1.1,1.4,0.6,0.5,0.1,0.0,Financially average,Low government trust
+351,Saudi Arabia,2017,37,6.3,1.5,1.3,0.6,0.4,0.1,0.3,Financially well-off,Average government trust
+352,Trinidad and Tobago,2017,38,6.2,1.4,1.4,0.5,0.5,0.3,0.0,Financially well-off,Low government trust
+353,Kuwait,2017,39,6.1,1.6,1.3,0.6,0.5,0.2,0.2,Financially well-off,Low government trust
+354,Slovakia,2017,40,6.1,1.3,1.5,0.7,0.3,0.1,0.0,Financially average,Low government trust
+355,Bahrain,2017,41,6.1,1.5,1.3,0.7,0.5,0.2,0.3,Financially well-off,Average government trust
+356,Malaysia,2017,42,6.1,1.3,1.3,0.6,0.4,0.4,0.1,Financially average,Low government trust
+357,Nicaragua,2017,43,6.1,0.7,1.3,0.7,0.4,0.3,0.1,Financially struggling,Low government trust
+358,Ecuador,2017,44,6.0,1.0,1.3,0.7,0.5,0.2,0.1,Financially average,Low government trust
+359,El Salvador,2017,45,6.0,0.9,1.2,0.6,0.4,0.1,0.1,Financially average,Low government trust
+360,Poland,2017,46,6.0,1.3,1.4,0.7,0.5,0.2,0.1,Financially average,Low government trust
+361,Uzbekistan,2017,47,6.0,0.8,1.5,0.5,0.7,0.4,0.2,Financially average,Low government trust
+362,Italy,2017,48,6.0,1.4,1.4,0.9,0.3,0.2,0.0,Financially well-off,Low government trust
+363,Russia,2017,49,6.0,1.3,1.5,0.5,0.4,0.1,0.0,Financially average,Low government trust
+364,Belize,2017,50,6.0,0.9,1.1,0.5,0.5,0.2,0.1,Financially average,Low government trust
+365,Japan,2017,51,5.9,1.4,1.4,0.9,0.5,0.1,0.2,Financially well-off,Low government trust
+366,Lithuania,2017,52,5.9,1.3,1.5,0.6,0.2,0.0,0.0,Financially average,Low government trust
+367,Algeria,2017,53,5.9,1.1,1.1,0.6,0.2,0.1,0.1,Financially average,Low government trust
+368,Latvia,2017,54,5.8,1.3,1.4,0.6,0.3,0.2,0.1,Financially average,Low government trust
+369,South Korea,2017,55,5.8,1.4,1.1,0.9,0.3,0.2,0.1,Financially well-off,Low government trust
+370,Moldova,2017,56,5.8,0.7,1.3,0.6,0.2,0.2,0.0,Financially struggling,Low government trust
+371,Romania,2017,57,5.8,1.2,1.2,0.7,0.5,0.1,0.0,Financially average,Low government trust
+372,Bolivia,2017,58,5.8,0.8,1.2,0.5,0.6,0.2,0.1,Financially average,Low government trust
+373,Turkmenistan,2017,59,5.8,1.1,1.5,0.4,0.4,0.2,0.3,Financially average,Average government trust
+374,Kazakhstan,2017,60,5.8,1.3,1.4,0.6,0.4,0.2,0.1,Financially average,Low government trust
+375,North Cyprus,2017,61,5.8,1.3,1.2,0.8,0.5,0.3,0.2,Financially average,Low government trust
+376,Slovenia,2017,62,5.8,1.3,1.5,0.8,0.6,0.2,0.0,Financially average,Low government trust
+377,Peru,2017,63,5.7,1.0,1.2,0.6,0.5,0.1,0.0,Financially average,Low government trust
+378,Mauritius,2017,64,5.6,1.2,1.2,0.6,0.5,0.4,0.0,Financially average,Low government trust
+379,Cyprus,2017,65,5.6,1.4,1.1,0.8,0.4,0.3,0.0,Financially well-off,Low government trust
+380,Estonia,2017,66,5.6,1.3,1.5,0.7,0.5,0.1,0.2,Financially average,Low government trust
+381,Belarus,2017,67,5.6,1.2,1.4,0.6,0.3,0.2,0.2,Financially average,Low government trust
+382,Libya,2017,68,5.5,1.1,1.4,0.5,0.5,0.2,0.1,Financially average,Low government trust
+383,Turkey,2017,69,5.5,1.2,1.3,0.6,0.3,0.0,0.1,Financially average,Low government trust
+384,Paraguay,2017,70,5.5,0.9,1.5,0.6,0.5,0.2,0.1,Financially average,Low government trust
+385,"Hong Kong S.A.R., China",2017,71,5.5,1.6,1.3,0.9,0.5,0.4,0.3,Financially well-off,Average government trust
+386,Philippines,2017,72,5.4,0.9,1.3,0.5,0.6,0.2,0.1,Financially average,Low government trust
+387,Serbia,2017,73,5.4,1.1,1.3,0.7,0.2,0.2,0.0,Financially average,Low government trust
+388,Jordan,2017,74,5.3,1.0,1.2,0.6,0.4,0.2,0.1,Financially average,Low government trust
+389,Hungary,2017,75,5.3,1.3,1.3,0.7,0.2,0.1,0.0,Financially average,Low government trust
+390,Jamaica,2017,76,5.3,0.9,1.4,0.6,0.5,0.2,0.1,Financially average,Low government trust
+391,Croatia,2017,77,5.3,1.2,1.0,0.7,0.3,0.2,0.0,Financially average,Low government trust
+392,Kosovo,2017,78,5.3,1.0,1.1,0.5,0.3,0.3,0.1,Financially average,Low government trust
+393,China,2017,79,5.3,1.1,1.2,0.7,0.5,0.0,0.0,Financially average,Low government trust
+394,Pakistan,2017,80,5.3,0.7,0.7,0.4,0.2,0.3,0.1,Financially struggling,Low government trust
+395,Indonesia,2017,81,5.3,1.0,1.3,0.5,0.4,0.6,0.0,Financially average,Low government trust
+396,Venezuela,2017,82,5.2,1.1,1.4,0.6,0.2,0.1,0.1,Financially average,Low government trust
+397,Montenegro,2017,83,5.2,1.1,1.2,0.7,0.2,0.2,0.1,Financially average,Low government trust
+398,Morocco,2017,84,5.2,0.9,0.8,0.6,0.4,0.0,0.1,Financially average,Low government trust
+399,Azerbaijan,2017,85,5.2,1.2,1.2,0.5,0.4,0.0,0.2,Financially average,Low government trust
+400,Dominican Republic,2017,86,5.2,1.1,1.4,0.6,0.6,0.2,0.1,Financially average,Low government trust
+401,Greece,2017,87,5.2,1.3,1.2,0.8,0.1,0.0,0.0,Financially average,Low government trust
+402,Lebanon,2017,88,5.2,1.1,1.1,0.7,0.3,0.3,0.0,Financially average,Low government trust
+403,Portugal,2017,89,5.2,1.3,1.4,0.8,0.5,0.1,0.0,Financially average,Low government trust
+404,Bosnia and Herzegovina,2017,90,5.2,1.0,1.1,0.7,0.2,0.3,0.0,Financially average,Low government trust
+405,Honduras,2017,91,5.2,0.7,1.1,0.6,0.3,0.2,0.1,Financially struggling,Low government trust
+406,Macedonia,2017,92,5.2,1.1,1.2,0.6,0.3,0.3,0.1,Financially average,Low government trust
+407,Somalia,2017,93,5.2,0.0,0.7,0.1,0.6,0.3,0.3,Financially struggling,Average government trust
+408,Vietnam,2017,94,5.1,0.8,1.3,0.7,0.6,0.2,0.1,Financially average,Low government trust
+409,Nigeria,2017,95,5.1,0.8,1.2,0.1,0.4,0.2,0.0,Financially average,Low government trust
+410,Tajikistan,2017,96,5.0,0.5,1.3,0.5,0.5,0.2,0.1,Financially struggling,Low government trust
+411,Bhutan,2017,97,5.0,0.9,1.3,0.5,0.5,0.5,0.2,Financially average,Low government trust
+412,Kyrgyzstan,2017,98,5.0,0.6,1.4,0.6,0.5,0.4,0.0,Financially struggling,Low government trust
+413,Nepal,2017,99,5.0,0.5,1.2,0.5,0.4,0.4,0.1,Financially struggling,Low government trust
+414,Mongolia,2017,100,5.0,1.0,1.5,0.6,0.4,0.3,0.0,Financially average,Low government trust
+415,South Africa,2017,101,4.8,1.1,1.4,0.2,0.5,0.1,0.1,Financially average,Low government trust
+416,Tunisia,2017,102,4.8,1.0,0.9,0.6,0.3,0.0,0.1,Financially average,Low government trust
+417,Palestinian Territories,2017,103,4.8,0.7,1.2,0.6,0.3,0.1,0.1,Financially struggling,Low government trust
+418,Egypt,2017,104,4.7,1.0,1.0,0.5,0.3,0.1,0.1,Financially average,Low government trust
+419,Bulgaria,2017,105,4.7,1.2,1.4,0.7,0.3,0.1,0.0,Financially average,Low government trust
+420,Sierra Leone,2017,106,4.7,0.4,1.0,0.0,0.3,0.3,0.1,Financially struggling,Low government trust
+421,Cameroon,2017,107,4.7,0.6,0.9,0.1,0.4,0.2,0.1,Financially struggling,Low government trust
+422,Iran,2017,108,4.7,1.2,0.7,0.6,0.2,0.4,0.0,Financially average,Low government trust
+423,Albania,2017,109,4.6,1.0,0.8,0.7,0.4,0.2,0.0,Financially average,Low government trust
+424,Bangladesh,2017,110,4.6,0.6,0.7,0.5,0.5,0.2,0.1,Financially struggling,Low government trust
+425,Namibia,2017,111,4.6,1.0,1.1,0.3,0.5,0.1,0.1,Financially average,Low government trust
+426,Kenya,2017,112,4.6,0.6,1.1,0.3,0.5,0.4,0.1,Financially struggling,Low government trust
+427,Mozambique,2017,113,4.6,0.2,0.9,0.1,0.5,0.3,0.2,Financially struggling,Low government trust
+428,Myanmar,2017,114,4.5,0.4,1.1,0.4,0.5,0.8,0.2,Financially struggling,Low government trust
+429,Senegal,2017,115,4.5,0.5,1.2,0.4,0.4,0.2,0.1,Financially struggling,Low government trust
+430,Zambia,2017,116,4.5,0.6,1.0,0.3,0.5,0.2,0.1,Financially struggling,Low government trust
+431,Iraq,2017,117,4.5,1.1,1.0,0.5,0.3,0.2,0.1,Financially average,Low government trust
+432,Gabon,2017,118,4.5,1.2,1.2,0.4,0.3,0.0,0.1,Financially average,Low government trust
+433,Ethiopia,2017,119,4.5,0.3,0.9,0.4,0.4,0.3,0.2,Financially struggling,Low government trust
+434,Sri Lanka,2017,120,4.4,1.0,1.3,0.6,0.6,0.5,0.1,Financially average,Low government trust
+435,Armenia,2017,121,4.4,0.9,1.0,0.6,0.2,0.1,0.0,Financially average,Low government trust
+436,India,2017,122,4.3,0.8,0.8,0.5,0.5,0.2,0.1,Financially average,Low government trust
+437,Mauritania,2017,123,4.3,0.6,1.3,0.3,0.1,0.2,0.1,Financially struggling,Low government trust
+438,Congo (Brazzaville),2017,124,4.3,0.8,0.8,0.3,0.4,0.1,0.1,Financially average,Low government trust
+439,Georgia,2017,125,4.3,1.0,0.6,0.6,0.3,0.1,0.3,Financially average,Average government trust
+440,Congo (Kinshasa),2017,126,4.3,0.1,1.2,0.2,0.2,0.2,0.1,Financially struggling,Low government trust
+441,Mali,2017,127,4.2,0.5,1.3,0.2,0.3,0.2,0.1,Financially struggling,Low government trust
+442,Ivory Coast,2017,128,4.2,0.6,0.9,0.0,0.4,0.2,0.1,Financially struggling,Low government trust
+443,Cambodia,2017,129,4.2,0.6,1.0,0.4,0.6,0.4,0.1,Financially struggling,Low government trust
+444,Sudan,2017,130,4.1,0.7,1.2,0.3,0.0,0.2,0.1,Financially struggling,Low government trust
+445,Ghana,2017,131,4.1,0.7,0.9,0.3,0.4,0.3,0.0,Financially struggling,Low government trust
+446,Ukraine,2017,132,4.1,0.9,1.4,0.6,0.1,0.3,0.0,Financially average,Low government trust
+447,Uganda,2017,133,4.1,0.4,1.1,0.2,0.4,0.3,0.1,Financially struggling,Low government trust
+448,Burkina Faso,2017,134,4.0,0.4,1.0,0.2,0.3,0.3,0.1,Financially struggling,Low government trust
+449,Niger,2017,135,4.0,0.2,1.0,0.3,0.4,0.2,0.1,Financially struggling,Low government trust
+450,Malawi,2017,136,4.0,0.2,0.5,0.3,0.5,0.3,0.1,Financially struggling,Low government trust
+451,Chad,2017,137,3.9,0.4,1.0,0.0,0.2,0.2,0.1,Financially struggling,Low government trust
+452,Zimbabwe,2017,138,3.9,0.4,1.1,0.2,0.3,0.2,0.1,Financially struggling,Low government trust
+453,Lesotho,2017,139,3.8,0.5,1.2,0.0,0.4,0.2,0.1,Financially struggling,Low government trust
+454,Angola,2017,140,3.8,0.9,1.1,0.0,0.0,0.1,0.1,Financially average,Low government trust
+455,Afghanistan,2017,141,3.8,0.4,0.6,0.2,0.1,0.3,0.1,Financially struggling,Low government trust
+456,Botswana,2017,142,3.8,1.1,1.2,0.3,0.5,0.1,0.1,Financially average,Low government trust
+457,Benin,2017,143,3.7,0.4,0.4,0.2,0.4,0.2,0.1,Financially struggling,Low government trust
+458,Madagascar,2017,144,3.6,0.3,0.9,0.4,0.2,0.2,0.1,Financially struggling,Low government trust
+459,Haiti,2017,145,3.6,0.4,0.6,0.3,0.0,0.5,0.1,Financially struggling,Low government trust
+460,Yemen,2017,146,3.6,0.6,0.9,0.3,0.2,0.1,0.1,Financially struggling,Low government trust
+461,South Sudan,2017,147,3.6,0.4,0.6,0.2,0.1,0.3,0.1,Financially struggling,Low government trust
+462,Liberia,2017,148,3.5,0.1,0.9,0.2,0.3,0.3,0.0,Financially struggling,Low government trust
+463,Guinea,2017,149,3.5,0.2,0.8,0.2,0.3,0.3,0.1,Financially struggling,Low government trust
+464,Togo,2017,150,3.5,0.3,0.4,0.2,0.4,0.2,0.1,Financially struggling,Low government trust
+465,Rwanda,2017,151,3.5,0.4,0.9,0.3,0.6,0.3,0.5,Financially struggling,High government trust
+466,Syria,2017,152,3.5,0.8,0.4,0.5,0.1,0.5,0.2,Financially average,Low government trust
+467,Tanzania,2017,153,3.3,0.5,1.0,0.4,0.4,0.4,0.1,Financially struggling,Low government trust
+468,Burundi,2017,154,2.9,0.1,0.6,0.2,0.1,0.2,0.1,Financially struggling,Low government trust
+469,Central African Republic,2017,155,2.7,0.0,0.0,0.0,0.3,0.3,0.1,Financially struggling,Low government trust
+470,Finland,2018,1,7.6,1.3,1.6,0.9,0.7,0.2,0.4,Financially average,High government trust
+471,Norway,2018,2,7.6,1.5,1.6,0.9,0.7,0.3,0.3,Financially well-off,Average government trust
+472,Denmark,2018,3,7.6,1.4,1.6,0.9,0.7,0.3,0.4,Financially well-off,High government trust
+473,Iceland,2018,4,7.5,1.3,1.6,0.9,0.7,0.4,0.1,Financially average,Low government trust
+474,Switzerland,2018,5,7.5,1.4,1.5,0.9,0.7,0.3,0.4,Financially well-off,High government trust
+475,Netherlands,2018,6,7.4,1.4,1.5,0.9,0.6,0.3,0.3,Financially well-off,Average government trust
+476,Canada,2018,7,7.3,1.3,1.5,0.9,0.7,0.3,0.3,Financially average,Average government trust
+477,New Zealand,2018,8,7.3,1.3,1.6,0.9,0.7,0.4,0.4,Financially average,High government trust
+478,Sweden,2018,9,7.3,1.4,1.5,0.9,0.7,0.3,0.4,Financially well-off,High government trust
+479,Australia,2018,10,7.3,1.3,1.6,0.9,0.6,0.4,0.3,Financially average,Average government trust
+480,United Kingdom,2018,11,7.2,1.2,1.4,0.9,0.5,0.3,0.1,Financially average,Low government trust
+481,Austria,2018,12,7.1,1.3,1.5,0.9,0.6,0.2,0.2,Financially average,Low government trust
+482,Costa Rica,2018,13,7.1,1.0,1.5,0.8,0.6,0.1,0.1,Financially average,Low government trust
+483,Ireland,2018,14,7.0,1.4,1.6,0.9,0.6,0.3,0.3,Financially well-off,Average government trust
+484,Germany,2018,15,7.0,1.3,1.5,0.9,0.6,0.3,0.3,Financially average,Average government trust
+485,Belgium,2018,16,6.9,1.3,1.5,0.9,0.6,0.2,0.2,Financially average,Low government trust
+486,Luxembourg,2018,17,6.9,1.6,1.5,0.9,0.6,0.2,0.3,Financially well-off,Average government trust
+487,United States,2018,18,6.9,1.4,1.5,0.8,0.5,0.3,0.1,Financially well-off,Low government trust
+488,Israel,2018,19,6.8,1.3,1.6,0.9,0.5,0.4,0.3,Financially average,Average government trust
+489,United Arab Emirates,2018,20,6.8,2.1,0.8,0.7,0.3,0.2,,Financially well-off,Not enough data
+490,Czech Republic,2018,21,6.7,1.2,1.5,0.9,0.5,0.1,0.0,Financially average,Low government trust
+491,Malta,2018,22,6.6,1.3,1.5,0.9,0.6,0.4,0.1,Financially average,Low government trust
+492,France,2018,23,6.5,1.3,1.5,0.9,0.5,0.1,0.2,Financially average,Low government trust
+493,Mexico,2018,24,6.5,1.0,1.3,0.8,0.5,0.1,0.1,Financially average,Low government trust
+494,Chile,2018,25,6.5,1.1,1.3,0.8,0.4,0.2,0.1,Financially average,Low government trust
+495,Taiwan,2018,26,6.4,1.4,1.4,0.9,0.4,0.2,0.1,Financially well-off,Low government trust
+496,Panama,2018,27,6.4,1.1,1.4,0.8,0.6,0.1,0.1,Financially average,Low government trust
+497,Brazil,2018,28,6.4,1.0,1.5,0.7,0.5,0.1,0.1,Financially average,Low government trust
+498,Argentina,2018,29,6.4,1.1,1.5,0.7,0.6,0.1,0.1,Financially average,Low government trust
+499,Guatemala,2018,30,6.4,0.8,1.3,0.6,0.6,0.2,0.1,Financially average,Low government trust
+500,Uruguay,2018,31,6.4,1.1,1.5,0.8,0.6,0.1,0.2,Financially average,Low government trust
+501,Qatar,2018,32,6.4,1.6,1.3,0.7,0.7,0.3,0.2,Financially well-off,Low government trust
+502,Saudi Arabia,2018,33,6.4,1.4,1.3,0.6,0.5,0.1,0.1,Financially well-off,Low government trust
+503,Singapore,2018,34,6.3,1.5,1.5,1.0,0.6,0.3,0.5,Financially well-off,High government trust
+504,Malaysia,2018,35,6.3,1.2,1.3,0.7,0.4,0.3,0.1,Financially average,Low government trust
+505,Spain,2018,36,6.3,1.3,1.5,1.0,0.4,0.1,0.1,Financially average,Low government trust
+506,Colombia,2018,37,6.3,1.0,1.4,0.6,0.5,0.1,0.0,Financially average,Low government trust
+507,Trinidad & Tobago,2018,38,6.2,1.2,1.5,0.6,0.6,0.2,0.0,Financially average,Low government trust
+508,Slovakia,2018,39,6.2,1.2,1.5,0.8,0.4,0.1,0.0,Financially average,Low government trust
+509,El Salvador,2018,40,6.2,0.8,1.2,0.6,0.5,0.1,0.1,Financially average,Low government trust
+510,Nicaragua,2018,41,6.1,0.7,1.3,0.7,0.5,0.2,0.1,Financially struggling,Low government trust
+511,Poland,2018,42,6.1,1.2,1.4,0.8,0.5,0.1,0.1,Financially average,Low government trust
+512,Bahrain,2018,43,6.1,1.3,1.4,0.7,0.6,0.2,0.1,Financially average,Low government trust
+513,Uzbekistan,2018,44,6.1,0.7,1.6,0.6,0.7,0.3,0.3,Financially struggling,Average government trust
+514,Kuwait,2018,45,6.1,1.5,1.3,0.7,0.6,0.2,0.1,Financially well-off,Low government trust
+515,Thailand,2018,46,6.1,1.0,1.4,0.7,0.6,0.4,0.0,Financially average,Low government trust
+516,Italy,2018,47,6.0,1.3,1.5,0.9,0.3,0.1,0.0,Financially average,Low government trust
+517,Ecuador,2018,48,6.0,0.9,1.3,0.7,0.6,0.1,0.1,Financially average,Low government trust
+518,Belize,2018,49,6.0,0.8,1.1,0.5,0.6,0.2,0.1,Financially average,Low government trust
+519,Lithuania,2018,50,6.0,1.2,1.5,0.7,0.4,0.0,0.0,Financially average,Low government trust
+520,Slovenia,2018,51,5.9,1.2,1.5,0.9,0.6,0.2,0.1,Financially average,Low government trust
+521,Romania,2018,52,5.9,1.1,1.2,0.7,0.5,0.1,0.0,Financially average,Low government trust
+522,Latvia,2018,53,5.9,1.1,1.5,0.7,0.4,0.1,0.1,Financially average,Low government trust
+523,Japan,2018,54,5.9,1.3,1.5,1.0,0.6,0.1,0.2,Financially average,Low government trust
+524,Mauritius,2018,55,5.9,1.1,1.4,0.7,0.6,0.2,0.0,Financially average,Low government trust
+525,Jamaica,2018,56,5.9,0.8,1.5,0.7,0.6,0.1,0.0,Financially average,Low government trust
+526,South Korea,2018,57,5.9,1.3,1.2,1.0,0.2,0.2,0.1,Financially average,Low government trust
+527,Northern Cyprus,2018,58,5.8,1.2,1.2,0.9,0.5,0.2,0.2,Financially average,Low government trust
+528,Russia,2018,59,5.8,1.2,1.5,0.6,0.4,0.1,0.0,Financially average,Low government trust
+529,Kazakhstan,2018,60,5.8,1.1,1.5,0.6,0.5,0.1,0.1,Financially average,Low government trust
+530,Cyprus,2018,61,5.8,1.2,1.2,0.9,0.4,0.2,0.0,Financially average,Low government trust
+531,Bolivia,2018,62,5.8,0.8,1.2,0.5,0.6,0.1,0.1,Financially average,Low government trust
+532,Estonia,2018,63,5.7,1.2,1.5,0.7,0.6,0.1,0.2,Financially average,Low government trust
+533,Paraguay,2018,64,5.7,0.8,1.5,0.6,0.5,0.2,0.1,Financially average,Low government trust
+534,Peru,2018,65,5.7,0.9,1.2,0.7,0.5,0.1,0.0,Financially average,Low government trust
+535,Kosovo,2018,66,5.7,0.9,1.2,0.6,0.4,0.3,0.0,Financially average,Low government trust
+536,Moldova,2018,67,5.6,0.7,1.3,0.6,0.2,0.2,0.0,Financially struggling,Low government trust
+537,Turkmenistan,2018,68,5.6,1.0,1.5,0.5,0.4,0.2,0.0,Financially average,Low government trust
+538,Hungary,2018,69,5.6,1.2,1.4,0.7,0.3,0.1,0.0,Financially average,Low government trust
+539,Libya,2018,70,5.6,1.0,1.4,0.6,0.5,0.1,0.1,Financially average,Low government trust
+540,Philippines,2018,71,5.5,0.8,1.3,0.5,0.6,0.1,0.1,Financially average,Low government trust
+541,Honduras,2018,72,5.5,0.6,1.2,0.6,0.5,0.2,0.1,Financially struggling,Low government trust
+542,Belarus,2018,73,5.5,1.0,1.5,0.7,0.3,0.1,0.2,Financially average,Low government trust
+543,Turkey,2018,74,5.5,1.1,1.4,0.7,0.3,0.1,0.1,Financially average,Low government trust
+544,Pakistan,2018,75,5.5,0.7,0.8,0.4,0.3,0.2,0.1,Financially struggling,Low government trust
+545,Hong Kong,2018,76,5.4,1.4,1.3,1.0,0.5,0.2,0.3,Financially well-off,Average government trust
+546,Portugal,2018,77,5.4,1.2,1.4,0.9,0.6,0.1,0.0,Financially average,Low government trust
+547,Serbia,2018,78,5.4,1.0,1.4,0.7,0.3,0.1,0.0,Financially average,Low government trust
+548,Greece,2018,79,5.4,1.2,1.2,0.9,0.1,0.0,0.0,Financially average,Low government trust
+549,Lebanon,2018,80,5.4,1.0,1.2,0.8,0.5,0.2,0.1,Financially average,Low government trust
+550,Montenegro,2018,81,5.3,1.0,1.3,0.7,0.3,0.1,0.1,Financially average,Low government trust
+551,Croatia,2018,82,5.3,1.1,1.2,0.7,0.4,0.1,0.0,Financially average,Low government trust
+552,Dominican Republic,2018,83,5.3,1.0,1.4,0.6,0.6,0.1,0.1,Financially average,Low government trust
+553,Algeria,2018,84,5.3,1.0,1.2,0.7,0.1,0.1,0.1,Financially average,Low government trust
+554,Morocco,2018,85,5.3,0.8,0.8,0.7,0.5,0.0,0.1,Financially average,Low government trust
+555,China,2018,86,5.2,1.0,1.1,0.8,0.6,0.0,0.1,Financially average,Low government trust
+556,Azerbaijan,2018,87,5.2,1.0,1.2,0.6,0.4,0.0,0.2,Financially average,Low government trust
+557,Tajikistan,2018,88,5.2,0.5,1.2,0.6,0.3,0.2,0.0,Financially struggling,Low government trust
+558,Macedonia,2018,89,5.2,1.0,1.2,0.7,0.4,0.2,0.1,Financially average,Low government trust
+559,Jordan,2018,90,5.2,0.8,1.3,0.6,0.5,0.1,0.1,Financially average,Low government trust
+560,Nigeria,2018,91,5.2,0.7,1.2,0.0,0.5,0.2,0.0,Financially struggling,Low government trust
+561,Kyrgyzstan,2018,92,5.1,0.5,1.4,0.6,0.5,0.3,0.0,Financially struggling,Low government trust
+562,Bosnia and Herzegovina,2018,93,5.1,0.9,1.1,0.8,0.3,0.2,0.0,Financially average,Low government trust
+563,Mongolia,2018,94,5.1,0.9,1.5,0.6,0.4,0.3,0.0,Financially average,Low government trust
+564,Vietnam,2018,95,5.1,0.7,1.4,0.7,0.6,0.2,0.1,Financially struggling,Low government trust
+565,Indonesia,2018,96,5.1,0.9,1.2,0.5,0.5,0.5,0.0,Financially average,Low government trust
+566,Bhutan,2018,97,5.1,0.8,1.3,0.5,0.5,0.4,0.2,Financially average,Low government trust
+567,Somalia,2018,98,5.0,0.0,0.7,0.1,0.7,0.2,0.3,Financially struggling,Average government trust
+568,Cameroon,2018,99,5.0,0.5,0.9,0.2,0.5,0.2,0.0,Financially struggling,Low government trust
+569,Bulgaria,2018,100,4.9,1.1,1.5,0.7,0.4,0.1,0.0,Financially average,Low government trust
+570,Nepal,2018,101,4.9,0.4,1.2,0.5,0.5,0.3,0.1,Financially struggling,Low government trust
+571,Venezuela,2018,102,4.8,1.0,1.5,0.7,0.1,0.1,0.1,Financially average,Low government trust
+572,Gabon,2018,103,4.8,1.0,1.2,0.4,0.4,0.0,0.1,Financially average,Low government trust
+573,Palestinian Territories,2018,104,4.7,0.6,1.2,0.6,0.3,0.1,0.1,Financially struggling,Low government trust
+574,South Africa,2018,105,4.7,0.9,1.4,0.3,0.5,0.1,0.1,Financially average,Low government trust
+575,Iran,2018,106,4.7,1.1,0.8,0.7,0.5,0.3,0.1,Financially average,Low government trust
+576,Ivory Coast,2018,107,4.7,0.5,0.9,0.1,0.5,0.1,0.1,Financially struggling,Low government trust
+577,Ghana,2018,108,4.7,0.6,0.9,0.3,0.5,0.2,0.0,Financially struggling,Low government trust
+578,Senegal,2018,109,4.6,0.4,1.1,0.4,0.4,0.1,0.1,Financially struggling,Low government trust
+579,Laos,2018,110,4.6,0.7,1.0,0.4,0.6,0.2,0.2,Financially struggling,Low government trust
+580,Tunisia,2018,111,4.6,0.9,0.9,0.7,0.3,0.0,0.1,Financially average,Low government trust
+581,Albania,2018,112,4.6,0.9,0.8,0.8,0.4,0.1,0.0,Financially average,Low government trust
+582,Sierra Leone,2018,113,4.6,0.3,0.8,0.0,0.4,0.2,0.1,Financially struggling,Low government trust
+583,Congo (Brazzaville),2018,114,4.6,0.7,0.8,0.3,0.5,0.1,0.1,Financially struggling,Low government trust
+584,Bangladesh,2018,115,4.5,0.5,0.8,0.6,0.6,0.2,0.1,Financially struggling,Low government trust
+585,Sri Lanka,2018,116,4.5,0.9,1.3,0.7,0.6,0.3,0.0,Financially average,Low government trust
+586,Iraq,2018,117,4.5,1.0,1.0,0.5,0.3,0.1,0.1,Financially average,Low government trust
+587,Mali,2018,118,4.4,0.4,1.2,0.2,0.4,0.1,0.1,Financially struggling,Low government trust
+588,Namibia,2018,119,4.4,0.9,1.3,0.4,0.5,0.1,0.1,Financially average,Low government trust
+589,Cambodia,2018,120,4.4,0.5,1.1,0.5,0.7,0.3,0.1,Financially struggling,Low government trust
+590,Burkina Faso,2018,121,4.4,0.3,1.1,0.3,0.3,0.2,0.1,Financially struggling,Low government trust
+591,Egypt,2018,122,4.4,0.9,1.0,0.6,0.3,0.1,0.1,Financially average,Low government trust
+592,Mozambique,2018,123,4.4,0.2,0.9,0.2,0.5,0.2,0.2,Financially struggling,Low government trust
+593,Kenya,2018,124,4.4,0.5,1.0,0.5,0.5,0.4,0.1,Financially struggling,Low government trust
+594,Zambia,2018,125,4.4,0.6,1.0,0.3,0.5,0.2,0.1,Financially struggling,Low government trust
+595,Mauritania,2018,126,4.4,0.6,1.2,0.3,0.1,0.1,0.1,Financially struggling,Low government trust
+596,Ethiopia,2018,127,4.4,0.3,1.0,0.4,0.5,0.2,0.1,Financially struggling,Low government trust
+597,Georgia,2018,128,4.3,0.9,0.6,0.6,0.4,0.0,0.2,Financially average,Low government trust
+598,Armenia,2018,129,4.3,0.8,1.0,0.7,0.3,0.1,0.0,Financially average,Low government trust
+599,Myanmar,2018,130,4.3,0.7,1.2,0.4,0.6,0.6,0.2,Financially struggling,Low government trust
+600,Chad,2018,131,4.3,0.4,0.9,0.1,0.2,0.2,0.1,Financially struggling,Low government trust
+601,Congo (Kinshasa),2018,132,4.2,0.1,1.1,0.2,0.3,0.2,0.1,Financially struggling,Low government trust
+602,India,2018,133,4.2,0.7,0.7,0.5,0.5,0.2,0.1,Financially struggling,Low government trust
+603,Niger,2018,134,4.2,0.1,0.9,0.2,0.4,0.2,0.1,Financially struggling,Low government trust
+604,Uganda,2018,135,4.2,0.3,1.1,0.2,0.4,0.3,0.1,Financially struggling,Low government trust
+605,Benin,2018,136,4.1,0.4,0.4,0.2,0.4,0.2,0.1,Financially struggling,Low government trust
+606,Sudan,2018,137,4.1,0.6,1.2,0.3,0.0,0.1,0.1,Financially struggling,Low government trust
+607,Ukraine,2018,138,4.1,0.8,1.4,0.6,0.2,0.2,0.0,Financially average,Low government trust
+608,Togo,2018,139,4.0,0.3,0.5,0.3,0.4,0.2,0.1,Financially struggling,Low government trust
+609,Guinea,2018,140,4.0,0.3,0.8,0.2,0.4,0.2,0.1,Financially struggling,Low government trust
+610,Lesotho,2018,141,3.8,0.5,1.2,0.1,0.4,0.1,0.1,Financially struggling,Low government trust
+611,Angola,2018,142,3.8,0.7,1.1,0.3,0.0,0.1,0.1,Financially struggling,Low government trust
+612,Madagascar,2018,143,3.8,0.3,0.9,0.4,0.2,0.2,0.0,Financially struggling,Low government trust
+613,Zimbabwe,2018,144,3.7,0.4,1.1,0.2,0.4,0.1,0.1,Financially struggling,Low government trust
+614,Afghanistan,2018,145,3.6,0.3,0.5,0.3,0.1,0.2,0.0,Financially struggling,Low government trust
+615,Botswana,2018,146,3.6,1.0,1.2,0.4,0.6,0.0,0.1,Financially average,Low government trust
+616,Malawi,2018,147,3.6,0.2,0.5,0.3,0.5,0.2,0.1,Financially struggling,Low government trust
+617,Haiti,2018,148,3.6,0.3,0.7,0.3,0.0,0.4,0.1,Financially struggling,Low government trust
+618,Liberia,2018,149,3.5,0.1,0.9,0.3,0.4,0.2,0.0,Financially struggling,Low government trust
+619,Syria,2018,150,3.5,0.7,0.4,0.5,0.1,0.4,0.1,Financially struggling,Low government trust
+620,Rwanda,2018,151,3.4,0.3,0.9,0.4,0.6,0.2,0.4,Financially struggling,High government trust
+621,Yemen,2018,152,3.4,0.4,1.1,0.3,0.2,0.1,0.1,Financially struggling,Low government trust
+622,Tanzania,2018,153,3.3,0.5,1.0,0.4,0.5,0.3,0.1,Financially struggling,Low government trust
+623,South Sudan,2018,154,3.3,0.3,0.6,0.2,0.1,0.2,0.1,Financially struggling,Low government trust
+624,Central African Republic,2018,155,3.1,0.0,0.0,0.0,0.3,0.2,0.0,Financially struggling,Low government trust
+625,Burundi,2018,156,2.9,0.1,0.6,0.1,0.1,0.1,0.1,Financially struggling,Low government trust
+626,Finland,2019,1,7.8,1.3,1.6,1.0,0.6,0.2,0.4,Financially average,High government trust
+627,Denmark,2019,2,7.6,1.4,1.6,1.0,0.6,0.3,0.4,Financially well-off,High government trust
+628,Norway,2019,3,7.6,1.5,1.6,1.0,0.6,0.3,0.3,Financially well-off,Average government trust
+629,Iceland,2019,4,7.5,1.4,1.6,1.0,0.6,0.4,0.1,Financially well-off,Low government trust
+630,Netherlands,2019,5,7.5,1.4,1.5,1.0,0.6,0.3,0.3,Financially well-off,Average government trust
+631,Switzerland,2019,6,7.5,1.5,1.5,1.1,0.6,0.3,0.3,Financially well-off,Average government trust
+632,Sweden,2019,7,7.3,1.4,1.5,1.0,0.6,0.3,0.4,Financially well-off,High government trust
+633,New Zealand,2019,8,7.3,1.3,1.6,1.0,0.6,0.3,0.4,Financially average,High government trust
+634,Canada,2019,9,7.3,1.4,1.5,1.0,0.6,0.3,0.3,Financially well-off,Average government trust
+635,Austria,2019,10,7.2,1.4,1.5,1.0,0.5,0.2,0.2,Financially well-off,Low government trust
+636,Australia,2019,11,7.2,1.4,1.5,1.0,0.6,0.3,0.3,Financially well-off,Average government trust
+637,Costa Rica,2019,12,7.2,1.0,1.4,1.0,0.6,0.1,0.1,Financially average,Low government trust
+638,Israel,2019,13,7.1,1.3,1.5,1.0,0.4,0.3,0.1,Financially average,Low government trust
+639,Luxembourg,2019,14,7.1,1.6,1.5,1.0,0.5,0.2,0.3,Financially well-off,Average government trust
+640,United Kingdom,2019,15,7.1,1.3,1.5,1.0,0.4,0.3,0.3,Financially average,Average government trust
+641,Ireland,2019,16,7.0,1.5,1.6,1.0,0.5,0.3,0.3,Financially well-off,Average government trust
+642,Germany,2019,17,7.0,1.4,1.5,1.0,0.5,0.3,0.3,Financially well-off,Average government trust
+643,Belgium,2019,18,6.9,1.4,1.5,1.0,0.5,0.2,0.2,Financially well-off,Low government trust
+644,United States,2019,19,6.9,1.4,1.5,0.9,0.5,0.3,0.1,Financially well-off,Low government trust
+645,Czech Republic,2019,20,6.9,1.3,1.5,0.9,0.5,0.0,0.0,Financially average,Low government trust
+646,United Arab Emirates,2019,21,6.8,1.5,1.3,0.8,0.6,0.3,0.2,Financially well-off,Low government trust
+647,Malta,2019,22,6.7,1.3,1.5,1.0,0.6,0.4,0.2,Financially average,Low government trust
+648,Mexico,2019,23,6.6,1.1,1.3,0.9,0.4,0.1,0.1,Financially average,Low government trust
+649,France,2019,24,6.6,1.3,1.5,1.0,0.4,0.1,0.2,Financially average,Low government trust
+650,Taiwan,2019,25,6.4,1.4,1.4,0.9,0.4,0.2,0.1,Financially well-off,Low government trust
+651,Chile,2019,26,6.4,1.2,1.4,0.9,0.4,0.2,0.1,Financially average,Low government trust
+652,Guatemala,2019,27,6.4,0.8,1.3,0.7,0.5,0.2,0.1,Financially average,Low government trust
+653,Saudi Arabia,2019,28,6.4,1.4,1.4,0.8,0.4,0.1,0.1,Financially well-off,Low government trust
+654,Qatar,2019,29,6.4,1.7,1.3,0.9,0.6,0.2,0.2,Financially well-off,Low government trust
+655,Spain,2019,30,6.4,1.3,1.5,1.1,0.4,0.2,0.1,Financially average,Low government trust
+656,Panama,2019,31,6.3,1.1,1.4,0.9,0.5,0.1,0.1,Financially average,Low government trust
+657,Brazil,2019,32,6.3,1.0,1.4,0.8,0.4,0.1,0.1,Financially average,Low government trust
+658,Uruguay,2019,33,6.3,1.1,1.5,0.9,0.5,0.1,0.2,Financially average,Low government trust
+659,Singapore,2019,34,6.3,1.6,1.5,1.1,0.6,0.3,0.5,Financially well-off,High government trust
+660,El Salvador,2019,35,6.3,0.8,1.2,0.8,0.4,0.1,0.1,Financially average,Low government trust
+661,Italy,2019,36,6.2,1.3,1.5,1.0,0.2,0.2,0.0,Financially average,Low government trust
+662,Bahrain,2019,37,6.2,1.4,1.4,0.9,0.5,0.3,0.1,Financially well-off,Low government trust
+663,Slovakia,2019,38,6.2,1.2,1.5,0.9,0.3,0.1,0.0,Financially average,Low government trust
+664,Trinidad & Tobago,2019,39,6.2,1.2,1.5,0.7,0.5,0.2,0.0,Financially average,Low government trust
+665,Poland,2019,40,6.2,1.2,1.4,0.9,0.5,0.1,0.0,Financially average,Low government trust
+666,Uzbekistan,2019,41,6.2,0.7,1.5,0.8,0.6,0.3,0.2,Financially struggling,Low government trust
+667,Lithuania,2019,42,6.1,1.2,1.5,0.8,0.3,0.0,0.0,Financially average,Low government trust
+668,Colombia,2019,43,6.1,1.0,1.4,0.8,0.5,0.1,0.0,Financially average,Low government trust
+669,Slovenia,2019,44,6.1,1.3,1.5,1.0,0.6,0.1,0.1,Financially average,Low government trust
+670,Nicaragua,2019,45,6.1,0.7,1.3,0.8,0.4,0.2,0.1,Financially struggling,Low government trust
+671,Kosovo,2019,46,6.1,0.9,1.2,0.8,0.5,0.3,0.0,Financially average,Low government trust
+672,Argentina,2019,47,6.1,1.1,1.4,0.9,0.5,0.1,0.0,Financially average,Low government trust
+673,Romania,2019,48,6.1,1.2,1.2,0.8,0.5,0.1,0.0,Financially average,Low government trust
+674,Cyprus,2019,49,6.0,1.3,1.2,1.0,0.4,0.2,0.0,Financially average,Low government trust
+675,Ecuador,2019,50,6.0,0.9,1.3,0.9,0.5,0.1,0.1,Financially average,Low government trust
+676,Kuwait,2019,51,6.0,1.5,1.3,0.8,0.5,0.1,0.1,Financially well-off,Low government trust
+677,Thailand,2019,52,6.0,1.0,1.4,0.8,0.6,0.4,0.0,Financially average,Low government trust
+678,Latvia,2019,53,5.9,1.2,1.5,0.8,0.3,0.1,0.1,Financially average,Low government trust
+679,South Korea,2019,54,5.9,1.3,1.2,1.0,0.2,0.2,0.1,Financially average,Low government trust
+680,Estonia,2019,55,5.9,1.2,1.5,0.9,0.5,0.1,0.2,Financially average,Low government trust
+681,Jamaica,2019,56,5.9,0.8,1.5,0.8,0.5,0.1,0.0,Financially average,Low government trust
+682,Mauritius,2019,57,5.9,1.1,1.4,0.8,0.5,0.2,0.1,Financially average,Low government trust
+683,Japan,2019,58,5.9,1.3,1.4,1.1,0.4,0.1,0.1,Financially average,Low government trust
+684,Honduras,2019,59,5.9,0.6,1.2,0.8,0.5,0.2,0.1,Financially struggling,Low government trust
+685,Kazakhstan,2019,60,5.8,1.2,1.5,0.7,0.4,0.1,0.1,Financially average,Low government trust
+686,Bolivia,2019,61,5.8,0.8,1.2,0.7,0.5,0.1,0.1,Financially average,Low government trust
+687,Hungary,2019,62,5.8,1.2,1.4,0.8,0.2,0.1,0.0,Financially average,Low government trust
+688,Paraguay,2019,63,5.7,0.9,1.5,0.8,0.5,0.2,0.1,Financially average,Low government trust
+689,Northern Cyprus,2019,64,5.7,1.3,1.3,1.0,0.4,0.2,0.2,Financially average,Low government trust
+690,Peru,2019,65,5.7,1.0,1.3,0.9,0.5,0.1,0.0,Financially average,Low government trust
+691,Portugal,2019,66,5.7,1.2,1.4,1.0,0.5,0.0,0.0,Financially average,Low government trust
+692,Pakistan,2019,67,5.7,0.7,0.9,0.5,0.3,0.2,0.1,Financially struggling,Low government trust
+693,Russia,2019,68,5.6,1.2,1.5,0.7,0.3,0.1,0.0,Financially average,Low government trust
+694,Philippines,2019,69,5.6,0.8,1.3,0.7,0.6,0.1,0.1,Financially average,Low government trust
+695,Serbia,2019,70,5.6,1.0,1.4,0.9,0.3,0.1,0.0,Financially average,Low government trust
+696,Moldova,2019,71,5.5,0.7,1.3,0.7,0.2,0.2,0.0,Financially struggling,Low government trust
+697,Libya,2019,72,5.5,1.0,1.3,0.7,0.4,0.1,0.2,Financially average,Low government trust
+698,Montenegro,2019,73,5.5,1.1,1.4,0.9,0.2,0.1,0.1,Financially average,Low government trust
+699,Tajikistan,2019,74,5.5,0.5,1.1,0.7,0.4,0.2,0.1,Financially struggling,Low government trust
+700,Croatia,2019,75,5.4,1.2,1.3,0.9,0.3,0.1,0.0,Financially average,Low government trust
+701,Hong Kong,2019,76,5.4,1.4,1.3,1.1,0.4,0.3,0.3,Financially well-off,Average government trust
+702,Dominican Republic,2019,77,5.4,1.0,1.4,0.8,0.5,0.1,0.1,Financially average,Low government trust
+703,Bosnia and Herzegovina,2019,78,5.4,0.9,1.2,0.8,0.2,0.3,0.0,Financially average,Low government trust
+704,Turkey,2019,79,5.4,1.2,1.4,0.8,0.2,0.1,0.1,Financially average,Low government trust
+705,Malaysia,2019,80,5.3,1.2,1.2,0.8,0.5,0.3,0.0,Financially average,Low government trust
+706,Belarus,2019,81,5.3,1.1,1.5,0.8,0.2,0.1,0.1,Financially average,Low government trust
+707,Greece,2019,82,5.3,1.2,1.2,1.0,0.1,0.0,0.0,Financially average,Low government trust
+708,Mongolia,2019,83,5.3,0.9,1.5,0.7,0.3,0.2,0.0,Financially average,Low government trust
+709,North Macedonia,2019,84,5.3,1.0,1.3,0.8,0.3,0.2,0.0,Financially average,Low government trust
+710,Nigeria,2019,85,5.3,0.7,1.1,0.2,0.4,0.2,0.0,Financially struggling,Low government trust
+711,Kyrgyzstan,2019,86,5.3,0.6,1.4,0.7,0.5,0.3,0.0,Financially struggling,Low government trust
+712,Turkmenistan,2019,87,5.2,1.1,1.5,0.7,0.4,0.2,0.0,Financially average,Low government trust
+713,Algeria,2019,88,5.2,1.0,1.2,0.8,0.1,0.1,0.1,Financially average,Low government trust
+714,Morocco,2019,89,5.2,0.8,0.8,0.8,0.4,0.0,0.1,Financially average,Low government trust
+715,Azerbaijan,2019,90,5.2,1.0,1.1,0.8,0.4,0.0,0.2,Financially average,Low government trust
+716,Lebanon,2019,91,5.2,1.0,1.2,0.8,0.2,0.2,0.0,Financially average,Low government trust
+717,Indonesia,2019,92,5.2,0.9,1.2,0.7,0.5,0.5,0.0,Financially average,Low government trust
+718,China,2019,93,5.2,1.0,1.1,0.9,0.5,0.1,0.1,Financially average,Low government trust
+719,Vietnam,2019,94,5.2,0.7,1.3,0.9,0.5,0.1,0.1,Financially struggling,Low government trust
+720,Bhutan,2019,95,5.1,0.8,1.3,0.6,0.5,0.4,0.2,Financially average,Low government trust
+721,Cameroon,2019,96,5.0,0.5,0.9,0.3,0.4,0.2,0.0,Financially struggling,Low government trust
+722,Bulgaria,2019,97,5.0,1.1,1.5,0.8,0.3,0.1,0.0,Financially average,Low government trust
+723,Ghana,2019,98,5.0,0.6,0.9,0.5,0.4,0.2,0.0,Financially struggling,Low government trust
+724,Ivory Coast,2019,99,4.9,0.6,0.8,0.2,0.4,0.2,0.1,Financially struggling,Low government trust
+725,Nepal,2019,100,4.9,0.4,1.2,0.7,0.4,0.3,0.1,Financially struggling,Low government trust
+726,Jordan,2019,101,4.9,0.8,1.2,0.8,0.4,0.1,0.1,Financially average,Low government trust
+727,Benin,2019,102,4.9,0.4,0.4,0.4,0.3,0.2,0.1,Financially struggling,Low government trust
+728,Congo (Brazzaville),2019,103,4.8,0.7,0.8,0.5,0.4,0.1,0.1,Financially struggling,Low government trust
+729,Gabon,2019,104,4.8,1.1,1.2,0.6,0.3,0.0,0.1,Financially average,Low government trust
+730,Laos,2019,105,4.8,0.8,1.0,0.6,0.5,0.3,0.2,Financially average,Low government trust
+731,South Africa,2019,106,4.7,1.0,1.4,0.5,0.4,0.1,0.1,Financially average,Low government trust
+732,Albania,2019,107,4.7,0.9,0.8,0.9,0.4,0.2,0.0,Financially average,Low government trust
+733,Venezuela,2019,108,4.7,1.0,1.4,0.8,0.2,0.1,0.0,Financially average,Low government trust
+734,Cambodia,2019,109,4.7,0.6,1.1,0.6,0.6,0.2,0.1,Financially struggling,Low government trust
+735,Palestinian Territories,2019,110,4.7,0.7,1.2,0.7,0.2,0.1,0.1,Financially struggling,Low government trust
+736,Senegal,2019,111,4.7,0.4,1.1,0.6,0.3,0.2,0.1,Financially struggling,Low government trust
+737,Somalia,2019,112,4.7,0.0,0.7,0.3,0.6,0.2,0.3,Financially struggling,Average government trust
+738,Namibia,2019,113,4.6,0.9,1.3,0.5,0.4,0.1,0.1,Financially average,Low government trust
+739,Niger,2019,114,4.6,0.1,0.8,0.4,0.3,0.2,0.1,Financially struggling,Low government trust
+740,Burkina Faso,2019,115,4.6,0.3,1.1,0.4,0.3,0.2,0.1,Financially struggling,Low government trust
+741,Armenia,2019,116,4.6,0.8,1.1,0.8,0.3,0.1,0.1,Financially average,Low government trust
+742,Iran,2019,117,4.5,1.1,0.8,0.8,0.3,0.3,0.1,Financially average,Low government trust
+743,Guinea,2019,118,4.5,0.4,0.8,0.4,0.3,0.2,0.1,Financially struggling,Low government trust
+744,Georgia,2019,119,4.5,0.9,0.7,0.8,0.3,0.0,0.2,Financially average,Low government trust
+745,Gambia,2019,120,4.5,0.3,0.9,0.4,0.4,0.3,0.2,Financially struggling,Low government trust
+746,Kenya,2019,121,4.5,0.5,1.0,0.6,0.4,0.4,0.1,Financially struggling,Low government trust
+747,Mauritania,2019,122,4.5,0.6,1.2,0.5,0.1,0.1,0.1,Financially struggling,Low government trust
+748,Mozambique,2019,123,4.5,0.2,1.0,0.4,0.5,0.2,0.1,Financially struggling,Low government trust
+749,Tunisia,2019,124,4.5,0.9,1.0,0.8,0.2,0.1,0.1,Financially average,Low government trust
+750,Bangladesh,2019,125,4.5,0.6,0.9,0.7,0.5,0.2,0.1,Financially struggling,Low government trust
+751,Iraq,2019,126,4.4,1.0,1.0,0.6,0.2,0.1,0.1,Financially average,Low government trust
+752,Congo (Kinshasa),2019,127,4.4,0.1,1.1,0.4,0.3,0.2,0.1,Financially struggling,Low government trust
+753,Mali,2019,128,4.4,0.4,1.1,0.3,0.3,0.2,0.1,Financially struggling,Low government trust
+754,Sierra Leone,2019,129,4.4,0.3,0.8,0.2,0.3,0.3,0.0,Financially struggling,Low government trust
+755,Sri Lanka,2019,130,4.4,0.9,1.3,0.8,0.5,0.2,0.0,Financially average,Low government trust
+756,Myanmar,2019,131,4.4,0.7,1.2,0.6,0.5,0.6,0.2,Financially struggling,Low government trust
+757,Chad,2019,132,4.4,0.4,0.8,0.2,0.2,0.2,0.1,Financially struggling,Low government trust
+758,Ukraine,2019,133,4.3,0.8,1.4,0.7,0.2,0.2,0.0,Financially average,Low government trust
+759,Ethiopia,2019,134,4.3,0.3,1.0,0.5,0.3,0.2,0.1,Financially struggling,Low government trust
+760,Swaziland,2019,135,4.2,0.8,1.1,0.0,0.3,0.1,0.1,Financially average,Low government trust
+761,Uganda,2019,136,4.2,0.3,1.1,0.4,0.4,0.3,0.1,Financially struggling,Low government trust
+762,Egypt,2019,137,4.2,0.9,1.0,0.6,0.2,0.1,0.1,Financially average,Low government trust
+763,Zambia,2019,138,4.1,0.6,1.1,0.4,0.4,0.2,0.1,Financially struggling,Low government trust
+764,Togo,2019,139,4.1,0.3,0.6,0.4,0.3,0.2,0.1,Financially struggling,Low government trust
+765,India,2019,140,4.0,0.8,0.8,0.6,0.5,0.2,0.1,Financially average,Low government trust
+766,Liberia,2019,141,4.0,0.1,0.9,0.4,0.4,0.2,0.0,Financially struggling,Low government trust
+767,Comoros,2019,142,4.0,0.3,0.8,0.5,0.1,0.3,0.1,Financially struggling,Low government trust
+768,Madagascar,2019,143,3.9,0.3,0.9,0.6,0.1,0.2,0.0,Financially struggling,Low government trust
+769,Lesotho,2019,144,3.8,0.5,1.2,0.2,0.4,0.1,0.1,Financially struggling,Low government trust
+770,Burundi,2019,145,3.8,0.0,0.4,0.4,0.2,0.2,0.2,Financially struggling,Low government trust
+771,Zimbabwe,2019,146,3.7,0.4,1.1,0.4,0.4,0.2,0.1,Financially struggling,Low government trust
+772,Haiti,2019,147,3.6,0.3,0.7,0.4,0.0,0.4,0.1,Financially struggling,Low government trust
+773,Botswana,2019,148,3.5,1.0,1.1,0.5,0.5,0.0,0.1,Financially average,Low government trust
+774,Syria,2019,149,3.5,0.6,0.4,0.4,0.0,0.3,0.1,Financially struggling,Low government trust
+775,Malawi,2019,150,3.4,0.2,0.6,0.5,0.4,0.2,0.1,Financially struggling,Low government trust
+776,Yemen,2019,151,3.4,0.3,1.2,0.5,0.1,0.1,0.1,Financially struggling,Low government trust
+777,Rwanda,2019,152,3.3,0.4,0.7,0.6,0.6,0.2,0.4,Financially struggling,High government trust
+778,Tanzania,2019,153,3.2,0.5,0.9,0.5,0.4,0.3,0.1,Financially struggling,Low government trust
+779,Afghanistan,2019,154,3.2,0.4,0.5,0.4,0.0,0.2,0.0,Financially struggling,Low government trust
+780,Central African Republic,2019,155,3.1,0.0,0.0,0.1,0.2,0.2,0.0,Financially struggling,Low government trust
+781,South Sudan,2019,156,2.9,0.3,0.6,0.3,0.0,0.2,0.1,Financially struggling,Low government trust
