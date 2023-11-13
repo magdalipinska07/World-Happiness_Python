@@ -20,3 +20,4 @@ For this analysis, I used a World Happiness dataset from Kaggle. The happiness s
 
 
 ## Visualization
+[Tableau Presentation] (https://public.tableau.com/app/profile/magdalena.lipinska/viz/MagdalenaWorldHappinesTableau/Story1?publish=yes) 
