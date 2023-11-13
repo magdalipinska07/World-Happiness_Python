@@ -21,7 +21,7 @@ For this analysis, I used a World Happiness dataset from Kaggle. The happiness s
 
 ## Visualization
 
-Visualizations for this project were created in Tableau and can be found [[here](https://public.tableau.com/app/profile/magdalena.lipinska/viz/MagdalenaWorldHappinesTableau/Story1?publish=yes) )](https://public.tableau.com/app/profile/magdalena.lipinska/viz/MagdalenaWorldHappinesTableau/Story1?publish=yes) 
+Visualizations for this project were created in Tableau and can be found [[here](https://public.tableau.com/app/profile/magdalena.lipinska/viz/MagdalenaWorldHappinesTableau/Story1?publish=yes) )]
 
 
 
